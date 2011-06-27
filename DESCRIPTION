@@ -7,7 +7,7 @@ Author: James Perkins, Matthias Kohl
 Maintainer: James Perkins <jperkins@biochem.ucl.ac.uk>
 Depends: R(>= 2.10.0), Biobase, methods, affy
 Imports: Biobase
-biocView: DataImport, MicrotitrePlateAssay, GeneExpression
+biocView: DataImport, MicrotitrePlateAssay, GeneExpression, qPCR
 License: LGPL-3
 LazyLoad: yes
 URL: http://qpcr.r-forge.r-project.org/
