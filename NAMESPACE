@@ -1,0 +1,13 @@
+export(read.taqman, read.qPCR, checkValidTaqmanFilenames, checkValidqPCRFilename, exprs.well.order, "exprs.well.order<-")
+exportClasses(qPCRBatch)
+importClassesFrom(Biobase,
+                  AnnotatedDataFrame,
+                  AssayData,
+                  MIAME,
+                  Versioned,
+                  VersionedBiobase,
+                  Versions,
+                  eSet,
+                  ExpressionSet)
+importFrom("Biobase", "exprs")
+importFrom("Biobase", "exprs<-")

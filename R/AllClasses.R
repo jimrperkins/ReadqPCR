@@ -1,0 +1,2 @@
+setClass("qPCRBatch", contains = "eSet")
+

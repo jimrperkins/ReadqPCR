@@ -1,0 +1,1539 @@
+SDS 2.1RQ Results	1																								
+Filename	Untitled 1																								
+Assay Type	RQ Study																								
+EmbeddedFile	john dawes card 5																								
+Run DateTime	Wed Feb 13 10:02:21 GMT 2008																								
+Operator																									
+ThermalCycleParams																									
+EmbeddedFile	john dawes card 6																								
+Run DateTime	Wed Feb 13 12:53:00 GMT 2008																								
+Operator																									
+ThermalCycleParams																									
+
+Well	PlateID	Sample	Detector	Task	Ct	delta Rn	delta Ct	Ct Avg	Ct SD	Avg Delta Ct	delta Ct SD	Endo Ct Avg	Endo Ct SD	delta delta Ct	RQ	RQ Min	RQ Max	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	Instrument	Outlier	Filename
+1	PlateA	gp 1 day 3 v	Il12a-Rn00584538_m1	Target	32.80548	8.711824		32.80548		12.971819		19.833662		0	1			Automatic			Automatic	1.0853567	201204		john dawes card 5
+2	PlateA	gp 1 day 3 v	Cebpe-Rn00567306_g1	Target	33.636456	2.5211034		33.636456		13.8027935		19.833662		0	1			Automatic			Automatic	0.31868854	201204		john dawes card 5
+3	PlateA	gp 1 day 3 v	Il5-Rn01459975_m1	Target	Undetermined	0.010748029		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+4	PlateA	gp 1 day 3 v	Slit2-Rn00575268_m1	Target	31.849178	5.5778646		31.849178		12.015516		19.833662		0	1			Automatic			Automatic	0.68108386	201204		john dawes card 5
+5	PlateA	gp 1 day 3 v	Ptgds-Rn00564605_m1	Target	28.416899	6.4917917		28.416899		8.583237		19.833662		0	1			Automatic			Automatic	0.7757821	201204		john dawes card 5
+6	PlateA	gp 1 day 3 v	Cxcr3-Rn00584689_m1	Target	35.884705	3.3184988		35.884705		16.051043		19.833662		0	1			Automatic			Automatic	0.5745667	201204		john dawes card 5
+7	PlateA	gp 1 day 3 v	Il2-Rn00587673_m1	Target	Undetermined	0.01928997		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+8	PlateA	gp 1 day 3 v	Il8ra-Rn00570857_s1	Target	Undetermined	0.048033595		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+9	PlateA	gp 1 day 3 v	Rgs3-Rn00571037_m1	Target	35.933826	3.6016157		35.933826		16.100164		19.833662		0	1			Automatic			Automatic	0.74907106	201204		john dawes card 5
+10	PlateA	gp 1 day 3 v	Alpl-Rn00564931_m1	Target	25.778297	7.7899413		25.778297		5.9446354		19.833662		0	1			Automatic			Automatic	0.8204313	201204		john dawes card 5
+11	PlateA	gp 1 day 3 v	18S-Hs99999901_s1	Endogenous Control	19.833662	6.86087		19.833662				19.833662						Automatic			Automatic	0.7598856	201204		john dawes card 5
+12	PlateA	gp 1 day 3 v	Pdgfa-Rn00709363_m1	Target	30.64505	7.169204		30.64505		10.811388		19.833662		0	1			Automatic			Automatic	1.0923299	201204		john dawes card 5
+13	PlateA	gp 1 day 3 v	Mmp13-Rn01448197_m1	Target	26.189451	5.382326		26.189451		6.355789		19.833662		0	1			Automatic			Automatic	0.39668465	201204		john dawes card 5
+14	PlateA	gp 1 day 3 v	Tnf-Rn99999017_m1	Target	35.72747	1.9860526		35.72747		15.893808		19.833662		0	1			Automatic			Automatic	0.21698071	201204		john dawes card 5
+15	PlateA	gp 1 day 3 v	Grb2-Rn00578230_m1	Target	Undetermined	-0.004002929		40		20.166338		19.833662						Automatic			Automatic	0.24295665	201204		john dawes card 5
+16	PlateA	gp 1 day 3 v	Il1b-Rn00580432_m1	Target	34.04044	4.4884377		34.04044		14.206778		19.833662		0	1			Automatic			Automatic	0.6899926	201204		john dawes card 5
+17	PlateA	gp 1 day 3 v	Ccl9-Rn01471276_m1	Target	34.73279	2.9348958		34.73279		14.89913		19.833662		0	1			Automatic			Automatic	0.6091474	201204		john dawes card 5
+18	PlateA	gp 1 day 3 v	Cxcl10-Rn00594648_m1	Target	33.89068	4.8223643		33.89068		14.057016		19.833662		0	1			Automatic			Automatic	0.7329111	201204		john dawes card 5
+19	PlateA	gp 1 day 3 v	Runx2-Rn01512296_m1	Target	28.91836	4.0703454		28.91836		9.084698		19.833662		0	1			Automatic			Automatic	0.49735337	201204		john dawes card 5
+20	PlateA	gp 1 day 3 v	Ccr1-Rn00571950_s1	Target	32.799763	3.4327185		32.799763		12.966101		19.833662		0	1			Automatic			Automatic	0.4652991	201204		john dawes card 5
+21	PlateA	gp 1 day 3 v	Cx3cr1-Rn00591798_m1	Target	31.709377	6.7691765		31.709377		11.875715		19.833662		0	1			Automatic			Automatic	0.9117795	201204		john dawes card 5
+22	PlateA	gp 1 day 3 v	Ccl4-Rn00587826_m1	Target	33.73248	3.07498		33.73248		13.898817		19.833662		0	1			Automatic			Automatic	0.44978127	201204		john dawes card 5
+23	PlateA	gp 1 day 3 v	Ifng-Rn00594078_m1	Target	Undetermined	0.017425537		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+24	PlateA	gp 1 day 3 v	Gpr30-Rn00592091_s1	Target	30.141844	6.0108047		30.141844		10.308182		19.833662		0	1			Automatic			Automatic	0.714589	201204		john dawes card 5
+25	PlateA	gp 1 day 3 v	Col2a1-Rn00491926_g1	Target	19.598751	8.692168		19.598751		-0.23491096		19.833662		0	1			Automatic			Automatic	0.8543828	201204		john dawes card 5
+26	PlateA	gp 1 day 3 v	Cxcl2-Rn00586403_m1	Target	Undetermined	0.023657322		40		20.166338		19.833662						Automatic			Automatic	0.44646907	201204		john dawes card 5
+27	PlateA	gp 1 day 3 v	Bdnf-Rn00560868_m1	Target	Undetermined	0.013683438		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+28	PlateA	gp 1 day 3 v	Il12b-Rn00575112_m1	Target	Undetermined	0.00901711		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+29	PlateA	gp 1 day 3 v	Il6-Rn00561420_m1	Target	Undetermined	0.04196298		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+30	PlateA	gp 1 day 3 v	Tnfrsf1a-Rn00565310_m1	Target	30.930983	3.5858681		30.930983		11.097321		19.833662		0	1			Automatic			Automatic	0.52896345	201204		john dawes card 5
+31	PlateA	gp 1 day 3 v	Il8rb-Rn00567841_m1	Target	34.84053	3.6446927		34.84053		15.006868		19.833662		0	1			Automatic			Automatic	0.5313337	201204		john dawes card 5
+32	PlateA	gp 1 day 3 v	Cxcl11-Rn00788262_g1	Target	33.010944	2.1183069		33.010944		13.177282		19.833662		0	1			Automatic			Automatic	0.07185659	201204		john dawes card 5
+33	PlateA	gp 1 day 3 v	Vegfa-Rn00582935_m1	Target	29.389622	6.7543445		29.389622		9.55596		19.833662		0	1			Automatic			Automatic	0.89241314	201204		john dawes card 5
+34	PlateA	gp 1 day 3 v	Il13-Rn00587615_m1	Target	Undetermined	0.016829133		40		20.166338		19.833662						Automatic			Automatic	0.41847768	201204		john dawes card 5
+35	PlateA	gp 1 day 3 v	Ccl20-Rn00570287_m1	Target	Undetermined	0.001580238		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+36	PlateA	gp 1 day 3 v	Tac1-Rn00562002_m1	Target	32.297207	6.051032		32.297207		12.463545		19.833662		0	1			Automatic			Automatic	0.48053753	201204		john dawes card 5
+37	PlateA	gp 1 day 3 v	B2m-Rn00560865_m1	Target	25.88168	6.9310527		25.88168		6.0480175		19.833662		0	1			Automatic			Automatic	0.88220936	201204		john dawes card 5
+38	PlateA	gp 1 day 3 v	Actb-Rn00667869_m1	Endogenous Control	23.785488	7.6664166						19.833662						Automatic			Automatic	0.750128	201204		john dawes card 5
+39	PlateA	gp 1 day 3 v	Hif1a-Rn00577560_m1	Target	28.507753	6.9011927		28.507753		8.674091		19.833662		0	1			Automatic			Automatic	0.9792785	201204		john dawes card 5
+40	PlateA	gp 1 day 3 v	Ccl17-Rn00589290_m1	Target	Undetermined	0.006899238		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+41	PlateA	gp 1 day 3 v	Pten-Rn00477208_m1	Target	28.017515	5.7565045		28.017515		8.183853		19.833662		0	1			Automatic			Automatic	0.67247266	201204		john dawes card 5
+42	PlateA	gp 1 day 3 v	Ngfb-Rn01533872_m1	Target	34.278336	5.178957		34.278336		14.444674		19.833662		0	1			Automatic			Automatic	0.85080117	201204		john dawes card 5
+43	PlateA	gp 1 day 3 v	Il10-Rn00563409_m1	Target	35.0604	2.2007835		35.0604		15.226736		19.833662		0	1			Automatic			Automatic	0.28507942	201204		john dawes card 5
+44	PlateA	gp 1 day 3 v	Cxcl12-Rn00573260_m1	Target	29.93065	6.7134614		29.93065		10.096989		19.833662		0	1			Automatic			Automatic	0.9505656	201204		john dawes card 5
+45	PlateA	gp 1 day 3 v	Il1rap-Rn00492642_m1	Target	35.424988	5.2861967		35.424988		15.591326		19.833662		0	1			Automatic			Automatic	1.0946708	201204		john dawes card 5
+46	PlateA	gp 1 day 3 v	Stat3-Rn00562562_m1	Target	29.111732	6.1029077		29.111732		9.27807		19.833662		0	1			Automatic			Automatic	0.80549765	201204		john dawes card 5
+47	PlateA	gp 1 day 3 v	Ccr5-Rn00588629_m1	Target	34.270805	5.694514		34.270805		14.437143		19.833662		0	1			Automatic			Automatic	0.8350762	201204		john dawes card 5
+48	PlateA	gp 1 day 3 v	Cxcl1-Rn00578225_m1	Target	5.4562955	0.35795203		5.4562955		-14.377367		19.833662		0	1			Automatic			Automatic	0.111618675	201204		john dawes card 5
+49	PlateA	gp 1 day 3 v	Csf3-Rn00567344_m1	Target	Undetermined	0.009445429		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+50	PlateA	gp 1 day 3 v	Il18-Rn00824548_m1	Target	33.83327	4.3957176		33.83327		13.999609		19.833662		0	1			Automatic			Automatic	0.6543567	201204		john dawes card 5
+51	PlateA	gp 1 day 3 v	Ccr3-Rn00588614_m1	Target	Undetermined	0.018535256		40		20.166338		19.833662						Automatic			Automatic	0.1920776	201204		john dawes card 5
+52	PlateA	gp 1 day 3 v	Ccr4-Rn00591783_s1	Target	Undetermined	0.024804473		40		20.166338		19.833662						Automatic			Automatic	0.44860256	201204		john dawes card 5
+53	PlateA	gp 1 day 3 v	Ccr9-Rn00597283_m1	Target	Undetermined	0.03960383		40		20.166338		19.833662						Automatic			Automatic	0.3062018	201204		john dawes card 5
+54	PlateA	gp 1 day 3 v	Jak2-Rn00580452_m1	Target	30.758532	5.2116456		30.758532		10.92487		19.833662		0	1			Automatic			Automatic	0.7032019	201204		john dawes card 5
+55	PlateA	gp 1 day 3 v	Cmklr1-Rn00573616_s1	Target	32.495953	4.9933805		32.495953		12.662291		19.833662		0	1			Automatic			Automatic	0.74775267	201204		john dawes card 5
+56	PlateA	gp 1 day 3 v	Ccl2-Rn00580555_m1	Target	35.00709	1.1793925		35.00709		15.1734295		19.833662		0	1			Automatic			Automatic	0.26668566	201204		john dawes card 5
+57	PlateA	gp 1 day 3 v	Lif-Rn00573491_g1	Target	36.50719	2.941485		36.50719		16.673529		19.833662		0	1			Automatic			Automatic	0.70452154	201204		john dawes card 5
+58	PlateA	gp 1 day 3 v	Ccl22-Rn01536591_m1	Target	33.94689	3.287436		33.94689		14.11323		19.833662		0	1			Automatic			Automatic	0.5279876	201204		john dawes card 5
+59	PlateA	gp 1 day 3 v	Ccl7-Rn01467286_m1	Target	33.83251	3.732675		33.83251		13.99885		19.833662		0	1			Automatic			Automatic	0.3011645	201204		john dawes card 5
+60	PlateA	gp 1 day 3 v	Ccl28-Rn00586715_m1	Target	Undetermined	0.026970983		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+61	PlateA	gp 1 day 3 v	Adipoq-Rn00595250_m1	Target	33.843582	2.474982		33.843582		14.00992		19.833662		0	1			Automatic			Automatic	0.4963867	201204		john dawes card 5
+62	PlateA	gp 1 day 3 v	Col1a1-Rn00801649_g1	Target	22.472206	5.0996895		22.472206		2.638544		19.833662		0	1			Automatic			Automatic	0.7423907	201204		john dawes card 5
+63	PlateA	gp 1 day 3 v	Mmp7-Rn00563467_m1	Target	Undetermined	0.011541605		40		20.166338		19.833662						Automatic			Automatic	0.84121996	201204		john dawes card 5
+64	PlateA	gp 1 day 3 v	Ptgs2-Rn01483828_m1	Target	32.94683	4.0659304		32.94683		13.113169		19.833662		0	1			Automatic			Automatic	0.5957464	201204		john dawes card 5
+65	PlateA	gp 1 day 3 v	Igf1-Rn00710306_m1	Target	31.47901	3.792659		31.47901		11.645348		19.833662		0	1			Automatic			Automatic	0.5744112	201204		john dawes card 5
+66	PlateA	gp 1 day 3 v	Adrbk1-Rn00562822_m1	Target	30.445555	7.23581		30.445555		10.611893		19.833662		0	1			Automatic			Automatic	1.2070067	201204		john dawes card 5
+67	PlateA	gp 1 day 3 v	Tnfsf10-Rn00595556_m1	Target	35.290245	3.9509723		35.290245		15.456583		19.833662		0	1			Automatic			Automatic	0.83305323	201204		john dawes card 5
+68	PlateA	gp 1 day 3 v	Ccl3-Rn00564660_m1	Target	34.74008	0.5677494		34.74008		14.90642		19.833662		0	1			Automatic			Automatic	0.15417227	201204		john dawes card 5
+69	PlateA	gp 1 day 3 v	Ccr2-Rn00573193_s1	Target	31.451014	3.1979184		31.451014		11.617352		19.833662		0	1			Automatic			Automatic	0.4758446	201204		john dawes card 5
+70	PlateA	gp 1 day 3 v	Ccl11-Rn00569995_m1	Target	34.617878	1.3164554		34.617878		14.784216		19.833662		0	1			Automatic			Automatic	0.17114185	201204		john dawes card 5
+71	PlateA	gp 1 day 3 v	Txnip-Rn01533890_g1	Target	28.643074	6.182381		28.643074		8.809412		19.833662		0	1			Automatic			Automatic	0.662354	201204		john dawes card 5
+72	PlateA	gp 1 day 3 v	Nfkb1-Rn01399583_m1	Target	30.996143	5.7779837		30.996143		11.162481		19.833662		0	1			Automatic			Automatic	0.7297812	201204		john dawes card 5
+73	PlateA	gp 1 day 3 v	Xcl1-Rn00592605_m1	Target	Undetermined	0.035574436		40		20.166338		19.833662						Automatic			Automatic	0.62023246	201204		john dawes card 5
+74	PlateA	gp 1 day 3 v	Ccl21b-Rn01764651_g1	Target	35.734722	2.3220503		35.734722		15.90106		19.833662		0	1			Automatic			Automatic	0.39807236	201204		john dawes card 5
+75	PlateA	gp 1 day 3 v	Ccl5-Rn00579590_m1	Target	33.29686	4.0279846		33.29686		13.463198		19.833662		0	1			Automatic			Automatic	0.6527558	201204		john dawes card 5
+76	PlateA	gp 1 day 3 v	Ptges-Rn00572047_m1	Target	33.64095	6.1321645		33.64095		13.807287		19.833662		0	1			Automatic			Automatic	0.78465754	201204		john dawes card 5
+77	PlateA	gp 1 day 3 v	Tlr4-Rn00569848_m1	Target	35.111034	3.102576		35.111034		15.277372		19.833662		0	1			Automatic			Automatic	0.5898345	201204		john dawes card 5
+78	PlateA	gp 1 day 3 v	Cxcl9-Rn00595504_m1	Target	Undetermined	0.043849945		40		20.166338		19.833662						Automatic			Automatic	0.264642	201204		john dawes card 5
+79	PlateA	gp 1 day 3 v	Ltb4r-Rn00572209_s1	Target	Undetermined	0.02730292		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+80	PlateA	gp 1 day 3 v	Edn2-Rn00561135_m1	Target	Undetermined	0.006011486		40		20.166338		19.833662						Automatic			Automatic	0.26807687	201204		john dawes card 5
+81	PlateA	gp 1 day 3 v	Cxcl5-Rn00573587_g1	Target	35.892815	1.0775973		35.892815		16.059153		19.833662		0	1			Automatic			Automatic	0.28920352	201204		john dawes card 5
+82	PlateA	gp 1 day 3 v	C5r1-Rn00586108_m1	Target	31.214487	6.341132		31.214487		11.380825		19.833662		0	1			Automatic			Automatic	1.0817536	201204		john dawes card 5
+83	PlateA	gp 1 day 3 v	Ccl6-Rn01456402_g1	Target	30.993282	5.2764106		30.993282		11.15962		19.833662		0	1			Automatic			Automatic	0.6962746	201204		john dawes card 5
+84	PlateA	gp 1 day 3 v	Gapdh-Rn99999916_s1	Endogenous Control	24.54012	4.7840242						19.833662						Automatic			Automatic	0.68164515	201204		john dawes card 5
+85	PlateA	gp 1 day 3 v	Il4-Rn01456866_m1	Target	Undetermined	0.020002842		40		20.166338		19.833662						Automatic			Automatic	0.2	201204		john dawes card 5
+86	PlateA	gp 1 day 3 v	Vhl-Rn00583795_m1	Target	32.054028	4.429401		32.054028		12.220366		19.833662		0	1			Automatic			Automatic	0.7219793	201204		john dawes card 5
+87	PlateA	gp 1 day 3 v	Edn1-Rn00561129_m1	Target	34.428032	3.954879		34.428032		14.59437		19.833662		0	1			Automatic			Automatic	0.6102071	201204		john dawes card 5
+88	PlateA	gp 1 day 3 v	Ccl24-Rn01481451_m1	Target	34.08703	3.1562407		34.08703		14.253366		19.833662		0	1			Automatic			Automatic	0.34717923	201204		john dawes card 5
+89	PlateA	gp 1 day 3 v	Il1a-Rn00566700_m1	Target	36.955017	2.6284666		36.955017		17.121355		19.833662		0	1			Automatic			Automatic	0.5945674	201204		john dawes card 5
+90	PlateA	gp 1 day 3 v	Cxcr4-Rn00573522_s1	Target	30.38498	7.214047		30.38498		10.551317		19.833662		0	1			Automatic			Automatic	1.1622332	201204		john dawes card 5
+91	PlateA	gp 1 day 3 v	Agtrl1-Rn00580252_s1	Target	29.96367	6.013339		29.96367		10.130009		19.833662		0	1			Automatic			Automatic	0.87947166	201204		john dawes card 5
+92	PlateA	gp 1 day 3 v	Tgfb1-Rn00572010_m1	Target	27.888094	5.650664		27.888094		8.054432		19.833662		0	1			Automatic			Automatic	0.6000924	201204		john dawes card 5
+93	PlateA	gp 1 day 3 v	Fgf2-Rn00570809_m1	Target	31.990112	4.3209705		31.990112		12.15645		19.833662		0	1			Automatic			Automatic	0.6294169	201204		john dawes card 5
+94	PlateA	gp 1 day 3 v	Myd88-Rn01640052_g1	Target	32.090405	5.1457005		32.090405		12.2567425		19.833662		0	1			Automatic			Automatic	0.72092694	201204		john dawes card 5
+95	PlateA	gp 1 day 3 v	Ccbp2-Rn00589581_m1	Target	36.30394	2.326718		36.30394		16.470278		19.833662		0	1			Automatic			Automatic	0.39839536	201204		john dawes card 5
+96	PlateA	gp 1 day 3 v	Cx3cl1-Rn00593186_m1	Target	31.424805	4.793155		31.424805		11.591143		19.833662		0	1			Automatic			Automatic	0.6105048	201204		john dawes card 5
+97	PlateA	gp 2 day 3 v	Il12a-Rn00584538_m1	Target	32.035965	7.3381906		32.035965		11.884958		20.151007		-1.0868607	2.1241133			Automatic			Automatic	1.0853567	201204		john dawes card 5
+98	PlateA	gp 2 day 3 v	Cebpe-Rn00567306_g1	Target	31.69354	2.9917748		31.69354		11.542534		20.151007		-2.2602596	4.7907767			Automatic			Automatic	0.31868854	201204		john dawes card 5
+99	PlateA	gp 2 day 3 v	Il5-Rn01459975_m1	Target	Undetermined	0.014839053		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+100	PlateA	gp 2 day 3 v	Slit2-Rn00575268_m1	Target	29.740648	5.5556855		29.740648		9.589642		20.151007		-2.4258747	5.373547			Automatic			Automatic	0.68108386	201204		john dawes card 5
+101	PlateA	gp 2 day 3 v	Ptgds-Rn00564605_m1	Target	27.429619	5.284406		27.429619		7.278612		20.151007		-1.3046246	2.4701943			Automatic			Automatic	0.7757821	201204		john dawes card 5
+102	PlateA	gp 2 day 3 v	Cxcr3-Rn00584689_m1	Target	34.797543	3.8169203		34.797543		14.646536		20.151007		-1.4045067	2.6472723			Automatic			Automatic	0.5745667	201204		john dawes card 5
+103	PlateA	gp 2 day 3 v	Il2-Rn00587673_m1	Target	Undetermined	0.028350472		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+104	PlateA	gp 2 day 3 v	Il8ra-Rn00570857_s1	Target	Undetermined	0.021796346		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+105	PlateA	gp 2 day 3 v	Rgs3-Rn00571037_m1	Target	33.537228	4.4546103		33.537228		13.386221		20.151007		-2.7139435	6.561126			Automatic			Automatic	0.74907106	201204		john dawes card 5
+106	PlateA	gp 2 day 3 v	Alpl-Rn00564931_m1	Target	25.165499	6.971754		25.165499		5.014492		20.151007		-0.93014336	1.9054654			Automatic			Automatic	0.8204313	201204		john dawes card 5
+107	PlateA	gp 2 day 3 v	18S-Hs99999901_s1	Endogenous Control	20.151007	6.2710514		20.151007				20.151007						Automatic			Automatic	0.7598856	201204		john dawes card 5
+108	PlateA	gp 2 day 3 v	Pdgfa-Rn00709363_m1	Target	29.172876	7.0561066		29.172876		9.02187		20.151007		-1.7895184	3.4569945			Automatic			Automatic	1.0923299	201204		john dawes card 5
+109	PlateA	gp 2 day 3 v	Mmp13-Rn01448197_m1	Target	24.59832	5.233756		24.59832		4.4473133		20.151007		-1.9084759	3.754123			Automatic			Automatic	0.39668465	201204		john dawes card 5
+110	PlateA	gp 2 day 3 v	Tnf-Rn99999017_m1	Target	36.93962	1.0656084		36.93962		16.788614		20.151007		0.8948059	0.53781956			Automatic			Automatic	0.21698071	201204		john dawes card 5
+111	PlateA	gp 2 day 3 v	Grb2-Rn00578230_m1	Target	Undetermined	0.038630843		40		19.848993		20.151007						Automatic			Automatic	0.24295665	201204		john dawes card 5
+112	PlateA	gp 2 day 3 v	Il1b-Rn00580432_m1	Target	35.095135	3.654009		35.095135		14.944128		20.151007		0.73735046	0.59984			Automatic			Automatic	0.6899926	201204		john dawes card 5
+113	PlateA	gp 2 day 3 v	Ccl9-Rn01471276_m1	Target	31.944967	3.6279619		31.944967		11.793961		20.151007		-3.1051693	8.604965			Automatic			Automatic	0.6091474	201204		john dawes card 5
+114	PlateA	gp 2 day 3 v	Cxcl10-Rn00594648_m1	Target	32.400723	4.534435		32.400723		12.249716		20.151007		-1.8073006	3.4998682			Automatic			Automatic	0.7329111	201204		john dawes card 5
+115	PlateA	gp 2 day 3 v	Runx2-Rn01512296_m1	Target	28.492437	3.868908		28.492437		8.341431		20.151007		-0.74326706	1.6739624			Automatic			Automatic	0.49735337	201204		john dawes card 5
+116	PlateA	gp 2 day 3 v	Ccr1-Rn00571950_s1	Target	31.225166	3.874976		31.225166		11.07416		20.151007		-1.8919411	3.7113423			Automatic			Automatic	0.4652991	201204		john dawes card 5
+117	PlateA	gp 2 day 3 v	Cx3cr1-Rn00591798_m1	Target	31.844429	6.0247407		31.844429		11.693422		20.151007		-0.18229294	1.1346859			Automatic			Automatic	0.9117795	201204		john dawes card 5
+118	PlateA	gp 2 day 3 v	Ccl4-Rn00587826_m1	Target	34.173588	3.134341		34.173588		14.022581		20.151007		0.12376404	0.91779			Automatic			Automatic	0.44978127	201204		john dawes card 5
+119	PlateA	gp 2 day 3 v	Ifng-Rn00594078_m1	Target	Undetermined	0.019957721		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+120	PlateA	gp 2 day 3 v	Gpr30-Rn00592091_s1	Target	30.139532	5.4735136		30.139532		9.988525		20.151007		-0.31965637	1.2480333			Automatic			Automatic	0.714589	201204		john dawes card 5
+121	PlateA	gp 2 day 3 v	Col2a1-Rn00491926_g1	Target	19.36575	7.750523		19.36575		-0.78525734		20.151007		-0.5503464	1.4644372			Automatic			Automatic	0.8543828	201204		john dawes card 5
+122	PlateA	gp 2 day 3 v	Cxcl2-Rn00586403_m1	Target	Undetermined	0.050400138		40		19.848993		20.151007						Automatic			Automatic	0.44646907	201204		john dawes card 5
+123	PlateA	gp 2 day 3 v	Bdnf-Rn00560868_m1	Target	Undetermined	0.01123929		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+124	PlateA	gp 2 day 3 v	Il12b-Rn00575112_m1	Target	Undetermined	0.022726655		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+125	PlateA	gp 2 day 3 v	Il6-Rn00561420_m1	Target	Undetermined	0.01840067		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+126	PlateA	gp 2 day 3 v	Tnfrsf1a-Rn00565310_m1	Target	29.91356	3.619373		29.91356		9.762554		20.151007		-1.3347664	2.5223463			Automatic			Automatic	0.52896345	201204		john dawes card 5
+127	PlateA	gp 2 day 3 v	Il8rb-Rn00567841_m1	Target	33.481285	3.7252715		33.481285		13.330278		20.151007		-1.67659	3.1967146			Automatic			Automatic	0.5313337	201204		john dawes card 5
+128	PlateA	gp 2 day 3 v	Cxcl11-Rn00788262_g1	Target	32.295925	2.2948792		32.295925		12.144918		20.151007		-1.0323639	2.045373			Automatic			Automatic	0.07185659	201204		john dawes card 5
+129	PlateA	gp 2 day 3 v	Vegfa-Rn00582935_m1	Target	28.933714	6.055983		28.933714		8.782707		20.151007		-0.7732525	1.7091186			Automatic			Automatic	0.89241314	201204		john dawes card 5
+130	PlateA	gp 2 day 3 v	Il13-Rn00587615_m1	Target	36.98614	1.8278854		36.98614		16.835135		20.151007		-3.3312035	10.064499			Automatic			Automatic	0.41847768	201204		john dawes card 5
+131	PlateA	gp 2 day 3 v	Ccl20-Rn00570287_m1	Target	Undetermined	0.030689359		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+132	PlateA	gp 2 day 3 v	Tac1-Rn00562002_m1	Target	31.566587	5.314443		31.566587		11.415581		20.151007		-1.0479641	2.06761			Automatic			Automatic	0.48053753	201204		john dawes card 5
+133	PlateA	gp 2 day 3 v	B2m-Rn00560865_m1	Target	24.92832	6.277768		24.92832		4.777313		20.151007		-1.2707043	2.4127932			Automatic			Automatic	0.88220936	201204		john dawes card 5
+134	PlateA	gp 2 day 3 v	Actb-Rn00667869_m1	Endogenous Control	22.962227	6.554453						20.151007						Automatic			Automatic	0.750128	201204		john dawes card 5
+135	PlateA	gp 2 day 3 v	Hif1a-Rn00577560_m1	Target	27.767138	6.2371564		27.767138		7.616131		20.151007		-1.0579605	2.0819862			Automatic			Automatic	0.9792785	201204		john dawes card 5
+136	PlateA	gp 2 day 3 v	Ccl17-Rn00589290_m1	Target	Undetermined	0.014797568		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+137	PlateA	gp 2 day 3 v	Pten-Rn00477208_m1	Target	27.297333	4.7178526		27.297333		7.146326		20.151007		-1.0375271	2.052706			Automatic			Automatic	0.67247266	201204		john dawes card 5
+138	PlateA	gp 2 day 3 v	Ngfb-Rn01533872_m1	Target	32.361755	5.238381		32.361755		12.210749		20.151007		-2.2339249	4.70412			Automatic			Automatic	0.85080117	201204		john dawes card 5
+139	PlateA	gp 2 day 3 v	Il10-Rn00563409_m1	Target	Undetermined	0.054338694		40		19.848993		20.151007		4.622257	0.040603355			Automatic			Automatic	0.28507942	201204		john dawes card 5
+140	PlateA	gp 2 day 3 v	Cxcl12-Rn00573260_m1	Target	28.078478	6.7273345		28.078478		7.927471		20.151007		-2.1695175	4.498729			Automatic			Automatic	0.9505656	201204		john dawes card 5
+141	PlateA	gp 2 day 3 v	Il1rap-Rn00492642_m1	Target	33.876392	4.9026184		33.876392		13.725386		20.151007		-1.8659401	3.6450539			Automatic			Automatic	1.0946708	201204		john dawes card 5
+142	PlateA	gp 2 day 3 v	Stat3-Rn00562562_m1	Target	27.928774	5.6596794		27.928774		7.777767		20.151007		-1.5003033	2.8290217			Automatic			Automatic	0.80549765	201204		john dawes card 5
+143	PlateA	gp 2 day 3 v	Ccr5-Rn00588629_m1	Target	33.062847	5.8380847		33.062847		12.91184		20.151007		-1.5253029	2.8784714			Automatic			Automatic	0.8350762	201204		john dawes card 5
+144	PlateA	gp 2 day 3 v	Cxcl1-Rn00578225_m1	Target	33.4767	1.5733987		33.4767		13.325693		20.151007		27.70306	4.58E-09			Automatic			Automatic	0.111618675	201204		john dawes card 5
+145	PlateA	gp 2 day 3 v	Csf3-Rn00567344_m1	Target	Undetermined	0.00207746		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+146	PlateA	gp 2 day 3 v	Il18-Rn00824548_m1	Target	32.82855	4.43326		32.82855		12.677542		20.151007		-1.3220673	2.5002413			Automatic			Automatic	0.6543567	201204		john dawes card 5
+147	PlateA	gp 2 day 3 v	Ccr3-Rn00588614_m1	Target	35.99903	1.0059965		35.99903		15.848024		20.151007		-4.3183136	19.949955			Automatic			Automatic	0.1920776	201204		john dawes card 5
+148	PlateA	gp 2 day 3 v	Ccr4-Rn00591783_s1	Target	Undetermined	0.028271914		40		19.848993		20.151007						Automatic			Automatic	0.44860256	201204		john dawes card 5
+149	PlateA	gp 2 day 3 v	Ccr9-Rn00597283_m1	Target	35.23973	2.3884482		35.23973		15.088724		20.151007		-5.077614	33.76868			Automatic			Automatic	0.3062018	201204		john dawes card 5
+150	PlateA	gp 2 day 3 v	Jak2-Rn00580452_m1	Target	29.925278	4.581576		29.925278		9.774271		20.151007		-1.1505985	2.2200599			Automatic			Automatic	0.7032019	201204		john dawes card 5
+151	PlateA	gp 2 day 3 v	Cmklr1-Rn00573616_s1	Target	31.088657	5.517757		31.088657		10.937651		20.151007		-1.7246399	3.3049762			Automatic			Automatic	0.74775267	201204		john dawes card 5
+152	PlateA	gp 2 day 3 v	Ccl2-Rn00580555_m1	Target	32.37682	2.7434127		32.37682		12.225813		20.151007		-2.9476166	7.714735			Automatic			Automatic	0.26668566	201204		john dawes card 5
+153	PlateA	gp 2 day 3 v	Lif-Rn00573491_g1	Target	34.023193	4.2732277		34.023193		13.872187		20.151007		-2.801342	6.9708858			Automatic			Automatic	0.70452154	201204		john dawes card 5
+154	PlateA	gp 2 day 3 v	Ccl22-Rn01536591_m1	Target	35.922653	2.1402562		35.922653		15.7716465		20.151007		1.6584167	0.31678662			Automatic			Automatic	0.5279876	201204		john dawes card 5
+155	PlateA	gp 2 day 3 v	Ccl7-Rn01467286_m1	Target	35.411766	2.9356065		35.411766		15.260759		20.151007		1.2619095	0.41699168			Automatic			Automatic	0.3011645	201204		john dawes card 5
+156	PlateA	gp 2 day 3 v	Ccl28-Rn00586715_m1	Target	Undetermined	0.03199315		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+157	PlateA	gp 2 day 3 v	Adipoq-Rn00595250_m1	Target	32.595543	3.1272151		32.595543		12.444536		20.151007		-1.5653839	2.9595625			Automatic			Automatic	0.4963867	201204		john dawes card 5
+158	PlateA	gp 2 day 3 v	Col1a1-Rn00801649_g1	Target	19.646255	4.865681		19.646255		-0.5047512		20.151007		-3.1432953	8.835399			Automatic			Automatic	0.7423907	201204		john dawes card 5
+159	PlateA	gp 2 day 3 v	Mmp7-Rn00563467_m1	Target	Undetermined	0.022786796		40		19.848993		20.151007						Automatic			Automatic	0.84121996	201204		john dawes card 5
+160	PlateA	gp 2 day 3 v	Ptgs2-Rn01483828_m1	Target	31.496145	4.221997		31.496145		11.345139		20.151007		-1.7680302	3.405886			Automatic			Automatic	0.5957464	201204		john dawes card 5
+161	PlateA	gp 2 day 3 v	Igf1-Rn00710306_m1	Target	28.85878	4.1460114		28.85878		8.707773		20.151007		-2.9375744	7.661221			Automatic			Automatic	0.5744112	201204		john dawes card 5
+162	PlateA	gp 2 day 3 v	Adrbk1-Rn00562822_m1	Target	28.913813	6.8774276		28.913813		8.762806		20.151007		-1.8490868	3.6027205			Automatic			Automatic	1.2070067	201204		john dawes card 5
+163	PlateA	gp 2 day 3 v	Tnfsf10-Rn00595556_m1	Target	33.899555	4.0818763		33.899555		13.7485485		20.151007		-1.7080345	3.2671542			Automatic			Automatic	0.83305323	201204		john dawes card 5
+164	PlateA	gp 2 day 3 v	Ccl3-Rn00564660_m1	Target	35.634296	0.46128625		35.634296		15.48329		20.151007		0.57686996	0.6704167			Automatic			Automatic	0.15417227	201204		john dawes card 5
+165	PlateA	gp 2 day 3 v	Ccr2-Rn00573193_s1	Target	30.920519	3.6049898		30.920519		10.769512		20.151007		-0.84783936	1.7998035			Automatic			Automatic	0.4758446	201204		john dawes card 5
+166	PlateA	gp 2 day 3 v	Ccl11-Rn00569995_m1	Target	33.368534	2.131139		33.368534		13.217527		20.151007		-1.5666885	2.96224			Automatic			Automatic	0.17114185	201204		john dawes card 5
+167	PlateA	gp 2 day 3 v	Txnip-Rn01533890_g1	Target	27.597256	5.778771		27.597256		7.446249		20.151007		-1.363163	2.5724857			Automatic			Automatic	0.662354	201204		john dawes card 5
+168	PlateA	gp 2 day 3 v	Nfkb1-Rn01399583_m1	Target	30.132925	5.7015085		30.132925		9.981918		20.151007		-1.180563	2.266652			Automatic			Automatic	0.7297812	201204		john dawes card 5
+169	PlateA	gp 2 day 3 v	Xcl1-Rn00592605_m1	Target	Undetermined	0.033147097		40		19.848993		20.151007						Automatic			Automatic	0.62023246	201204		john dawes card 5
+170	PlateA	gp 2 day 3 v	Ccl21b-Rn01764651_g1	Target	33.67219	3.5574572		33.67219		13.521185		20.151007		-2.3798752	5.204917			Automatic			Automatic	0.39807236	201204		john dawes card 5
+171	PlateA	gp 2 day 3 v	Ccl5-Rn00579590_m1	Target	32.96763	4.1013794		32.96763		12.816622		20.151007		-0.6465759	1.5654484			Automatic			Automatic	0.6527558	201204		john dawes card 5
+172	PlateA	gp 2 day 3 v	Ptges-Rn00572047_m1	Target	33.038	6.0623007		33.038		12.8869915		20.151007		-0.9202957	1.8925031			Automatic			Automatic	0.78465754	201204		john dawes card 5
+173	PlateA	gp 2 day 3 v	Tlr4-Rn00569848_m1	Target	33.239136	3.652294		33.239136		13.088129		20.151007		-2.1892433	4.5606623			Automatic			Automatic	0.5898345	201204		john dawes card 5
+174	PlateA	gp 2 day 3 v	Cxcl9-Rn00595504_m1	Target	34.472157	2.61231		34.472157		14.32115		20.151007		-5.845188	57.48797			Automatic			Automatic	0.264642	201204		john dawes card 5
+175	PlateA	gp 2 day 3 v	Ltb4r-Rn00572209_s1	Target	Undetermined	0.024856448		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+176	PlateA	gp 2 day 3 v	Edn2-Rn00561135_m1	Target	Undetermined	0.008743405		40		19.848993		20.151007						Automatic			Automatic	0.26807687	201204		john dawes card 5
+177	PlateA	gp 2 day 3 v	Cxcl5-Rn00573587_g1	Target	Undetermined	0.03817427		40		19.848993		20.151007		3.7898407	0.07230099			Automatic			Automatic	0.28920352	201204		john dawes card 5
+178	PlateA	gp 2 day 3 v	C5r1-Rn00586108_m1	Target	30.734785	6.4342384		30.734785		10.583778		20.151007		-0.79704666	1.7375406			Automatic			Automatic	1.0817536	201204		john dawes card 5
+179	PlateA	gp 2 day 3 v	Ccl6-Rn01456402_g1	Target	30.89859	4.7391167		30.89859		10.747583		20.151007		-0.4120369	1.3305631			Automatic			Automatic	0.6962746	201204		john dawes card 5
+180	PlateA	gp 2 day 3 v	Gapdh-Rn99999916_s1	Endogenous Control	23.95371	5.2328506						20.151007						Automatic			Automatic	0.68164515	201204		john dawes card 5
+181	PlateA	gp 2 day 3 v	Il4-Rn01456866_m1	Target	Undetermined	0.011885762		40		19.848993		20.151007						Automatic			Automatic	0.2	201204		john dawes card 5
+182	PlateA	gp 2 day 3 v	Vhl-Rn00583795_m1	Target	31.098335	4.580294		31.098335		10.947329		20.151007		-1.273037	2.4166975			Automatic			Automatic	0.7219793	201204		john dawes card 5
+183	PlateA	gp 2 day 3 v	Edn1-Rn00561129_m1	Target	33.78793	4.25785		33.78793		13.636923		20.151007		-0.95744705	1.9418706			Automatic			Automatic	0.6102071	201204		john dawes card 5
+184	PlateA	gp 2 day 3 v	Ccl24-Rn01481451_m1	Target	33.71395	3.066538		33.71395		13.562944		20.151007		-0.69042206	1.6137556			Automatic			Automatic	0.34717923	201204		john dawes card 5
+185	PlateA	gp 2 day 3 v	Il1a-Rn00566700_m1	Target	Undetermined	0.021357894		40		19.848993		20.151007		2.7276382	0.15097293			Automatic			Automatic	0.5945674	201204		john dawes card 5
+186	PlateA	gp 2 day 3 v	Cxcr4-Rn00573522_s1	Target	28.71645	6.8321376		28.71645		8.565443		20.151007		-1.9858742	3.961026			Automatic			Automatic	1.1622332	201204		john dawes card 5
+187	PlateA	gp 2 day 3 v	Agtrl1-Rn00580252_s1	Target	28.91693	5.270531		28.91693		8.765923		20.151007		-1.3640862	2.5741322			Automatic			Automatic	0.87947166	201204		john dawes card 5
+188	PlateA	gp 2 day 3 v	Tgfb1-Rn00572010_m1	Target	26.93003	5.196254		26.93003		6.779024		20.151007		-1.2754078	2.4206724			Automatic			Automatic	0.6000924	201204		john dawes card 5
+189	PlateA	gp 2 day 3 v	Fgf2-Rn00570809_m1	Target	31.421062	4.5335317		31.421062		11.270056		20.151007		-0.8863945	1.8485506			Automatic			Automatic	0.6294169	201204		john dawes card 5
+190	PlateA	gp 2 day 3 v	Myd88-Rn01640052_g1	Target	31.546024	4.911966		31.546024		11.395018		20.151007		-0.86172485	1.8172096			Automatic			Automatic	0.72092694	201204		john dawes card 5
+191	PlateA	gp 2 day 3 v	Ccbp2-Rn00589581_m1	Target	35.06058	3.2192788		35.06058		14.9095745		20.151007		-1.5607033	2.9499762			Automatic			Automatic	0.39839536	201204		john dawes card 5
+192	PlateA	gp 2 day 3 v	Cx3cl1-Rn00593186_m1	Target	30.918196	4.618304		30.918196		10.767189		20.151007		-0.8239536	1.7702507			Automatic			Automatic	0.6105048	201204		john dawes card 5
+193	PlateA	gp 5 day 3 mia	Il12a-Rn00584538_m1	Target	36.94289	4.1223216		36.94289		16.672302		20.270588		3.7004833	0.076920755			Automatic			Automatic	1.0853567	201204		john dawes card 5
+194	PlateA	gp 5 day 3 mia	Cebpe-Rn00567306_g1	Target	36.9452	1.1781384		36.9452		16.674614		20.270588		2.8718204	0.13661422			Automatic			Automatic	0.31868854	201204		john dawes card 5
+195	PlateA	gp 5 day 3 mia	Il5-Rn01459975_m1	Target	Undetermined	0.01871252		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+196	PlateA	gp 5 day 3 mia	Slit2-Rn00575268_m1	Target	32.3231	4.4934773		32.3231		12.052513		20.270588		0.03699684	0.97468174			Automatic			Automatic	0.68108386	201204		john dawes card 5
+197	PlateA	gp 5 day 3 mia	Ptgds-Rn00564605_m1	Target	30.472284	4.9352098		30.472284		10.201696		20.270588		1.6184597	0.325683			Automatic			Automatic	0.7757821	201204		john dawes card 5
+198	PlateA	gp 5 day 3 mia	Cxcr3-Rn00584689_m1	Target	Undetermined	0.025425911		40		19.729412		20.270588		3.6783695	0.078108884			Automatic			Automatic	0.5745667	201204		john dawes card 5
+199	PlateA	gp 5 day 3 mia	Il2-Rn00587673_m1	Target	Undetermined	0.011886001		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+200	PlateA	gp 5 day 3 mia	Il8ra-Rn00570857_s1	Target	Undetermined	0.012808442		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+201	PlateA	gp 5 day 3 mia	Rgs3-Rn00571037_m1	Target	33.689358	3.8224423		33.689358		13.41877		20.270588		-2.6813946	6.414757			Automatic			Automatic	0.74907106	201204		john dawes card 5
+202	PlateA	gp 5 day 3 mia	Alpl-Rn00564931_m1	Target	24.926888	5.992205		24.926888		4.6562996		20.270588		-1.2883358	2.4424615			Automatic			Automatic	0.8204313	201204		john dawes card 5
+203	PlateA	gp 5 day 3 mia	18S-Hs99999901_s1	Endogenous Control	20.270588	5.9897575		20.270588				20.270588						Automatic			Automatic	0.7598856	201204		john dawes card 5
+204	PlateA	gp 5 day 3 mia	Pdgfa-Rn00709363_m1	Target	29.610363	6.56641		29.610363		9.339775		20.270588		-1.4716129	2.7733178			Automatic			Automatic	1.0923299	201204		john dawes card 5
+205	PlateA	gp 5 day 3 mia	Mmp13-Rn01448197_m1	Target	24.92005	4.106688		24.92005		4.6494617		20.270588		-1.7063274	3.2632906			Automatic			Automatic	0.39668465	201204		john dawes card 5
+206	PlateA	gp 5 day 3 mia	Tnf-Rn99999017_m1	Target	36.43199	1.4191673		36.43199		16.161404		20.270588		0.2675953	0.830703			Automatic			Automatic	0.21698071	201204		john dawes card 5
+207	PlateA	gp 5 day 3 mia	Grb2-Rn00578230_m1	Target	35.391644	0.72446376		35.391644		15.121056		20.270588		-5.0452824	33.020325			Automatic			Automatic	0.24295665	201204		john dawes card 5
+208	PlateA	gp 5 day 3 mia	Il1b-Rn00580432_m1	Target	35.602264	3.039754		35.602264		15.3316765		20.270588		1.1248989	0.45853415			Automatic			Automatic	0.6899926	201204		john dawes card 5
+209	PlateA	gp 5 day 3 mia	Ccl9-Rn01471276_m1	Target	33.380253	2.9826236		33.380253		13.109665		20.270588		-1.789465	3.4568667			Automatic			Automatic	0.6091474	201204		john dawes card 5
+210	PlateA	gp 5 day 3 mia	Cxcl10-Rn00594648_m1	Target	35.447414	2.8544667		35.447414		15.1768265		20.270588		1.1198101	0.46015438			Automatic			Automatic	0.7329111	201204		john dawes card 5
+211	PlateA	gp 5 day 3 mia	Runx2-Rn01512296_m1	Target	28.742887	3.4055233		28.742887		8.4723		20.270588		-0.61239815	1.5287983			Automatic			Automatic	0.49735337	201204		john dawes card 5
+212	PlateA	gp 5 day 3 mia	Ccr1-Rn00571950_s1	Target	32.773	3.0486884		32.773		12.502411		20.270588		-0.4636898	1.3790643			Automatic			Automatic	0.4652991	201204		john dawes card 5
+213	PlateA	gp 5 day 3 mia	Cx3cr1-Rn00591798_m1	Target	32.814217	5.0776553		32.814217		12.543629		20.270588		0.66791344	0.62941635			Automatic			Automatic	0.9117795	201204		john dawes card 5
+214	PlateA	gp 5 day 3 mia	Ccl4-Rn00587826_m1	Target	33.417606	3.4466426		33.417606		13.147018		20.270588		-0.7517986	1.6838908			Automatic			Automatic	0.44978127	201204		john dawes card 5
+215	PlateA	gp 5 day 3 mia	Ifng-Rn00594078_m1	Target	Undetermined	0.027693093		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+216	PlateA	gp 5 day 3 mia	Gpr30-Rn00592091_s1	Target	29.917349	4.525802		29.917349		9.646761		20.270588		-0.6614208	1.5816395			Automatic			Automatic	0.714589	201204		john dawes card 5
+217	PlateA	gp 5 day 3 mia	Col2a1-Rn00491926_g1	Target	18.953829	7.64143		18.953829		-1.3167591		20.270588		-1.0818481	2.116746			Automatic			Automatic	0.8543828	201204		john dawes card 5
+218	PlateA	gp 5 day 3 mia	Cxcl2-Rn00586403_m1	Target	Undetermined	0.017827868		40		19.729412		20.270588						Automatic			Automatic	0.44646907	201204		john dawes card 5
+219	PlateA	gp 5 day 3 mia	Bdnf-Rn00560868_m1	Target	Undetermined	0.004898787		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+220	PlateA	gp 5 day 3 mia	Il12b-Rn00575112_m1	Target	Undetermined	0.02286905		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+221	PlateA	gp 5 day 3 mia	Il6-Rn00561420_m1	Target	Undetermined	0.018835664		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+222	PlateA	gp 5 day 3 mia	Tnfrsf1a-Rn00565310_m1	Target	30.58751	3.3319168		30.58751		10.316921		20.270588		-0.7803993	1.7176062			Automatic			Automatic	0.52896345	201204		john dawes card 5
+223	PlateA	gp 5 day 3 mia	Il8rb-Rn00567841_m1	Target	36.6306	2.1882298		36.6306		16.360012		20.270588		1.3531437	0.39143816			Automatic			Automatic	0.5313337	201204		john dawes card 5
+224	PlateA	gp 5 day 3 mia	Cxcl11-Rn00788262_g1	Target	32.94726	2.2020621		32.94726		12.676674		20.270588		-0.50060844	1.4148101			Automatic			Automatic	0.07185659	201204		john dawes card 5
+225	PlateA	gp 5 day 3 mia	Vegfa-Rn00582935_m1	Target	29.150751	6.169078		29.150751		8.880163		20.270588		-0.6757965	1.5974785			Automatic			Automatic	0.89241314	201204		john dawes card 5
+226	PlateA	gp 5 day 3 mia	Il13-Rn00587615_m1	Target	Undetermined	0.025191069		40		19.729412		20.270588						Automatic			Automatic	0.41847768	201204		john dawes card 5
+227	PlateA	gp 5 day 3 mia	Ccl20-Rn00570287_m1	Target	Undetermined	0.026780128		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+228	PlateA	gp 5 day 3 mia	Tac1-Rn00562002_m1	Target	34.18249	4.1976185		34.18249		13.911903		20.270588		1.4483585	0.36643812			Automatic			Automatic	0.48053753	201204		john dawes card 5
+229	PlateA	gp 5 day 3 mia	B2m-Rn00560865_m1	Target	25.928251	6.1586914		25.928251		5.6576633		20.270588		-0.39035416	1.3107151			Automatic			Automatic	0.88220936	201204		john dawes card 5
+230	PlateA	gp 5 day 3 mia	Actb-Rn00667869_m1	Endogenous Control	23.275831	6.7422338						20.270588						Automatic			Automatic	0.750128	201204		john dawes card 5
+231	PlateA	gp 5 day 3 mia	Hif1a-Rn00577560_m1	Target	27.946089	6.3735337		27.946089		7.675501		20.270588		-0.99859047	1.9980469			Automatic			Automatic	0.9792785	201204		john dawes card 5
+232	PlateA	gp 5 day 3 mia	Ccl17-Rn00589290_m1	Target	Undetermined	0.020861506		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+233	PlateA	gp 5 day 3 mia	Pten-Rn00477208_m1	Target	27.91462	4.7449355		27.91462		7.6440315		20.270588		-0.5398216	1.4537928			Automatic			Automatic	0.67247266	201204		john dawes card 5
+234	PlateA	gp 5 day 3 mia	Ngfb-Rn01533872_m1	Target	33.953995	4.638132		33.953995		13.683407		20.270588		-0.7612667	1.6949782			Automatic			Automatic	0.85080117	201204		john dawes card 5
+235	PlateA	gp 5 day 3 mia	Il10-Rn00563409_m1	Target	36.952385	1.3286034		36.952385		16.681797		20.270588		1.455061	0.3647397			Automatic			Automatic	0.28507942	201204		john dawes card 5
+236	PlateA	gp 5 day 3 mia	Cxcl12-Rn00573260_m1	Target	32.948315	5.207628		32.948315		12.677727		20.270588		2.580738	0.16715541			Automatic			Automatic	0.9505656	201204		john dawes card 5
+237	PlateA	gp 5 day 3 mia	Il1rap-Rn00492642_m1	Target	34.55558	4.840918		34.55558		14.284992		20.270588		-1.3063335	2.4731221			Automatic			Automatic	1.0946708	201204		john dawes card 5
+238	PlateA	gp 5 day 3 mia	Stat3-Rn00562562_m1	Target	28.916811	5.2749515		28.916811		8.646223		20.270588		-0.6318474	1.5495479			Automatic			Automatic	0.80549765	201204		john dawes card 5
+239	PlateA	gp 5 day 3 mia	Ccr5-Rn00588629_m1	Target	34.675346	4.631337		34.675346		14.404758		20.270588		-0.032384872	1.0227014			Automatic			Automatic	0.8350762	201204		john dawes card 5
+240	PlateA	gp 5 day 3 mia	Cxcl1-Rn00578225_m1	Target	Undetermined	0.04447043		40		19.729412		20.270588		34.10678	5.41E-11			Automatic			Automatic	0.111618675	201204		john dawes card 5
+241	PlateA	gp 5 day 3 mia	Csf3-Rn00567344_m1	Target	Undetermined	0.013950706		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+242	PlateA	gp 5 day 3 mia	Il18-Rn00824548_m1	Target	34.714233	3.6965055		34.714233		14.4436455		20.270588		0.44403648	0.73507506			Automatic			Automatic	0.6543567	201204		john dawes card 5
+243	PlateA	gp 5 day 3 mia	Ccr3-Rn00588614_m1	Target	Undetermined	0.019966483		40		19.729412		20.270588						Automatic			Automatic	0.1920776	201204		john dawes card 5
+244	PlateA	gp 5 day 3 mia	Ccr4-Rn00591783_s1	Target	36.972164	1.7907515		36.972164		16.701576		20.270588		-3.4647617	11.040715			Automatic			Automatic	0.44860256	201204		john dawes card 5
+245	PlateA	gp 5 day 3 mia	Ccr9-Rn00597283_m1	Target	Undetermined	0.03092575		40		19.729412		20.270588						Automatic			Automatic	0.3062018	201204		john dawes card 5
+246	PlateA	gp 5 day 3 mia	Jak2-Rn00580452_m1	Target	30.28932	4.418449		30.28932		10.018732		20.270588		-0.90613747	1.8740214			Automatic			Automatic	0.7032019	201204		john dawes card 5
+247	PlateA	gp 5 day 3 mia	Cmklr1-Rn00573616_s1	Target	31.83053	4.8754373		31.83053		11.559942		20.270588		-1.1023483	2.147039			Automatic			Automatic	0.74775267	201204		john dawes card 5
+248	PlateA	gp 5 day 3 mia	Ccl2-Rn00580555_m1	Target	34.963337	1.2290905		34.963337		14.692749		20.270588		-0.48068047	1.3954017			Automatic			Automatic	0.26668566	201204		john dawes card 5
+249	PlateA	gp 5 day 3 mia	Lif-Rn00573491_g1	Target	34.322884	4.1318064		34.322884		14.052296		20.270588		-2.621233	6.1527567			Automatic			Automatic	0.70452154	201204		john dawes card 5
+250	PlateA	gp 5 day 3 mia	Ccl22-Rn01536591_m1	Target	35.92162	2.3775291		35.92162		15.6510315		20.270588		1.5378017	0.34440982			Automatic			Automatic	0.5279876	201204		john dawes card 5
+251	PlateA	gp 5 day 3 mia	Ccl7-Rn01467286_m1	Target	34.279896	3.9667764		34.279896		14.009308		20.270588		0.010457993	0.9927773			Automatic			Automatic	0.3011645	201204		john dawes card 5
+252	PlateA	gp 5 day 3 mia	Ccl28-Rn00586715_m1	Target	Undetermined	0.04941845		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+253	PlateA	gp 5 day 3 mia	Adipoq-Rn00595250_m1	Target	Undetermined	0.010910094		40		19.729412		20.270588		5.719492	0.018978477			Automatic			Automatic	0.4963867	201204		john dawes card 5
+254	PlateA	gp 5 day 3 mia	Col1a1-Rn00801649_g1	Target	22.424236	4.8636117		22.424236		2.1536484		20.270588		-0.4848957	1.3994846			Automatic			Automatic	0.7423907	201204		john dawes card 5
+255	PlateA	gp 5 day 3 mia	Mmp7-Rn00563467_m1	Target	Undetermined	0.016691566		40		19.729412		20.270588						Automatic			Automatic	0.84121996	201204		john dawes card 5
+256	PlateA	gp 5 day 3 mia	Ptgs2-Rn01483828_m1	Target	33.122147	3.895048		33.122147		12.851559		20.270588		-0.26161003	1.1988158			Automatic			Automatic	0.5957464	201204		john dawes card 5
+257	PlateA	gp 5 day 3 mia	Igf1-Rn00710306_m1	Target	32.1584	3.3202205		32.1584		11.887814		20.270588		0.24246597	0.84529924			Automatic			Automatic	0.5744112	201204		john dawes card 5
+258	PlateA	gp 5 day 3 mia	Adrbk1-Rn00562822_m1	Target	30.34134	6.8289657		30.34134		10.070751		20.270588		-0.5411415	1.4551234			Automatic			Automatic	1.2070067	201204		john dawes card 5
+259	PlateA	gp 5 day 3 mia	Tnfsf10-Rn00595556_m1	Target	35.704403	3.57031		35.704403		15.433815		20.270588		-0.02276802	1.0159068			Automatic			Automatic	0.83305323	201204		john dawes card 5
+260	PlateA	gp 5 day 3 mia	Ccl3-Rn00564660_m1	Target	36.0637	0.45442426		36.0637		15.793114		20.270588		0.88669395	0.5408521			Automatic			Automatic	0.15417227	201204		john dawes card 5
+261	PlateA	gp 5 day 3 mia	Ccr2-Rn00573193_s1	Target	32.661354	2.6452098		32.661354		12.390766		20.270588		0.7734146	0.58503115			Automatic			Automatic	0.4758446	201204		john dawes card 5
+262	PlateA	gp 5 day 3 mia	Ccl11-Rn00569995_m1	Target	37.16959	0.29428723		37.16959		16.899002		20.270588		2.1147861	0.2308798			Automatic			Automatic	0.17114185	201204		john dawes card 5
+263	PlateA	gp 5 day 3 mia	Txnip-Rn01533890_g1	Target	28.329826	5.8262177		28.329826		8.059238		20.270588		-0.75017357	1.6819952			Automatic			Automatic	0.662354	201204		john dawes card 5
+264	PlateA	gp 5 day 3 mia	Nfkb1-Rn01399583_m1	Target	30.818861	5.242393		30.818861		10.548273		20.270588		-0.6142082	1.5307177			Automatic			Automatic	0.7297812	201204		john dawes card 5
+265	PlateA	gp 5 day 3 mia	Xcl1-Rn00592605_m1	Target	Undetermined	0.034085035		40		19.729412		20.270588						Automatic			Automatic	0.62023246	201204		john dawes card 5
+266	PlateA	gp 5 day 3 mia	Ccl21b-Rn01764651_g1	Target	36.94107	1.4848455		36.94107		16.670483		20.270588		0.76942253	0.5866522			Automatic			Automatic	0.39807236	201204		john dawes card 5
+267	PlateA	gp 5 day 3 mia	Ccl5-Rn00579590_m1	Target	33.341637	3.8824608		33.341637		13.071049		20.270588		-0.39214897	1.3123468			Automatic			Automatic	0.6527558	201204		john dawes card 5
+268	PlateA	gp 5 day 3 mia	Ptges-Rn00572047_m1	Target	35.918182	4.12348		35.918182		15.647594		20.270588		1.8403072	0.2792623			Automatic			Automatic	0.78465754	201204		john dawes card 5
+269	PlateA	gp 5 day 3 mia	Tlr4-Rn00569848_m1	Target	34.825386	3.156061		34.825386		14.554798		20.270588		-0.72257423	1.6501237			Automatic			Automatic	0.5898345	201204		john dawes card 5
+270	PlateA	gp 5 day 3 mia	Cxcl9-Rn00595504_m1	Target	33.60449	2.842518		33.60449		13.3339		20.270588		-6.8324375	113.96425			Automatic			Automatic	0.264642	201204		john dawes card 5
+271	PlateA	gp 5 day 3 mia	Ltb4r-Rn00572209_s1	Target	Undetermined	0.013614357		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+272	PlateA	gp 5 day 3 mia	Edn2-Rn00561135_m1	Target	Undetermined	0.010681391		40		19.729412		20.270588						Automatic			Automatic	0.26807687	201204		john dawes card 5
+273	PlateA	gp 5 day 3 mia	Cxcl5-Rn00573587_g1	Target	Undetermined	0.044380307		40		19.729412		20.270588		3.6702595	0.078549206			Automatic			Automatic	0.28920352	201204		john dawes card 5
+274	PlateA	gp 5 day 3 mia	C5r1-Rn00586108_m1	Target	32.937733	5.6226516		32.937733		12.667145		20.270588		1.2863197	0.4099956			Automatic			Automatic	1.0817536	201204		john dawes card 5
+275	PlateA	gp 5 day 3 mia	Ccl6-Rn01456402_g1	Target	31.91216	4.4900827		31.91216		11.641573		20.270588		0.48195267	0.7160079			Automatic			Automatic	0.6962746	201204		john dawes card 5
+276	PlateA	gp 5 day 3 mia	Gapdh-Rn99999916_s1	Endogenous Control	23.889528	4.930363						20.270588						Automatic			Automatic	0.68164515	201204		john dawes card 5
+277	PlateA	gp 5 day 3 mia	Il4-Rn01456866_m1	Target	Undetermined	0.042778492		40		19.729412		20.270588						Automatic			Automatic	0.2	201204		john dawes card 5
+278	PlateA	gp 5 day 3 mia	Vhl-Rn00583795_m1	Target	31.351957	4.741162		31.351957		11.081369		20.270588		-1.1389961	2.2022772			Automatic			Automatic	0.7219793	201204		john dawes card 5
+279	PlateA	gp 5 day 3 mia	Edn1-Rn00561129_m1	Target	35.832386	2.8758328		35.832386		15.561798		20.270588		0.9674282	0.5114169			Automatic			Automatic	0.6102071	201204		john dawes card 5
+280	PlateA	gp 5 day 3 mia	Ccl24-Rn01481451_m1	Target	35.553165	2.4315894		35.553165		15.2825775		20.270588		1.029211	0.48997802			Automatic			Automatic	0.34717923	201204		john dawes card 5
+281	PlateA	gp 5 day 3 mia	Il1a-Rn00566700_m1	Target	Undetermined	0.021613836		40		19.729412		20.270588		2.608057	0.16401993			Automatic			Automatic	0.5945674	201204		john dawes card 5
+282	PlateA	gp 5 day 3 mia	Cxcr4-Rn00573522_s1	Target	31.24455	6.822027		31.24455		10.973963		20.270588		0.42264557	0.7460553			Automatic			Automatic	1.1622332	201204		john dawes card 5
+283	PlateA	gp 5 day 3 mia	Agtrl1-Rn00580252_s1	Target	29.569197	5.6184607		29.569197		9.298609		20.270588		-0.8313999	1.7794112			Automatic			Automatic	0.87947166	201204		john dawes card 5
+284	PlateA	gp 5 day 3 mia	Tgfb1-Rn00572010_m1	Target	27.483425	5.4233317		27.483425		7.212837		20.270588		-0.8415947	1.7920299			Automatic			Automatic	0.6000924	201204		john dawes card 5
+285	PlateA	gp 5 day 3 mia	Fgf2-Rn00570809_m1	Target	31.99444	4.4851465		31.99444		11.723852		20.270588		-0.4325981	1.349662			Automatic			Automatic	0.6294169	201204		john dawes card 5
+286	PlateA	gp 5 day 3 mia	Myd88-Rn01640052_g1	Target	32.429935	4.961225		32.429935		12.159348		20.270588		-0.09739494	1.06984			Automatic			Automatic	0.72092694	201204		john dawes card 5
+287	PlateA	gp 5 day 3 mia	Ccbp2-Rn00589581_m1	Target	Undetermined	0.02178371		40		19.729412		20.270588		3.2591343	0.10444865			Automatic			Automatic	0.39839536	201204		john dawes card 5
+288	PlateA	gp 5 day 3 mia	Cx3cl1-Rn00593186_m1	Target	33.656685	3.8403518		33.656685		13.386097		20.270588		1.7949543	0.2881807			Automatic			Automatic	0.6105048	201204		john dawes card 5
+289	PlateA	gp 6 day 3 mia	Il12a-Rn00584538_m1	Target	34.505486	6.128793		34.505486		14.299509		20.205976		1.3276901	0.3984056			Automatic			Automatic	1.0853567	201204		john dawes card 5
+290	PlateA	gp 6 day 3 mia	Cebpe-Rn00567306_g1	Target	36.95556	1.1381885		36.95556		16.749582		20.205976		2.9467888	0.12969647			Automatic			Automatic	0.31868854	201204		john dawes card 5
+291	PlateA	gp 6 day 3 mia	Il5-Rn01459975_m1	Target	Undetermined	0.014343023		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+292	PlateA	gp 6 day 3 mia	Slit2-Rn00575268_m1	Target	30.905914	4.8781924		30.905914		10.699938		20.205976		-1.3155785	2.489021			Automatic			Automatic	0.68108386	201204		john dawes card 5
+293	PlateA	gp 6 day 3 mia	Ptgds-Rn00564605_m1	Target	31.26557	4.9514847		31.26557		11.059593		20.205976		2.4763565	0.17969766			Automatic			Automatic	0.7757821	201204		john dawes card 5
+294	PlateA	gp 6 day 3 mia	Cxcr3-Rn00584689_m1	Target	35.034348	3.3851926		35.034348		14.828371		20.205976		-1.2226715	2.3337848			Automatic			Automatic	0.5745667	201204		john dawes card 5
+295	PlateA	gp 6 day 3 mia	Il2-Rn00587673_m1	Target	Undetermined	0.012536764		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+296	PlateA	gp 6 day 3 mia	Il8ra-Rn00570857_s1	Target	Undetermined	0.017629147		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+297	PlateA	gp 6 day 3 mia	Rgs3-Rn00571037_m1	Target	32.552963	5.167912		32.552963		12.346987		20.205976		-3.7531776	13.48401			Automatic			Automatic	0.74907106	201204		john dawes card 5
+298	PlateA	gp 6 day 3 mia	Alpl-Rn00564931_m1	Target	26.019709	6.657472		26.019709		5.813732		20.205976		-0.13090324	1.094979			Automatic			Automatic	0.8204313	201204		john dawes card 5
+299	PlateA	gp 6 day 3 mia	18S-Hs99999901_s1	Endogenous Control	20.205976	6.0807633		20.205976				20.205976						Automatic			Automatic	0.7598856	201204		john dawes card 5
+300	PlateA	gp 6 day 3 mia	Pdgfa-Rn00709363_m1	Target	29.732681	6.281063		29.732681		9.526705		20.205976		-1.2846832	2.4362855			Automatic			Automatic	1.0923299	201204		john dawes card 5
+301	PlateA	gp 6 day 3 mia	Mmp13-Rn01448197_m1	Target	25.564964	4.3496466		25.564964		5.358988		20.205976		-0.9968014	1.9955707			Automatic			Automatic	0.39668465	201204		john dawes card 5
+302	PlateA	gp 6 day 3 mia	Tnf-Rn99999017_m1	Target	35.92314	1.7960235		35.92314		15.717165		20.205976		-0.17664337	1.1302512			Automatic			Automatic	0.21698071	201204		john dawes card 5
+303	PlateA	gp 6 day 3 mia	Grb2-Rn00578230_m1	Target	Undetermined	0.03553748		40		19.794024		20.205976						Automatic			Automatic	0.24295665	201204		john dawes card 5
+304	PlateA	gp 6 day 3 mia	Il1b-Rn00580432_m1	Target	34.89191	3.6642146		34.89191		14.685934		20.205976		0.4791565	0.7173969			Automatic			Automatic	0.6899926	201204		john dawes card 5
+305	PlateA	gp 6 day 3 mia	Ccl9-Rn01471276_m1	Target	31.79712	3.6888342		31.79712		11.591143		20.205976		-3.3079872	9.903834			Automatic			Automatic	0.6091474	201204		john dawes card 5
+306	PlateA	gp 6 day 3 mia	Cxcl10-Rn00594648_m1	Target	33.402653	4.3753057		33.402653		13.196676		20.205976		-0.8603401	1.8154663			Automatic			Automatic	0.7329111	201204		john dawes card 5
+307	PlateA	gp 6 day 3 mia	Runx2-Rn01512296_m1	Target	28.936447	3.3836467		28.936447		8.730471		20.205976		-0.35422707	1.2783005			Automatic			Automatic	0.49735337	201204		john dawes card 5
+308	PlateA	gp 6 day 3 mia	Ccr1-Rn00571950_s1	Target	31.938543	3.554958		31.938543		11.732567		20.205976		-1.2335339	2.3514225			Automatic			Automatic	0.4652991	201204		john dawes card 5
+309	PlateA	gp 6 day 3 mia	Cx3cr1-Rn00591798_m1	Target	31.574762	5.9461904		31.574762		11.368786		20.205976		-0.5069294	1.4210225			Automatic			Automatic	0.9117795	201204		john dawes card 5
+310	PlateA	gp 6 day 3 mia	Ccl4-Rn00587826_m1	Target	35.944935	1.4289739		35.944935		15.738958		20.205976		1.8401413	0.27929443			Automatic			Automatic	0.44978127	201204		john dawes card 5
+311	PlateA	gp 6 day 3 mia	Ifng-Rn00594078_m1	Target	Undetermined	0.026526093		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+312	PlateA	gp 6 day 3 mia	Gpr30-Rn00592091_s1	Target	31.023724	4.8972807		31.023724		10.817747		20.205976		0.50956535	0.702434			Automatic			Automatic	0.714589	201204		john dawes card 5
+313	PlateA	gp 6 day 3 mia	Col2a1-Rn00491926_g1	Target	20.955412	7.62694		20.955412		0.7494354		20.205976		0.9843464	0.50545466			Automatic			Automatic	0.8543828	201204		john dawes card 5
+314	PlateA	gp 6 day 3 mia	Cxcl2-Rn00586403_m1	Target	Undetermined	0.02301538		40		19.794024		20.205976						Automatic			Automatic	0.44646907	201204		john dawes card 5
+315	PlateA	gp 6 day 3 mia	Bdnf-Rn00560868_m1	Target	Undetermined	0.010606527		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+316	PlateA	gp 6 day 3 mia	Il12b-Rn00575112_m1	Target	Undetermined	0.015404522		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+317	PlateA	gp 6 day 3 mia	Il6-Rn00561420_m1	Target	Undetermined	0.018522501		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+318	PlateA	gp 6 day 3 mia	Tnfrsf1a-Rn00565310_m1	Target	30.98611	3.2227092		30.98611		10.780134		20.205976		-0.31718636	1.2458984			Automatic			Automatic	0.52896345	201204		john dawes card 5
+319	PlateA	gp 6 day 3 mia	Il8rb-Rn00567841_m1	Target	35.926357	2.4793234		35.926357		15.720381		20.205976		0.7135124	0.6098336			Automatic			Automatic	0.5313337	201204		john dawes card 5
+320	PlateA	gp 6 day 3 mia	Cxcl11-Rn00788262_g1	Target	35.39112	1.1419786		35.39112		15.185144		20.205976		2.007862	0.24864131			Automatic			Automatic	0.07185659	201204		john dawes card 5
+321	PlateA	gp 6 day 3 mia	Vegfa-Rn00582935_m1	Target	30.591385	5.5018644		30.591385		10.385408		20.205976		0.8294487	0.56274426			Automatic			Automatic	0.89241314	201204		john dawes card 5
+322	PlateA	gp 6 day 3 mia	Il13-Rn00587615_m1	Target	Undetermined	0.017759085		40		19.794024		20.205976						Automatic			Automatic	0.41847768	201204		john dawes card 5
+323	PlateA	gp 6 day 3 mia	Ccl20-Rn00570287_m1	Target	Undetermined	0.01699686		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+324	PlateA	gp 6 day 3 mia	Tac1-Rn00562002_m1	Target	35.006966	3.9219239		35.006966		14.800989		20.205976		2.3374443	0.19786052			Automatic			Automatic	0.48053753	201204		john dawes card 5
+325	PlateA	gp 6 day 3 mia	B2m-Rn00560865_m1	Target	25.582743	6.508195		25.582743		5.376766		20.205976		-0.6712513	1.5924536			Automatic			Automatic	0.88220936	201204		john dawes card 5
+326	PlateA	gp 6 day 3 mia	Actb-Rn00667869_m1	Endogenous Control	23.697475	6.3667383						20.205976						Automatic			Automatic	0.750128	201204		john dawes card 5
+327	PlateA	gp 6 day 3 mia	Hif1a-Rn00577560_m1	Target	29.225243	6.07311		29.225243		9.019266		20.205976		0.3451748	0.7872126			Automatic			Automatic	0.9792785	201204		john dawes card 5
+328	PlateA	gp 6 day 3 mia	Ccl17-Rn00589290_m1	Target	Undetermined	0.025219142		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+329	PlateA	gp 6 day 3 mia	Pten-Rn00477208_m1	Target	28.55185	4.7283773		28.55185		8.345873		20.205976		0.16201973	0.89377296			Automatic			Automatic	0.67247266	201204		john dawes card 5
+330	PlateA	gp 6 day 3 mia	Ngfb-Rn01533872_m1	Target	34.752155	4.222066		34.752155		14.546179		20.205976		0.10150528	0.93206			Automatic			Automatic	0.85080117	201204		john dawes card 5
+331	PlateA	gp 6 day 3 mia	Il10-Rn00563409_m1	Target	Undetermined	0.029164791		40		19.794024		20.205976		4.5672874	0.04218028			Automatic			Automatic	0.28507942	201204		john dawes card 5
+332	PlateA	gp 6 day 3 mia	Cxcl12-Rn00573260_m1	Target	30.359386	6.357933		30.359386		10.15341		20.205976		0.05642128	0.9616466			Automatic			Automatic	0.9505656	201204		john dawes card 5
+333	PlateA	gp 6 day 3 mia	Il1rap-Rn00492642_m1	Target	34.934536	4.938618		34.934536		14.7285595		20.205976		-0.86276627	1.8185219			Automatic			Automatic	1.0946708	201204		john dawes card 5
+334	PlateA	gp 6 day 3 mia	Stat3-Rn00562562_m1	Target	28.757133	5.3514857		28.757133		8.551157		20.205976		-0.72691345	1.6550944			Automatic			Automatic	0.80549765	201204		john dawes card 5
+335	PlateA	gp 6 day 3 mia	Ccr5-Rn00588629_m1	Target	34.8961	4.646523		34.8961		14.690123		20.205976		0.25297928	0.8391617			Automatic			Automatic	0.8350762	201204		john dawes card 5
+336	PlateA	gp 6 day 3 mia	Cxcl1-Rn00578225_m1	Target	34.092297	1.6535077		34.092297		13.88632		20.205976		28.263687	3.10E-09			Automatic			Automatic	0.111618675	201204		john dawes card 5
+337	PlateA	gp 6 day 3 mia	Csf3-Rn00567344_m1	Target	Undetermined	0.014069259		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+338	PlateA	gp 6 day 3 mia	Il18-Rn00824548_m1	Target	33.42268	3.9546843		33.42268		13.216703		20.205976		-0.7829056	1.7205926			Automatic			Automatic	0.6543567	201204		john dawes card 5
+339	PlateA	gp 6 day 3 mia	Ccr3-Rn00588614_m1	Target	Undetermined	0.016609907		40		19.794024		20.205976						Automatic			Automatic	0.1920776	201204		john dawes card 5
+340	PlateA	gp 6 day 3 mia	Ccr4-Rn00591783_s1	Target	Undetermined	0.027950227		40		19.794024		20.205976						Automatic			Automatic	0.44860256	201204		john dawes card 5
+341	PlateA	gp 6 day 3 mia	Ccr9-Rn00597283_m1	Target	37.015377	1.3875662		37.015377		16.8094		20.205976		-3.3569374	10.245634			Automatic			Automatic	0.3062018	201204		john dawes card 5
+342	PlateA	gp 6 day 3 mia	Jak2-Rn00580452_m1	Target	30.781193	4.468026		30.781193		10.575216		20.205976		-0.34965324	1.2742543			Automatic			Automatic	0.7032019	201204		john dawes card 5
+343	PlateA	gp 6 day 3 mia	Cmklr1-Rn00573616_s1	Target	31.612886	4.790514		31.612886		11.40691		20.205976		-1.2553806	2.3873012			Automatic			Automatic	0.74775267	201204		john dawes card 5
+344	PlateA	gp 6 day 3 mia	Ccl2-Rn00580555_m1	Target	Undetermined	0.00600946		40		19.794024		20.205976		4.620594	0.040650193			Automatic			Automatic	0.26668566	201204		john dawes card 5
+345	PlateA	gp 6 day 3 mia	Lif-Rn00573491_g1	Target	34.443966	3.8264425		34.443966		14.237989		20.205976		-2.4355392	5.409665			Automatic			Automatic	0.70452154	201204		john dawes card 5
+346	PlateA	gp 6 day 3 mia	Ccl22-Rn01536591_m1	Target	33.89786	3.3578098		33.89786		13.691885		20.205976		-0.42134476	1.3391752			Automatic			Automatic	0.5279876	201204		john dawes card 5
+347	PlateA	gp 6 day 3 mia	Ccl7-Rn01467286_m1	Target	34.91832	2.630483		34.91832		14.712343		20.205976		0.71349335	0.6098417			Automatic			Automatic	0.3011645	201204		john dawes card 5
+348	PlateA	gp 6 day 3 mia	Ccl28-Rn00586715_m1	Target	Undetermined	0.041927934		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+349	PlateA	gp 6 day 3 mia	Adipoq-Rn00595250_m1	Target	Undetermined	0.005815148		40		19.794024		20.205976		5.7841034	0.018147273			Automatic			Automatic	0.4963867	201204		john dawes card 5
+350	PlateA	gp 6 day 3 mia	Col1a1-Rn00801649_g1	Target	20.393274	5.538488		20.393274		0.18729782		20.205976		-2.4512463	5.468883			Automatic			Automatic	0.7423907	201204		john dawes card 5
+351	PlateA	gp 6 day 3 mia	Mmp7-Rn00563467_m1	Target	36.881226	3.5512822		36.881226		16.67525		20.205976		-3.4910889	11.244042			Automatic			Automatic	0.84121996	201204		john dawes card 5
+352	PlateA	gp 6 day 3 mia	Ptgs2-Rn01483828_m1	Target	33.962437	4.2387156		33.962437		13.75646		20.205976		0.6432915	0.64025056			Automatic			Automatic	0.5957464	201204		john dawes card 5
+353	PlateA	gp 6 day 3 mia	Igf1-Rn00710306_m1	Target	30.242739	3.768314		30.242739		10.036762		20.205976		-1.6085854	3.0495267			Automatic			Automatic	0.5744112	201204		john dawes card 5
+354	PlateA	gp 6 day 3 mia	Adrbk1-Rn00562822_m1	Target	30.589375	6.7255177		30.589375		10.383398		20.205976		-0.22849464	1.1716118			Automatic			Automatic	1.2070067	201204		john dawes card 5
+355	PlateA	gp 6 day 3 mia	Tnfsf10-Rn00595556_m1	Target	34.79632	3.576897		34.79632		14.590345		20.205976		-0.86623764	1.8229028			Automatic			Automatic	0.83305323	201204		john dawes card 5
+356	PlateA	gp 6 day 3 mia	Ccl3-Rn00564660_m1	Target	34.63381	0.5113884		34.63381		14.427832		20.205976		-0.4785881	1.3933793			Automatic			Automatic	0.15417227	201204		john dawes card 5
+357	PlateA	gp 6 day 3 mia	Ccr2-Rn00573193_s1	Target	32.69098	2.538342		32.69098		12.4850025		20.205976		0.867651	0.5480384			Automatic			Automatic	0.4758446	201204		john dawes card 5
+358	PlateA	gp 6 day 3 mia	Ccl11-Rn00569995_m1	Target	34.121635	1.9549366		34.121635		13.915659		20.205976		-0.868557	1.8258357			Automatic			Automatic	0.17114185	201204		john dawes card 5
+359	PlateA	gp 6 day 3 mia	Txnip-Rn01533890_g1	Target	28.956596	5.2226615		28.956596		8.75062		20.205976		-0.058792114	1.0415933			Automatic			Automatic	0.662354	201204		john dawes card 5
+360	PlateA	gp 6 day 3 mia	Nfkb1-Rn01399583_m1	Target	30.923658	5.2793818		30.923658		10.717682		20.205976		-0.44479942	1.3611249			Automatic			Automatic	0.7297812	201204		john dawes card 5
+361	PlateA	gp 6 day 3 mia	Xcl1-Rn00592605_m1	Target	Undetermined	0.003296971		40		19.794024		20.205976						Automatic			Automatic	0.62023246	201204		john dawes card 5
+362	PlateA	gp 6 day 3 mia	Ccl21b-Rn01764651_g1	Target	Undetermined	0.007624984		40		19.794024		20.205976		3.8929634	0.06731336			Automatic			Automatic	0.39807236	201204		john dawes card 5
+363	PlateA	gp 6 day 3 mia	Ccl5-Rn00579590_m1	Target	33.180256	4.0057735		33.180256		12.974279		20.205976		-0.4889183	1.4033922			Automatic			Automatic	0.6527558	201204		john dawes card 5
+364	PlateA	gp 6 day 3 mia	Ptges-Rn00572047_m1	Target	36.915276	3.1839752		36.915276		16.7093		20.205976		2.9020119	0.13378498			Automatic			Automatic	0.78465754	201204		john dawes card 5
+365	PlateA	gp 6 day 3 mia	Tlr4-Rn00569848_m1	Target	34.803654	3.3537514		34.803654		14.597677		20.205976		-0.6796951	1.6018013			Automatic			Automatic	0.5898345	201204		john dawes card 5
+366	PlateA	gp 6 day 3 mia	Cxcl9-Rn00595504_m1	Target	Undetermined	0.22642966		40		19.794024		20.205976						Automatic			Automatic	0.264642	201204		john dawes card 5
+367	PlateA	gp 6 day 3 mia	Ltb4r-Rn00572209_s1	Target	Undetermined	0.007169962		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+368	PlateA	gp 6 day 3 mia	Edn2-Rn00561135_m1	Target	Undetermined	-0.001870215		40		19.794024		20.205976						Automatic			Automatic	0.26807687	201204		john dawes card 5
+369	PlateA	gp 6 day 3 mia	Cxcl5-Rn00573587_g1	Target	Undetermined	0.005518079		40		19.794024		20.205976		3.734871	0.075108975			Automatic			Automatic	0.28920352	201204		john dawes card 5
+370	PlateA	gp 6 day 3 mia	C5r1-Rn00586108_m1	Target	32.64912	5.821788		32.64912		12.443144		20.205976		1.0623188	0.47886178			Automatic			Automatic	1.0817536	201204		john dawes card 5
+371	PlateA	gp 6 day 3 mia	Ccl6-Rn01456402_g1	Target	32.539116	4.8027954		32.539116		12.333139		20.205976		1.1735191	0.4433386			Automatic			Automatic	0.6962746	201204		john dawes card 5
+372	PlateA	gp 6 day 3 mia	Gapdh-Rn99999916_s1	Endogenous Control	25.435524	4.7584486						20.205976						Automatic			Automatic	0.68164515	201204		john dawes card 5
+373	PlateA	gp 6 day 3 mia	Il4-Rn01456866_m1	Target	Undetermined	-0.007745981		40		19.794024		20.205976						Automatic			Automatic	0.2	201204		john dawes card 5
+374	PlateA	gp 6 day 3 mia	Vhl-Rn00583795_m1	Target	31.977444	4.2468243		31.977444		11.771467		20.205976		-0.44889832	1.3649975			Automatic			Automatic	0.7219793	201204		john dawes card 5
+375	PlateA	gp 6 day 3 mia	Edn1-Rn00561129_m1	Target	36.94431	2.344578		36.94431		16.738333		20.205976		2.1439629	0.22625744			Automatic			Automatic	0.6102071	201204		john dawes card 5
+376	PlateA	gp 6 day 3 mia	Ccl24-Rn01481451_m1	Target	35.981697	2.2300441		35.981697		15.775721		20.205976		1.5223541	0.3481174			Automatic			Automatic	0.34717923	201204		john dawes card 5
+377	PlateA	gp 6 day 3 mia	Il1a-Rn00566700_m1	Target	Undetermined	-0.023377657		40		19.794024		20.205976		2.6726685	0.15683632			Automatic			Automatic	0.5945674	201204		john dawes card 5
+378	PlateA	gp 6 day 3 mia	Cxcr4-Rn00573522_s1	Target	32.357113	6.5735254		32.357113		12.151136		20.205976		1.5998192	0.32991832			Automatic			Automatic	1.1622332	201204		john dawes card 5
+379	PlateA	gp 6 day 3 mia	Agtrl1-Rn00580252_s1	Target	28.968803	5.8930902		28.968803		8.762827		20.205976		-1.3671818	2.5796616			Automatic			Automatic	0.87947166	201204		john dawes card 5
+380	PlateA	gp 6 day 3 mia	Tgfb1-Rn00572010_m1	Target	27.795576	5.5807133		27.795576		7.5895996		20.205976		-0.4648323	1.3801569			Automatic			Automatic	0.6000924	201204		john dawes card 5
+381	PlateA	gp 6 day 3 mia	Fgf2-Rn00570809_m1	Target	33.40388	3.536117		33.40388		13.197905		20.205976		1.0414543	0.4858375			Automatic			Automatic	0.6294169	201204		john dawes card 5
+382	PlateA	gp 6 day 3 mia	Myd88-Rn01640052_g1	Target	32.207016	4.8536057		32.207016		12.0010395		20.205976		-0.25570297	1.1939174			Automatic			Automatic	0.72092694	201204		john dawes card 5
+383	PlateA	gp 6 day 3 mia	Ccbp2-Rn00589581_m1	Target	36.954052	1.8339083		36.954052		16.748075		20.205976		0.2777977	0.8248492			Automatic			Automatic	0.39839536	201204		john dawes card 5
+384	PlateA	gp 6 day 3 mia	Cx3cl1-Rn00593186_m1	Target	35.45644	2.683568		35.45644		15.2504635		20.205976		3.6593208	0.07914704			Automatic			Automatic	0.6105048	201204		john dawes card 5
+1	PlateB	gp 3 day 3 v	Il12a-Rn00584538_m1	Target	34.05277	8.107892		34.05277		14.106247		19.946522		1.134428	0.45551547			Automatic			Automatic	1.0853567	201204		john dawes card 6
+2	PlateB	gp 3 day 3 v	Cebpe-Rn00567306_g1	Target	33.70658	2.6292024		33.70658		13.760059		19.946522		-0.042734146	1.0300641			Automatic			Automatic	0.31868854	201204		john dawes card 6
+3	PlateB	gp 3 day 3 v	Il5-Rn01459975_m1	Target	Undetermined	-0.005413771		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+4	PlateB	gp 3 day 3 v	Slit2-Rn00575268_m1	Target	29.623962	6.519096		29.623962		9.677441		19.946522		-2.3380756	5.0562773			Automatic			Automatic	0.68108386	201204		john dawes card 6
+5	PlateB	gp 3 day 3 v	Ptgds-Rn00564605_m1	Target	29.649326	6.6493387		29.649326		9.702805		19.946522		1.1195679	0.46023166			Automatic			Automatic	0.7757821	201204		john dawes card 6
+6	PlateB	gp 3 day 3 v	Cxcr3-Rn00584689_m1	Target	36.788715	2.6922562		36.788715		16.842194		19.946522		0.79115105	0.5778828			Automatic			Automatic	0.5745667	201204		john dawes card 6
+7	PlateB	gp 3 day 3 v	Il2-Rn00587673_m1	Target	Undetermined	0.021773815		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+8	PlateB	gp 3 day 3 v	Il8ra-Rn00570857_s1	Target	Undetermined	0.019776225		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+9	PlateB	gp 3 day 3 v	Rgs3-Rn00571037_m1	Target	32.72934	5.5694427		32.72934		12.782818		19.946522		-3.3173466	9.968294			Automatic			Automatic	0.74907106	201204		john dawes card 6
+10	PlateB	gp 3 day 3 v	Alpl-Rn00564931_m1	Target	24.613659	8.194988		24.613659		4.667137		19.946522		-1.2774982	2.4241824			Automatic			Automatic	0.8204313	201204		john dawes card 6
+11	PlateB	gp 3 day 3 v	18S-Hs99999901_s1	Endogenous Control	19.946522	7.0308537		19.946522				19.946522						Automatic			Automatic	0.7598856	201204		john dawes card 6
+12	PlateB	gp 3 day 3 v	Pdgfa-Rn00709363_m1	Target	28.728575	8.0463295		28.728575		8.782053		19.946522		-2.029335	4.0821667			Automatic			Automatic	1.0923299	201204		john dawes card 6
+13	PlateB	gp 3 day 3 v	Mmp13-Rn01448197_m1	Target	23.93406	5.460427		23.93406		3.9875374		19.946522		-2.3682518	5.1631513			Automatic			Automatic	0.39668465	201204		john dawes card 6
+14	PlateB	gp 3 day 3 v	Tnf-Rn99999017_m1	Target	33.23127	3.6344903		33.23127		13.284748		19.946522		-2.6090603	6.1010613			Automatic			Automatic	0.21698071	201204		john dawes card 6
+15	PlateB	gp 3 day 3 v	Grb2-Rn00578230_m1	Target	Undetermined	0.02814126		40		20.053478		19.946522						Automatic			Automatic	0.24295665	201204		john dawes card 6
+16	PlateB	gp 3 day 3 v	Il1b-Rn00580432_m1	Target	33.84646	4.843048		33.84646		13.899937		19.946522		-0.3068409	1.236996			Automatic			Automatic	0.6899926	201204		john dawes card 6
+17	PlateB	gp 3 day 3 v	Ccl9-Rn01471276_m1	Target	30.563774	4.5598755		30.563774		10.617252		19.946522		-4.2818775	19.452417			Automatic			Automatic	0.6091474	201204		john dawes card 6
+18	PlateB	gp 3 day 3 v	Cxcl10-Rn00594648_m1	Target	32.954987	5.599152		32.954987		13.008465		19.946522		-1.0485516	2.0684521			Automatic			Automatic	0.7329111	201204		john dawes card 6
+19	PlateB	gp 3 day 3 v	Runx2-Rn01512296_m1	Target	27.96772	4.942721		27.96772		8.021198		19.946522		-1.0634995	2.089995			Automatic			Automatic	0.49735337	201204		john dawes card 6
+20	PlateB	gp 3 day 3 v	Ccr1-Rn00571950_s1	Target	30.900246	4.357118		30.900246		10.953724		19.946522		-2.0123768	4.0344634			Automatic			Automatic	0.4652991	201204		john dawes card 6
+21	PlateB	gp 3 day 3 v	Cx3cr1-Rn00591798_m1	Target	31.85579	7.101026		31.85579		11.909267		19.946522		0.03355217	0.97701174			Automatic			Automatic	0.9117795	201204		john dawes card 6
+22	PlateB	gp 3 day 3 v	Ccl4-Rn00587826_m1	Target	32.91917	4.9658675		32.91917		12.972649		19.946522		-0.92616844	1.9002227			Automatic			Automatic	0.44978127	201204		john dawes card 6
+23	PlateB	gp 3 day 3 v	Ifng-Rn00594078_m1	Target	Undetermined	0.014028192		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+24	PlateB	gp 3 day 3 v	Gpr30-Rn00592091_s1	Target	29.971907	6.6652107		29.971907		10.025385		19.946522		-0.28279686	1.2165511			Automatic			Automatic	0.714589	201204		john dawes card 6
+25	PlateB	gp 3 day 3 v	Col2a1-Rn00491926_g1	Target	19.172632	8.553601		19.172632		-0.77388954		19.946522		-0.5389786	1.4529434			Automatic			Automatic	0.8543828	201204		john dawes card 6
+26	PlateB	gp 3 day 3 v	Cxcl2-Rn00586403_m1	Target	36.973003	2.1945324		36.973003		17.026482		19.946522		-3.1398563	8.8143635			Automatic			Automatic	0.44646907	201204		john dawes card 6
+27	PlateB	gp 3 day 3 v	Bdnf-Rn00560868_m1	Target	Undetermined	-1.72E-04		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+28	PlateB	gp 3 day 3 v	Il12b-Rn00575112_m1	Target	Undetermined	0.008174717		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+29	PlateB	gp 3 day 3 v	Il6-Rn00561420_m1	Target	Undetermined	0.010044813		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+30	PlateB	gp 3 day 3 v	Tnfrsf1a-Rn00565310_m1	Target	29.919258	4.1081285		29.919258		9.972736		19.946522		-1.1245842	2.180387			Automatic			Automatic	0.52896345	201204		john dawes card 6
+31	PlateB	gp 3 day 3 v	Il8rb-Rn00567841_m1	Target	35.00354	3.600851		35.00354		15.057018		19.946522		0.050149918	0.965836			Automatic			Automatic	0.5313337	201204		john dawes card 6
+32	PlateB	gp 3 day 3 v	Cxcl11-Rn00788262_g1	Target	37.240368	0.47050992		37.240368		17.293846		19.946522		4.116564	0.05764887			Automatic			Automatic	0.07185659	201204		john dawes card 6
+33	PlateB	gp 3 day 3 v	Vegfa-Rn00582935_m1	Target	28.269917	6.9092584		28.269917		8.323395		19.946522		-1.2325649	2.349844			Automatic			Automatic	0.89241314	201204		john dawes card 6
+34	PlateB	gp 3 day 3 v	Il13-Rn00587615_m1	Target	Undetermined	0.010430217		40		20.053478		19.946522						Automatic			Automatic	0.41847768	201204		john dawes card 6
+35	PlateB	gp 3 day 3 v	Ccl20-Rn00570287_m1	Target	Undetermined	0.021425724		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+36	PlateB	gp 3 day 3 v	Tac1-Rn00562002_m1	Target	33.773922	5.170974		33.773922		13.8274		19.946522		1.3638554	0.3885426			Automatic			Automatic	0.48053753	201204		john dawes card 6
+37	PlateB	gp 3 day 3 v	B2m-Rn00560865_m1	Target	24.741245	7.205964		24.741245		4.7947235		19.946522		-1.253294	2.3838508			Automatic			Automatic	0.88220936	201204		john dawes card 6
+38	PlateB	gp 3 day 3 v	Actb-Rn00667869_m1	Endogenous Control	22.62859	8.694757						19.946522						Automatic			Automatic	0.750128	201204		john dawes card 6
+39	PlateB	gp 3 day 3 v	Hif1a-Rn00577560_m1	Target	27.936964	7.4357696		27.936964		7.9904423		19.946522		-0.68364906	1.6061972			Automatic			Automatic	0.9792785	201204		john dawes card 6
+40	PlateB	gp 3 day 3 v	Ccl17-Rn00589290_m1	Target	Undetermined	0.008908629		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+41	PlateB	gp 3 day 3 v	Pten-Rn00477208_m1	Target	27.374409	6.271382		27.374409		7.427887		19.946522		-0.7559662	1.6887622			Automatic			Automatic	0.67247266	201204		john dawes card 6
+42	PlateB	gp 3 day 3 v	Ngfb-Rn01533872_m1	Target	31.17805	6.5195456		31.17805		11.231527		19.946522		-3.2131462	9.273707			Automatic			Automatic	0.85080117	201204		john dawes card 6
+43	PlateB	gp 3 day 3 v	Il10-Rn00563409_m1	Target	35.316807	3.261374		35.316807		15.370285		19.946522		0.14354897	0.9052895			Automatic			Automatic	0.28507942	201204		john dawes card 6
+44	PlateB	gp 3 day 3 v	Cxcl12-Rn00573260_m1	Target	29.331879	7.6514792		29.331879		9.385357		19.946522		-0.7116318	1.6376554			Automatic			Automatic	0.9505656	201204		john dawes card 6
+45	PlateB	gp 3 day 3 v	Il1rap-Rn00492642_m1	Target	34.182533	6.0868115		34.182533		14.2360115		19.946522		-1.3553143	2.5585284			Automatic			Automatic	1.0946708	201204		john dawes card 6
+46	PlateB	gp 3 day 3 v	Stat3-Rn00562562_m1	Target	27.710314	6.4536676		27.710314		7.763792		19.946522		-1.5142784	2.8565593			Automatic			Automatic	0.80549765	201204		john dawes card 6
+47	PlateB	gp 3 day 3 v	Ccr5-Rn00588629_m1	Target	33.316315	6.9229045		33.316315		13.369793		19.946522		-1.0673504	2.095581			Automatic			Automatic	0.8350762	201204		john dawes card 6
+48	PlateB	gp 3 day 3 v	Cxcl1-Rn00578225_m1	Target	Undetermined	0.033363104		40		20.053478		19.946522		34.430847	4.32E-11			Automatic			Automatic	0.111618675	201204		john dawes card 6
+49	PlateB	gp 3 day 3 v	Csf3-Rn00567344_m1	Target	Undetermined	0.030200481		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+50	PlateB	gp 3 day 3 v	Il18-Rn00824548_m1	Target	32.156715	4.894516		32.156715		12.210194		19.946522		-1.7894154	3.4567478			Automatic			Automatic	0.6543567	201204		john dawes card 6
+51	PlateB	gp 3 day 3 v	Ccr3-Rn00588614_m1	Target	Undetermined	0.020714045		40		20.053478		19.946522						Automatic			Automatic	0.1920776	201204		john dawes card 6
+52	PlateB	gp 3 day 3 v	Ccr4-Rn00591783_s1	Target	Undetermined	0.03646922		40		20.053478		19.946522						Automatic			Automatic	0.44860256	201204		john dawes card 6
+53	PlateB	gp 3 day 3 v	Ccr9-Rn00597283_m1	Target	Undetermined	0.021192908		40		20.053478		19.946522						Automatic			Automatic	0.3062018	201204		john dawes card 6
+54	PlateB	gp 3 day 3 v	Jak2-Rn00580452_m1	Target	30.029669	5.4345202		30.029669		10.083147		19.946522		-0.8417225	1.7921886			Automatic			Automatic	0.7032019	201204		john dawes card 6
+55	PlateB	gp 3 day 3 v	Cmklr1-Rn00573616_s1	Target	31.033957	6.5131383		31.033957		11.087435		19.946522		-1.5748558	2.979057			Automatic			Automatic	0.74775267	201204		john dawes card 6
+56	PlateB	gp 3 day 3 v	Ccl2-Rn00580555_m1	Target	34.137814	2.2041016		34.137814		14.191292		19.946522		-0.9821377	1.9753902			Automatic			Automatic	0.26668566	201204		john dawes card 6
+57	PlateB	gp 3 day 3 v	Lif-Rn00573491_g1	Target	33.257698	4.590205		33.257698		13.311176		19.946522		-3.3623524	10.2841625			Automatic			Automatic	0.70452154	201204		john dawes card 6
+58	PlateB	gp 3 day 3 v	Ccl22-Rn01536591_m1	Target	33.859886	3.5111246		33.859886		13.913364		19.946522		-0.19986534	1.1485912			Automatic			Automatic	0.5279876	201204		john dawes card 6
+59	PlateB	gp 3 day 3 v	Ccl7-Rn01467286_m1	Target	35.3959	3.1372132		35.3959		15.449379		19.946522		1.4505291	0.36588722			Automatic			Automatic	0.3011645	201204		john dawes card 6
+60	PlateB	gp 3 day 3 v	Ccl28-Rn00586715_m1	Target	Undetermined	0.038524747		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+61	PlateB	gp 3 day 3 v	Adipoq-Rn00595250_m1	Target	29.738026	5.2220073		29.738026		9.791504		19.946522		-4.218416	18.61529			Automatic			Automatic	0.4963867	201204		john dawes card 6
+62	PlateB	gp 3 day 3 v	Col1a1-Rn00801649_g1	Target	19.378698	5.251941		19.378698		-0.5678234		19.946522		-3.2063675	9.230236			Automatic			Automatic	0.7423907	201204		john dawes card 6
+63	PlateB	gp 3 day 3 v	Mmp7-Rn00563467_m1	Target	36.90954	3.33141		36.90954		16.963017		19.946522		-3.2033215	9.210768			Automatic			Automatic	0.84121996	201204		john dawes card 6
+64	PlateB	gp 3 day 3 v	Ptgs2-Rn01483828_m1	Target	30.325726	4.694069		30.325726		10.379204		19.946522		-2.733965	6.652815			Automatic			Automatic	0.5957464	201204		john dawes card 6
+65	PlateB	gp 3 day 3 v	Igf1-Rn00710306_m1	Target	29.753355	4.2626348		29.753355		9.806833		19.946522		-1.8385143	3.5764155			Automatic			Automatic	0.5744112	201204		john dawes card 6
+66	PlateB	gp 3 day 3 v	Adrbk1-Rn00562822_m1	Target	28.960968	8.020981		28.960968		9.014446		19.946522		-1.5974464	3.0260723			Automatic			Automatic	1.2070067	201204		john dawes card 6
+67	PlateB	gp 3 day 3 v	Tnfsf10-Rn00595556_m1	Target	35.508656	4.0759125		35.508656		15.562134		19.946522		0.105550766	0.92945004			Automatic			Automatic	0.83305323	201204		john dawes card 6
+68	PlateB	gp 3 day 3 v	Ccl3-Rn00564660_m1	Target	35.641853	0.46583772		35.641853		15.695332		19.946522		0.7889118	0.5787805			Automatic			Automatic	0.15417227	201204		john dawes card 6
+69	PlateB	gp 3 day 3 v	Ccr2-Rn00573193_s1	Target	31.44831	3.6642995		31.44831		11.501789		19.946522		-0.11556244	1.0833974			Automatic			Automatic	0.4758446	201204		john dawes card 6
+70	PlateB	gp 3 day 3 v	Ccl11-Rn00569995_m1	Target	Undetermined	0.021432519		40		20.053478		19.946522		5.2692623	0.02592949			Automatic			Automatic	0.17114185	201204		john dawes card 6
+71	PlateB	gp 3 day 3 v	Txnip-Rn01533890_g1	Target	27.775154	6.721358		27.775154		7.8286324		19.946522		-0.98077965	1.9735316			Automatic			Automatic	0.662354	201204		john dawes card 6
+72	PlateB	gp 3 day 3 v	Nfkb1-Rn01399583_m1	Target	29.644924	6.9518085		29.644924		9.698402		19.946522		-1.4640789	2.7588727			Automatic			Automatic	0.7297812	201204		john dawes card 6
+73	PlateB	gp 3 day 3 v	Xcl1-Rn00592605_m1	Target	34.778484	3.707658		34.778484		14.831963		19.946522		-5.3343754	40.346603			Automatic			Automatic	0.62023246	201204		john dawes card 6
+74	PlateB	gp 3 day 3 v	Ccl21b-Rn01764651_g1	Target	Undetermined	0.031247497		40		20.053478		19.946522		4.152418	0.05623382			Automatic			Automatic	0.39807236	201204		john dawes card 6
+75	PlateB	gp 3 day 3 v	Ccl5-Rn00579590_m1	Target	33.468304	4.0273576		33.468304		13.521782		19.946522		0.058584213	0.960206			Automatic			Automatic	0.6527558	201204		john dawes card 6
+76	PlateB	gp 3 day 3 v	Ptges-Rn00572047_m1	Target	34.18016	5.7663083		34.18016		14.233639		19.946522		0.42635155	0.7441413			Automatic			Automatic	0.78465754	201204		john dawes card 6
+77	PlateB	gp 3 day 3 v	Tlr4-Rn00569848_m1	Target	34.057495	3.6777847		34.057495		14.110973		19.946522		-1.166399	2.2445076			Automatic			Automatic	0.5898345	201204		john dawes card 6
+78	PlateB	gp 3 day 3 v	Cxcl9-Rn00595504_m1	Target	35.788937	1.8205276		35.788937		15.842415		19.946522		-4.323923	20.027676			Automatic			Automatic	0.264642	201204		john dawes card 6
+79	PlateB	gp 3 day 3 v	Ltb4r-Rn00572209_s1	Target	Undetermined	0.021672666		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+80	PlateB	gp 3 day 3 v	Edn2-Rn00561135_m1	Target	Undetermined	0.014885247		40		20.053478		19.946522						Automatic			Automatic	0.26807687	201204		john dawes card 6
+81	PlateB	gp 3 day 3 v	Cxcl5-Rn00573587_g1	Target	35.25704	2.7790935		35.25704		15.310516		19.946522		-0.74863625	1.6802038			Automatic			Automatic	0.28920352	201204		john dawes card 6
+82	PlateB	gp 3 day 3 v	C5r1-Rn00586108_m1	Target	31.989391	6.4496093		31.989391		12.04287		19.946522		0.6620445	0.631982			Automatic			Automatic	1.0817536	201204		john dawes card 6
+83	PlateB	gp 3 day 3 v	Ccl6-Rn01456402_g1	Target	31.186827	5.115419		31.186827		11.240305		19.946522		0.08068466	0.9456088			Automatic			Automatic	0.6962746	201204		john dawes card 6
+84	PlateB	gp 3 day 3 v	Gapdh-Rn99999916_s1	Endogenous Control	23.950815	5.1490564						19.946522						Automatic			Automatic	0.68164515	201204		john dawes card 6
+85	PlateB	gp 3 day 3 v	Il4-Rn01456866_m1	Target	Undetermined	0.011662245		40		20.053478		19.946522						Automatic			Automatic	0.2	201204		john dawes card 6
+86	PlateB	gp 3 day 3 v	Vhl-Rn00583795_m1	Target	31.701199	4.3317122		31.701199		11.754677		19.946522		-0.4656887	1.3809764			Automatic			Automatic	0.7219793	201204		john dawes card 6
+87	PlateB	gp 3 day 3 v	Edn1-Rn00561129_m1	Target	33.714996	4.6267233		33.714996		13.768475		19.946522		-0.8258953	1.7726347			Automatic			Automatic	0.6102071	201204		john dawes card 6
+88	PlateB	gp 3 day 3 v	Ccl24-Rn01481451_m1	Target	Undetermined	0.017588377		40		20.053478		19.946522		5.800112	0.017947022			Automatic			Automatic	0.34717923	201204		john dawes card 6
+89	PlateB	gp 3 day 3 v	Il1a-Rn00566700_m1	Target	Undetermined	0.016385555		40		20.053478		19.946522		2.9321232	0.13102162			Automatic			Automatic	0.5945674	201204		john dawes card 6
+90	PlateB	gp 3 day 3 v	Cxcr4-Rn00573522_s1	Target	29.42212	7.462477		29.42212		9.475597		19.946522		-1.0757198	2.1077735			Automatic			Automatic	1.1622332	201204		john dawes card 6
+91	PlateB	gp 3 day 3 v	Agtrl1-Rn00580252_s1	Target	28.444336	6.287619		28.444336		8.497814		19.946522		-1.6321945	3.0998416			Automatic			Automatic	0.87947166	201204		john dawes card 6
+92	PlateB	gp 3 day 3 v	Tgfb1-Rn00572010_m1	Target	26.493877	6.024773		26.493877		6.5473557		19.946522		-1.5070763	2.8423343			Automatic			Automatic	0.6000924	201204		john dawes card 6
+93	PlateB	gp 3 day 3 v	Fgf2-Rn00570809_m1	Target	31.915396	4.6914835		31.915396		11.968874		19.946522		-0.1875763	1.1388489			Automatic			Automatic	0.6294169	201204		john dawes card 6
+94	PlateB	gp 3 day 3 v	Myd88-Rn01640052_g1	Target	31.534527	5.4027233		31.534527		11.588005		19.946522		-0.6687374	1.5896811			Automatic			Automatic	0.72092694	201204		john dawes card 6
+95	PlateB	gp 3 day 3 v	Ccbp2-Rn00589581_m1	Target	33.805702	4.114134		33.805702		13.85918		19.946522		-2.6110973	6.109682			Automatic			Automatic	0.39839536	201204		john dawes card 6
+96	PlateB	gp 3 day 3 v	Cx3cl1-Rn00593186_m1	Target	31.46355	4.8035474		31.46355		11.517029		19.946522		-0.074113846	1.0527142			Automatic			Automatic	0.6105048	201204		john dawes card 6
+97	PlateB	gp 4 day 3 v	Il12a-Rn00584538_m1	Target	34.21279	6.939275		34.21279		14.276371		19.93642		1.3045521	0.4048468			Automatic			Automatic	1.0853567	201204		john dawes card 6
+98	PlateB	gp 4 day 3 v	Cebpe-Rn00567306_g1	Target	34.525883	2.1667006		34.525883		14.589462		19.93642		0.7866688	0.57968104			Automatic			Automatic	0.31868854	201204		john dawes card 6
+99	PlateB	gp 4 day 3 v	Il5-Rn01459975_m1	Target	Undetermined	0.023028731		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+100	PlateB	gp 4 day 3 v	Slit2-Rn00575268_m1	Target	31.193268	5.253841		31.193268		11.256847		19.93642		-0.7586689	1.6919289			Automatic			Automatic	0.68108386	201204		john dawes card 6
+101	PlateB	gp 4 day 3 v	Ptgds-Rn00564605_m1	Target	30.780186	5.4737716		30.780186		10.843765		19.93642		2.2605286	0.2086955			Automatic			Automatic	0.7757821	201204		john dawes card 6
+102	PlateB	gp 4 day 3 v	Cxcr3-Rn00584689_m1	Target	35.965492	3.0735514		35.965492		16.029072		19.93642		-0.021970749	1.0153456			Automatic			Automatic	0.5745667	201204		john dawes card 6
+103	PlateB	gp 4 day 3 v	Il2-Rn00587673_m1	Target	Undetermined	0.031306744		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+104	PlateB	gp 4 day 3 v	Il8ra-Rn00570857_s1	Target	Undetermined	0.012744427		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+105	PlateB	gp 4 day 3 v	Rgs3-Rn00571037_m1	Target	33.738678	4.628763		33.738678		13.802258		19.93642		-2.2979069	4.917438			Automatic			Automatic	0.74907106	201204		john dawes card 6
+106	PlateB	gp 4 day 3 v	Alpl-Rn00564931_m1	Target	24.88164	7.5758		24.88164		4.945219		19.93642		-0.99941635	1.999191			Automatic			Automatic	0.8204313	201204		john dawes card 6
+107	PlateB	gp 4 day 3 v	18S-Hs99999901_s1	Endogenous Control	19.93642	6.710077		19.93642				19.93642						Automatic			Automatic	0.7598856	201204		john dawes card 6
+108	PlateB	gp 4 day 3 v	Pdgfa-Rn00709363_m1	Target	29.494535	7.3232675		29.494535		9.558115		19.93642		-1.253273	2.3838162			Automatic			Automatic	1.0923299	201204		john dawes card 6
+109	PlateB	gp 4 day 3 v	Mmp13-Rn01448197_m1	Target	24.719383	5.283876		24.719383		4.782963		19.93642		-1.5728264	2.9748695			Automatic			Automatic	0.39668465	201204		john dawes card 6
+110	PlateB	gp 4 day 3 v	Tnf-Rn99999017_m1	Target	34.15494	3.0307968		34.15494		14.218521		19.93642		-1.6752872	3.1938293			Automatic			Automatic	0.21698071	201204		john dawes card 6
+111	PlateB	gp 4 day 3 v	Grb2-Rn00578230_m1	Target	35.425674	0.61571753		35.425674		15.489254		19.93642		-4.677084	25.582476			Automatic			Automatic	0.24295665	201204		john dawes card 6
+112	PlateB	gp 4 day 3 v	Il1b-Rn00580432_m1	Target	34.789356	3.6664128		34.789356		14.852936		19.93642		0.6461582	0.6389796			Automatic			Automatic	0.6899926	201204		john dawes card 6
+113	PlateB	gp 4 day 3 v	Ccl9-Rn01471276_m1	Target	33.270405	3.3102036		33.270405		13.333984		19.93642		-1.5651455	2.9590733			Automatic			Automatic	0.6091474	201204		john dawes card 6
+114	PlateB	gp 4 day 3 v	Cxcl10-Rn00594648_m1	Target	33.88759	4.2676806		33.88759		13.951168		19.93642		-0.10584831	1.0761269			Automatic			Automatic	0.7329111	201204		john dawes card 6
+115	PlateB	gp 4 day 3 v	Runx2-Rn01512296_m1	Target	28.5726	3.7638383		28.5726		8.636179		19.93642		-0.44851875	1.3646384			Automatic			Automatic	0.49735337	201204		john dawes card 6
+116	PlateB	gp 4 day 3 v	Ccr1-Rn00571950_s1	Target	32.15016	3.7065659		32.15016		12.213741		19.93642		-0.7523594	1.6845455			Automatic			Automatic	0.4652991	201204		john dawes card 6
+117	PlateB	gp 4 day 3 v	Cx3cr1-Rn00591798_m1	Target	32.61544	6.053616		32.61544		12.67902		19.93642		0.8033047	0.57303506			Automatic			Automatic	0.9117795	201204		john dawes card 6
+118	PlateB	gp 4 day 3 v	Ccl4-Rn00587826_m1	Target	34.83886	3.0481694		34.83886		14.902439		19.93642		1.003622	0.49874628			Automatic			Automatic	0.44978127	201204		john dawes card 6
+119	PlateB	gp 4 day 3 v	Ifng-Rn00594078_m1	Target	Undetermined	0.02569288		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+120	PlateB	gp 4 day 3 v	Gpr30-Rn00592091_s1	Target	29.861103	5.7362995		29.861103		9.924683		19.93642		-0.38349915	1.304502			Automatic			Automatic	0.714589	201204		john dawes card 6
+121	PlateB	gp 4 day 3 v	Col2a1-Rn00491926_g1	Target	19.223152	7.838574		19.223152		-0.7132683		19.93642		-0.47835732	1.3931565			Automatic			Automatic	0.8543828	201204		john dawes card 6
+122	PlateB	gp 4 day 3 v	Cxcl2-Rn00586403_m1	Target	Undetermined	0.052886844		40		20.06358		19.93642						Automatic			Automatic	0.44646907	201204		john dawes card 6
+123	PlateB	gp 4 day 3 v	Bdnf-Rn00560868_m1	Target	Undetermined	0.030018687		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+124	PlateB	gp 4 day 3 v	Il12b-Rn00575112_m1	Target	Undetermined	0.02572161		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+125	PlateB	gp 4 day 3 v	Il6-Rn00561420_m1	Target	Undetermined	0.032454252		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+126	PlateB	gp 4 day 3 v	Tnfrsf1a-Rn00565310_m1	Target	30.632439	3.5266569		30.632439		10.696018		19.93642		-0.40130234	1.3206996			Automatic			Automatic	0.52896345	201204		john dawes card 6
+127	PlateB	gp 4 day 3 v	Il8rb-Rn00567841_m1	Target	35.92229	2.56643		35.92229		15.98587		19.93642		0.979002	0.5073306			Automatic			Automatic	0.5313337	201204		john dawes card 6
+128	PlateB	gp 4 day 3 v	Cxcl11-Rn00788262_g1	Target	32.613434	1.8941191		32.613434		12.677013		19.93642		-0.50026894	1.4144772			Automatic			Automatic	0.07185659	201204		john dawes card 6
+129	PlateB	gp 4 day 3 v	Vegfa-Rn00582935_m1	Target	29.440804	5.854308		29.440804		9.504383		19.93642		-0.051576614	1.0363969			Automatic			Automatic	0.89241314	201204		john dawes card 6
+130	PlateB	gp 4 day 3 v	Il13-Rn00587615_m1	Target	Undetermined	0.036940813		40		20.06358		19.93642						Automatic			Automatic	0.41847768	201204		john dawes card 6
+131	PlateB	gp 4 day 3 v	Ccl20-Rn00570287_m1	Target	Undetermined	0.021189094		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+132	PlateB	gp 4 day 3 v	Tac1-Rn00562002_m1	Target	34.8494	4.0007663		34.8494		14.912979		19.93642		2.4494343	0.18308249			Automatic			Automatic	0.48053753	201204		john dawes card 6
+133	PlateB	gp 4 day 3 v	B2m-Rn00560865_m1	Target	25.809784	6.4616227		25.809784		5.8733635		19.93642		-0.174654	1.1286937			Automatic			Automatic	0.88220936	201204		john dawes card 6
+134	PlateB	gp 4 day 3 v	Actb-Rn00667869_m1	Endogenous Control	23.25213	6.6147246						19.93642						Automatic			Automatic	0.750128	201204		john dawes card 6
+135	PlateB	gp 4 day 3 v	Hif1a-Rn00577560_m1	Target	28.15963	6.3477893		28.15963		8.223209		19.93642		-0.45088196	1.3668756			Automatic			Automatic	0.9792785	201204		john dawes card 6
+136	PlateB	gp 4 day 3 v	Ccl17-Rn00589290_m1	Target	Undetermined	0.021939754		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+137	PlateB	gp 4 day 3 v	Pten-Rn00477208_m1	Target	28.215757	4.7282524		28.215757		8.279337		19.93642		0.09548378	0.9359583			Automatic			Automatic	0.67247266	201204		john dawes card 6
+138	PlateB	gp 4 day 3 v	Ngfb-Rn01533872_m1	Target	32.967525	5.1257544		32.967525		13.031105		19.93642		-1.4135685	2.6639528			Automatic			Automatic	0.85080117	201204		john dawes card 6
+139	PlateB	gp 4 day 3 v	Il10-Rn00563409_m1	Target	Undetermined	0.033284426		40		20.06358		19.93642		4.8368435	0.0349917			Automatic			Automatic	0.28507942	201204		john dawes card 6
+140	PlateB	gp 4 day 3 v	Cxcl12-Rn00573260_m1	Target	30.246286	6.384786		30.246286		10.309866		19.93642		0.21287727	0.8628147			Automatic			Automatic	0.9505656	201204		john dawes card 6
+141	PlateB	gp 4 day 3 v	Il1rap-Rn00492642_m1	Target	35.55898	4.9100957		35.55898		15.622559		19.93642		0.031232834	0.9785837			Automatic			Automatic	1.0946708	201204		john dawes card 6
+142	PlateB	gp 4 day 3 v	Stat3-Rn00562562_m1	Target	28.543133	5.7015915		28.543133		8.606712		19.93642		-0.6713581	1.5925715			Automatic			Automatic	0.80549765	201204		john dawes card 6
+143	PlateB	gp 4 day 3 v	Ccr5-Rn00588629_m1	Target	34.587036	5.1737666		34.587036		14.650616		19.93642		0.21347237	0.8624589			Automatic			Automatic	0.8350762	201204		john dawes card 6
+144	PlateB	gp 4 day 3 v	Cxcl1-Rn00578225_m1	Target	Undetermined	0.03708613		40		20.06358		19.93642		34.44095	4.29E-11			Automatic			Automatic	0.111618675	201204		john dawes card 6
+145	PlateB	gp 4 day 3 v	Csf3-Rn00567344_m1	Target	Undetermined	0.023504972		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+146	PlateB	gp 4 day 3 v	Il18-Rn00824548_m1	Target	33.86888	4.102095		33.86888		13.932461		19.93642		-0.06714821	1.0476438			Automatic			Automatic	0.6543567	201204		john dawes card 6
+147	PlateB	gp 4 day 3 v	Ccr3-Rn00588614_m1	Target	Undetermined	0.030447602		40		20.06358		19.93642						Automatic			Automatic	0.1920776	201204		john dawes card 6
+148	PlateB	gp 4 day 3 v	Ccr4-Rn00591783_s1	Target	Undetermined	0.023652554		40		20.06358		19.93642						Automatic			Automatic	0.44860256	201204		john dawes card 6
+149	PlateB	gp 4 day 3 v	Ccr9-Rn00597283_m1	Target	Undetermined	0.010478497		40		20.06358		19.93642						Automatic			Automatic	0.3062018	201204		john dawes card 6
+150	PlateB	gp 4 day 3 v	Jak2-Rn00580452_m1	Target	30.300049	4.8476553		30.300049		10.363628		19.93642		-0.56124115	1.4755381			Automatic			Automatic	0.7032019	201204		john dawes card 6
+151	PlateB	gp 4 day 3 v	Cmklr1-Rn00573616_s1	Target	31.933605	4.8173337		31.933605		11.997185		19.93642		-0.6651058	1.5856845			Automatic			Automatic	0.74775267	201204		john dawes card 6
+152	PlateB	gp 4 day 3 v	Ccl2-Rn00580555_m1	Target	Undetermined	0.014615774		40		20.06358		19.93642		4.89015	0.033722375			Automatic			Automatic	0.26668566	201204		john dawes card 6
+153	PlateB	gp 4 day 3 v	Lif-Rn00573491_g1	Target	34.91886	3.7588398		34.91886		14.982441		19.93642		-1.6910877	3.2290006			Automatic			Automatic	0.70452154	201204		john dawes card 6
+154	PlateB	gp 4 day 3 v	Ccl22-Rn01536591_m1	Target	34.063126	3.4148524		34.063126		14.126705		19.93642		0.013475418	0.99070305			Automatic			Automatic	0.5279876	201204		john dawes card 6
+155	PlateB	gp 4 day 3 v	Ccl7-Rn01467286_m1	Target	36.08475	2.2957788		36.08475		16.14833		19.93642		2.1494808	0.22539371			Automatic			Automatic	0.3011645	201204		john dawes card 6
+156	PlateB	gp 4 day 3 v	Ccl28-Rn00586715_m1	Target	Undetermined	0.025182843		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+157	PlateB	gp 4 day 3 v	Adipoq-Rn00595250_m1	Target	33.107616	2.9797928		33.107616		13.171196		19.93642		-0.83872414	1.7884678			Automatic			Automatic	0.4963867	201204		john dawes card 6
+158	PlateB	gp 4 day 3 v	Col1a1-Rn00801649_g1	Target	21.315943	4.326864		21.315943		1.3795223		19.93642		-1.2590218	2.393334			Automatic			Automatic	0.7423907	201204		john dawes card 6
+159	PlateB	gp 4 day 3 v	Mmp7-Rn00563467_m1	Target	Undetermined	0.020052016		40		20.06358		19.93642						Automatic			Automatic	0.84121996	201204		john dawes card 6
+160	PlateB	gp 4 day 3 v	Ptgs2-Rn01483828_m1	Target	33.053055	3.950734		33.053055		13.116634		19.93642		0.003465653	0.9976007			Automatic			Automatic	0.5957464	201204		john dawes card 6
+161	PlateB	gp 4 day 3 v	Igf1-Rn00710306_m1	Target	30.568115	4.1274214		30.568115		10.631695		19.93642		-1.0136528	2.0190167			Automatic			Automatic	0.5744112	201204		john dawes card 6
+162	PlateB	gp 4 day 3 v	Adrbk1-Rn00562822_m1	Target	29.83658	7.3313923		29.83658		9.90016		19.93642		-0.71173286	1.63777			Automatic			Automatic	1.2070067	201204		john dawes card 6
+163	PlateB	gp 4 day 3 v	Tnfsf10-Rn00595556_m1	Target	35.631992	3.7681298		35.631992		15.695572		19.93642		0.23898888	0.847339			Automatic			Automatic	0.83305323	201204		john dawes card 6
+164	PlateB	gp 4 day 3 v	Ccl3-Rn00564660_m1	Target	33.96162	0.57823414		33.96162		14.0252		19.93642		-0.88121986	1.841932			Automatic			Automatic	0.15417227	201204		john dawes card 6
+165	PlateB	gp 4 day 3 v	Ccr2-Rn00573193_s1	Target	31.63754	3.4152575		31.63754		11.70112		19.93642		0.083768845	0.94358945			Automatic			Automatic	0.4758446	201204		john dawes card 6
+166	PlateB	gp 4 day 3 v	Ccl11-Rn00569995_m1	Target	Undetermined	0.035492897		40		20.06358		19.93642		5.2793636	0.025748575			Automatic			Automatic	0.17114185	201204		john dawes card 6
+167	PlateB	gp 4 day 3 v	Txnip-Rn01533890_g1	Target	28.522058	5.881559		28.522058		8.585638		19.93642		-0.22377396	1.1677845			Automatic			Automatic	0.662354	201204		john dawes card 6
+168	PlateB	gp 4 day 3 v	Nfkb1-Rn01399583_m1	Target	30.429525	5.759576		30.429525		10.493105		19.93642		-0.6693764	1.5903853			Automatic			Automatic	0.7297812	201204		john dawes card 6
+169	PlateB	gp 4 day 3 v	Xcl1-Rn00592605_m1	Target	Undetermined	0.0497638		40		20.06358		19.93642						Automatic			Automatic	0.62023246	201204		john dawes card 6
+170	PlateB	gp 4 day 3 v	Ccl21b-Rn01764651_g1	Target	34.48878	3.3338795		34.48878		14.552361		19.93642		-1.3486996	2.5468245			Automatic			Automatic	0.39807236	201204		john dawes card 6
+171	PlateB	gp 4 day 3 v	Ccl5-Rn00579590_m1	Target	32.619003	4.3679533		32.619003		12.682583		19.93642		-0.78061485	1.7178628			Automatic			Automatic	0.6527558	201204		john dawes card 6
+172	PlateB	gp 4 day 3 v	Ptges-Rn00572047_m1	Target	34.47952	5.5340757		34.47952		14.543098		19.93642		0.73581123	0.60048026			Automatic			Automatic	0.78465754	201204		john dawes card 6
+173	PlateB	gp 4 day 3 v	Tlr4-Rn00569848_m1	Target	34.05708	3.5031784		34.05708		14.120659		19.93642		-1.1567135	2.2294896			Automatic			Automatic	0.5898345	201204		john dawes card 6
+174	PlateB	gp 4 day 3 v	Cxcl9-Rn00595504_m1	Target	Undetermined	0.028431416		40		20.06358		19.93642						Automatic			Automatic	0.264642	201204		john dawes card 6
+175	PlateB	gp 4 day 3 v	Ltb4r-Rn00572209_s1	Target	Undetermined	0.023911357		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+176	PlateB	gp 4 day 3 v	Edn2-Rn00561135_m1	Target	36.969326	1.1953583		36.969326		17.032906		19.93642		-3.1334324	8.775203			Automatic			Automatic	0.26807687	201204		john dawes card 6
+177	PlateB	gp 4 day 3 v	Cxcl5-Rn00573587_g1	Target	Undetermined	0.049912453		40		20.06358		19.93642		4.004427	0.06230851			Automatic			Automatic	0.28920352	201204		john dawes card 6
+178	PlateB	gp 4 day 3 v	C5r1-Rn00586108_m1	Target	31.800976	6.4570913		31.800976		11.864555		19.93642		0.48373032	0.71512616			Automatic			Automatic	1.0817536	201204		john dawes card 6
+179	PlateB	gp 4 day 3 v	Ccl6-Rn01456402_g1	Target	31.496086	4.937352		31.496086		11.559666		19.93642		0.4000454	0.75783443			Automatic			Automatic	0.6962746	201204		john dawes card 6
+180	PlateB	gp 4 day 3 v	Gapdh-Rn99999916_s1	Endogenous Control	24.281292	5.2775316						19.93642						Automatic			Automatic	0.68164515	201204		john dawes card 6
+181	PlateB	gp 4 day 3 v	Il4-Rn01456866_m1	Target	Undetermined	0.012148142		40		20.06358		19.93642						Automatic			Automatic	0.2	201204		john dawes card 6
+182	PlateB	gp 4 day 3 v	Vhl-Rn00583795_m1	Target	31.679478	4.420358		31.679478		11.743057		19.93642		-0.47730827	1.3921438			Automatic			Automatic	0.7219793	201204		john dawes card 6
+183	PlateB	gp 4 day 3 v	Edn1-Rn00561129_m1	Target	33.93109	4.3504415		33.93109		13.994671		19.93642		-0.599699	1.5154004			Automatic			Automatic	0.6102071	201204		john dawes card 6
+184	PlateB	gp 4 day 3 v	Ccl24-Rn01481451_m1	Target	36.021988	2.0580635		36.021988		16.085567		19.93642		1.832201	0.28083584			Automatic			Automatic	0.34717923	201204		john dawes card 6
+185	PlateB	gp 4 day 3 v	Il1a-Rn00566700_m1	Target	Undetermined	0.009756804		40		20.06358		19.93642		2.9422245	0.13010745			Automatic			Automatic	0.5945674	201204		john dawes card 6
+186	PlateB	gp 4 day 3 v	Cxcr4-Rn00573522_s1	Target	30.500002	7.0603094		30.500002		10.563581		19.93642		0.012264252	0.9915351			Automatic			Automatic	1.1622332	201204		john dawes card 6
+187	PlateB	gp 4 day 3 v	Agtrl1-Rn00580252_s1	Target	28.544975	5.594772		28.544975		8.608555		19.93642		-1.5214539	2.8708022			Automatic			Automatic	0.87947166	201204		john dawes card 6
+188	PlateB	gp 4 day 3 v	Tgfb1-Rn00572010_m1	Target	27.152012	5.576192		27.152012		7.2155914		19.93642		-0.8388405	1.788612			Automatic			Automatic	0.6000924	201204		john dawes card 6
+189	PlateB	gp 4 day 3 v	Fgf2-Rn00570809_m1	Target	32.5723	4.306817		32.5723		12.6358795		19.93642		0.47942924	0.7172613			Automatic			Automatic	0.6294169	201204		john dawes card 6
+190	PlateB	gp 4 day 3 v	Myd88-Rn01640052_g1	Target	31.915155	4.963836		31.915155		11.978735		19.93642		-0.2780075	1.2125192			Automatic			Automatic	0.72092694	201204		john dawes card 6
+191	PlateB	gp 4 day 3 v	Ccbp2-Rn00589581_m1	Target	Undetermined	0.012580156		40		20.06358		19.93642		3.5933018	0.08285303			Automatic			Automatic	0.39839536	201204		john dawes card 6
+192	PlateB	gp 4 day 3 v	Cx3cl1-Rn00593186_m1	Target	34.27624	3.6411836		34.27624		14.339821		19.93642		2.7486782	0.14878714			Automatic			Automatic	0.6105048	201204		john dawes card 6
+193	PlateB	gp 7 day 3 mia	Il12a-Rn00584538_m1	Target	34.365723	5.7812715		34.365723		14.413393		19.95233		1.4415741	0.36816537			Automatic			Automatic	1.0853567	201204		john dawes card 6
+194	PlateB	gp 7 day 3 mia	Cebpe-Rn00567306_g1	Target	36.745506	1.2315619		36.745506		16.793177		19.95233		2.9903831	0.12583601			Automatic			Automatic	0.31868854	201204		john dawes card 6
+195	PlateB	gp 7 day 3 mia	Il5-Rn01459975_m1	Target	Undetermined	0.012715936		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+196	PlateB	gp 7 day 3 mia	Slit2-Rn00575268_m1	Target	30.50804	4.916667		30.50804		10.55571		19.95233		-1.4598064	2.7507145			Automatic			Automatic	0.68108386	201204		john dawes card 6
+197	PlateB	gp 7 day 3 mia	Ptgds-Rn00564605_m1	Target	32.354137	4.741605		32.354137		12.401808		19.95233		3.818571	0.070875406			Automatic			Automatic	0.7757821	201204		john dawes card 6
+198	PlateB	gp 7 day 3 mia	Cxcr3-Rn00584689_m1	Target	36.749195	2.384342		36.749195		16.796865		19.95233		0.7458229	0.5963276			Automatic			Automatic	0.5745667	201204		john dawes card 6
+199	PlateB	gp 7 day 3 mia	Il2-Rn00587673_m1	Target	Undetermined	0.014226556		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+200	PlateB	gp 7 day 3 mia	Il8ra-Rn00570857_s1	Target	Undetermined	0.020689249		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+201	PlateB	gp 7 day 3 mia	Rgs3-Rn00571037_m1	Target	32.532814	4.3505697		32.532814		12.580484		19.95233		-3.51968	11.469098			Automatic			Automatic	0.74907106	201204		john dawes card 6
+202	PlateB	gp 7 day 3 mia	Alpl-Rn00564931_m1	Target	24.881088	6.6586957		24.881088		4.9287586		19.95233		-1.0158768	2.0221314			Automatic			Automatic	0.8204313	201204		john dawes card 6
+203	PlateB	gp 7 day 3 mia	18S-Hs99999901_s1	Endogenous Control	19.95233	5.844529		19.95233				19.95233						Automatic			Automatic	0.7598856	201204		john dawes card 6
+204	PlateB	gp 7 day 3 mia	Pdgfa-Rn00709363_m1	Target	28.715988	6.744579		28.715988		8.763659		19.95233		-2.0477295	4.1345477			Automatic			Automatic	1.0923299	201204		john dawes card 6
+205	PlateB	gp 7 day 3 mia	Mmp13-Rn01448197_m1	Target	23.786116	4.2225113		23.786116		3.833786		19.95233		-2.5220032	5.7437906			Automatic			Automatic	0.39668465	201204		john dawes card 6
+206	PlateB	gp 7 day 3 mia	Tnf-Rn99999017_m1	Target	35.78617	1.9041096		35.78617		15.833841		19.95233		-0.05996704	1.042442			Automatic			Automatic	0.21698071	201204		john dawes card 6
+207	PlateB	gp 7 day 3 mia	Grb2-Rn00578230_m1	Target	36.92863	0.46020943		36.92863		16.976301		19.95233		-3.1900368	9.126343			Automatic			Automatic	0.24295665	201204		john dawes card 6
+208	PlateB	gp 7 day 3 mia	Il1b-Rn00580432_m1	Target	35.88281	3.0554597		35.88281		15.930479		19.95233		1.7237015	0.3027709			Automatic			Automatic	0.6899926	201204		john dawes card 6
+209	PlateB	gp 7 day 3 mia	Ccl9-Rn01471276_m1	Target	31.598465	3.499334		31.598465		11.646135		19.95233		-3.2529945	9.533424			Automatic			Automatic	0.6091474	201204		john dawes card 6
+210	PlateB	gp 7 day 3 mia	Cxcl10-Rn00594648_m1	Target	34.92449	3.080172		34.92449		14.972162		19.95233		0.9151459	0.53029025			Automatic			Automatic	0.7329111	201204		john dawes card 6
+211	PlateB	gp 7 day 3 mia	Runx2-Rn01512296_m1	Target	28.190992	3.6812358		28.190992		8.238663		19.95233		-0.846035	1.7975539			Automatic			Automatic	0.49735337	201204		john dawes card 6
+212	PlateB	gp 7 day 3 mia	Ccr1-Rn00571950_s1	Target	30.87116	3.8631012		30.87116		10.918831		19.95233		-2.0472698	4.1332307			Automatic			Automatic	0.4652991	201204		john dawes card 6
+213	PlateB	gp 7 day 3 mia	Cx3cr1-Rn00591798_m1	Target	31.942383	5.1793227		31.942383		11.990053		19.95233		0.11433792	0.9238062			Automatic			Automatic	0.9117795	201204		john dawes card 6
+214	PlateB	gp 7 day 3 mia	Ccl4-Rn00587826_m1	Target	34.134132	3.1790383		34.134132		14.181803		19.95233		0.2829857	0.8218883			Automatic			Automatic	0.44978127	201204		john dawes card 6
+215	PlateB	gp 7 day 3 mia	Ifng-Rn00594078_m1	Target	Undetermined	0.019013047		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+216	PlateB	gp 7 day 3 mia	Gpr30-Rn00592091_s1	Target	29.944265	4.614001		29.944265		9.991936		19.95233		-0.31624603	1.2450866			Automatic			Automatic	0.714589	201204		john dawes card 6
+217	PlateB	gp 7 day 3 mia	Col2a1-Rn00491926_g1	Target	18.96161	8.024901		18.96161		-0.99071884		19.95233		-0.7558079	1.6885769			Automatic			Automatic	0.8543828	201204		john dawes card 6
+218	PlateB	gp 7 day 3 mia	Cxcl2-Rn00586403_m1	Target	Undetermined	0.02315855		40		20.04767		19.95233						Automatic			Automatic	0.44646907	201204		john dawes card 6
+219	PlateB	gp 7 day 3 mia	Bdnf-Rn00560868_m1	Target	Undetermined	0.003634453		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+220	PlateB	gp 7 day 3 mia	Il12b-Rn00575112_m1	Target	Undetermined	0.020633101		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+221	PlateB	gp 7 day 3 mia	Il6-Rn00561420_m1	Target	Undetermined	0.029434562		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+222	PlateB	gp 7 day 3 mia	Tnfrsf1a-Rn00565310_m1	Target	30.068722	3.8609636		30.068722		10.116392		19.95233		-0.9809284	1.9737352			Automatic			Automatic	0.52896345	201204		john dawes card 6
+223	PlateB	gp 7 day 3 mia	Il8rb-Rn00567841_m1	Target	35.559036	2.9220037		35.559036		15.606707		19.95233		0.59983826	0.65982795			Automatic			Automatic	0.5313337	201204		john dawes card 6
+224	PlateB	gp 7 day 3 mia	Cxcl11-Rn00788262_g1	Target	32.729088	1.9160024		32.729088		12.776758		19.95233		-0.40052414	1.3199874			Automatic			Automatic	0.07185659	201204		john dawes card 6
+225	PlateB	gp 7 day 3 mia	Vegfa-Rn00582935_m1	Target	28.963522	6.3507085		28.963522		9.011192		19.95233		-0.5447674	1.458785			Automatic			Automatic	0.89241314	201204		john dawes card 6
+226	PlateB	gp 7 day 3 mia	Il13-Rn00587615_m1	Target	Undetermined	0.024091363		40		20.04767		19.95233						Automatic			Automatic	0.41847768	201204		john dawes card 6
+227	PlateB	gp 7 day 3 mia	Ccl20-Rn00570287_m1	Target	Undetermined	0.019718647		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+228	PlateB	gp 7 day 3 mia	Tac1-Rn00562002_m1	Target	36.828625	2.5399463		36.828625		16.876295		19.95233		4.4127502	0.046949375			Automatic			Automatic	0.48053753	201204		john dawes card 6
+229	PlateB	gp 7 day 3 mia	B2m-Rn00560865_m1	Target	25.234884	6.427291		25.234884		5.2825546		19.95233		-0.7654629	1.6999153			Automatic			Automatic	0.88220936	201204		john dawes card 6
+230	PlateB	gp 7 day 3 mia	Actb-Rn00667869_m1	Endogenous Control	22.938545	6.7712317						19.95233						Automatic			Automatic	0.750128	201204		john dawes card 6
+231	PlateB	gp 7 day 3 mia	Hif1a-Rn00577560_m1	Target	27.972088	6.1672063		27.972088		8.019758		19.95233		-0.6543331	1.5738883			Automatic			Automatic	0.9792785	201204		john dawes card 6
+232	PlateB	gp 7 day 3 mia	Ccl17-Rn00589290_m1	Target	Undetermined	0.02274394		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+233	PlateB	gp 7 day 3 mia	Pten-Rn00477208_m1	Target	27.746655	4.6650615		27.746655		7.794325		19.95233		-0.38952827	1.309965			Automatic			Automatic	0.67247266	201204		john dawes card 6
+234	PlateB	gp 7 day 3 mia	Ngfb-Rn01533872_m1	Target	32.79346	5.1480265		32.79346		12.841131		19.95233		-1.6035423	3.0388856			Automatic			Automatic	0.85080117	201204		john dawes card 6
+235	PlateB	gp 7 day 3 mia	Il10-Rn00563409_m1	Target	35.217197	2.805671		35.217197		15.264868		19.95233		0.038131714	0.97391534			Automatic			Automatic	0.28507942	201204		john dawes card 6
+236	PlateB	gp 7 day 3 mia	Cxcl12-Rn00573260_m1	Target	30.522455	6.016897		30.522455		10.570126		19.95233		0.4731369	0.7203965			Automatic			Automatic	0.9505656	201204		john dawes card 6
+237	PlateB	gp 7 day 3 mia	Il1rap-Rn00492642_m1	Target	34.74149	5.0766125		34.74149		14.78916		19.95233		-0.802166	1.7437171			Automatic			Automatic	1.0946708	201204		john dawes card 6
+238	PlateB	gp 7 day 3 mia	Stat3-Rn00562562_m1	Target	28.345594	5.573124		28.345594		8.393265		19.95233		-0.8848057	1.8465159			Automatic			Automatic	0.80549765	201204		john dawes card 6
+239	PlateB	gp 7 day 3 mia	Ccr5-Rn00588629_m1	Target	34.823643	4.9366217		34.823643		14.871313		19.95233		0.43416977	0.7401196			Automatic			Automatic	0.8350762	201204		john dawes card 6
+240	PlateB	gp 7 day 3 mia	Cxcl1-Rn00578225_m1	Target	Undetermined	0.041314125		40		20.04767		19.95233		34.425037	4.34E-11			Automatic			Automatic	0.111618675	201204		john dawes card 6
+241	PlateB	gp 7 day 3 mia	Csf3-Rn00567344_m1	Target	Undetermined	0.0212605		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+242	PlateB	gp 7 day 3 mia	Il18-Rn00824548_m1	Target	33.398796	4.170524		33.398796		13.446466		19.95233		-0.55314255	1.4672784			Automatic			Automatic	0.6543567	201204		john dawes card 6
+243	PlateB	gp 7 day 3 mia	Ccr3-Rn00588614_m1	Target	Undetermined	0.011565805		40		20.04767		19.95233						Automatic			Automatic	0.1920776	201204		john dawes card 6
+244	PlateB	gp 7 day 3 mia	Ccr4-Rn00591783_s1	Target	Undetermined	0.028483033		40		20.04767		19.95233						Automatic			Automatic	0.44860256	201204		john dawes card 6
+245	PlateB	gp 7 day 3 mia	Ccr9-Rn00597283_m1	Target	Undetermined	0.021205068		40		20.04767		19.95233						Automatic			Automatic	0.3062018	201204		john dawes card 6
+246	PlateB	gp 7 day 3 mia	Jak2-Rn00580452_m1	Target	30.104788	4.702301		30.104788		10.152458		19.95233		-0.77241135	1.7081224			Automatic			Automatic	0.7032019	201204		john dawes card 6
+247	PlateB	gp 7 day 3 mia	Cmklr1-Rn00573616_s1	Target	30.973812	5.214135		30.973812		11.021482		19.95233		-1.6408081	3.1184046			Automatic			Automatic	0.74775267	201204		john dawes card 6
+248	PlateB	gp 7 day 3 mia	Ccl2-Rn00580555_m1	Target	34.062534	2.158347		34.062534		14.110205		19.95233		-1.0632248	2.089597			Automatic			Automatic	0.26668566	201204		john dawes card 6
+249	PlateB	gp 7 day 3 mia	Lif-Rn00573491_g1	Target	33.14747	4.4619827		33.14747		13.195139		19.95233		-3.4783897	11.145502			Automatic			Automatic	0.70452154	201204		john dawes card 6
+250	PlateB	gp 7 day 3 mia	Ccl22-Rn01536591_m1	Target	34.964825	2.9461558		34.964825		15.012495		19.95233		0.8992653	0.5361597			Automatic			Automatic	0.5279876	201204		john dawes card 6
+251	PlateB	gp 7 day 3 mia	Ccl7-Rn01467286_m1	Target	33.94921	4.586952		33.94921		13.9968815		19.95233		-0.001968384	1.0013653			Automatic			Automatic	0.3011645	201204		john dawes card 6
+252	PlateB	gp 7 day 3 mia	Ccl28-Rn00586715_m1	Target	Undetermined	0.020938635		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+253	PlateB	gp 7 day 3 mia	Adipoq-Rn00595250_m1	Target	35.9875	1.3127743		35.9875		16.03517		19.95233		2.0252495	0.24566266			Automatic			Automatic	0.4963867	201204		john dawes card 6
+254	PlateB	gp 7 day 3 mia	Col1a1-Rn00801649_g1	Target	20.460789	4.902309		20.460789		0.5084591		19.95233		-2.130085	4.377433			Automatic			Automatic	0.7423907	201204		john dawes card 6
+255	PlateB	gp 7 day 3 mia	Mmp7-Rn00563467_m1	Target	Undetermined	0.019997716		40		20.04767		19.95233						Automatic			Automatic	0.84121996	201204		john dawes card 6
+256	PlateB	gp 7 day 3 mia	Ptgs2-Rn01483828_m1	Target	32.280148	3.9503262		32.280148		12.327818		19.95233		-0.7853508	1.7235113			Automatic			Automatic	0.5957464	201204		john dawes card 6
+257	PlateB	gp 7 day 3 mia	Igf1-Rn00710306_m1	Target	29.906288	3.6341128		29.906288		9.9539585		19.95233		-1.6913891	3.2296753			Automatic			Automatic	0.5744112	201204		john dawes card 6
+258	PlateB	gp 7 day 3 mia	Adrbk1-Rn00562822_m1	Target	29.76671	7.3357635		29.76671		9.814381		19.95233		-0.79751205	1.7381011			Automatic			Automatic	1.2070067	201204		john dawes card 6
+259	PlateB	gp 7 day 3 mia	Tnfsf10-Rn00595556_m1	Target	35.16819	3.894117		35.16819		15.21586		19.95233		-0.24072266	1.1815844			Automatic			Automatic	0.83305323	201204		john dawes card 6
+260	PlateB	gp 7 day 3 mia	Ccl3-Rn00564660_m1	Target	35.5916	0.47357708		35.5916		15.639269		19.95233		0.7328491	0.60171443			Automatic			Automatic	0.15417227	201204		john dawes card 6
+261	PlateB	gp 7 day 3 mia	Ccr2-Rn00573193_s1	Target	31.72751	3.2538714		31.72751		11.775181		19.95233		0.15782928	0.89637274			Automatic			Automatic	0.4758446	201204		john dawes card 6
+262	PlateB	gp 7 day 3 mia	Ccl11-Rn00569995_m1	Target	Undetermined	0.038391113		40		20.04767		19.95233		5.2634544	0.026034085			Automatic			Automatic	0.17114185	201204		john dawes card 6
+263	PlateB	gp 7 day 3 mia	Txnip-Rn01533890_g1	Target	28.379591	5.8867154		28.379591		8.427261		19.95233		-0.38215065	1.3032832			Automatic			Automatic	0.662354	201204		john dawes card 6
+264	PlateB	gp 7 day 3 mia	Nfkb1-Rn01399583_m1	Target	30.277431	5.7210536		30.277431		10.325102		19.95233		-0.83737946	1.7868016			Automatic			Automatic	0.7297812	201204		john dawes card 6
+265	PlateB	gp 7 day 3 mia	Xcl1-Rn00592605_m1	Target	Undetermined	0.024685383		40		20.04767		19.95233						Automatic			Automatic	0.62023246	201204		john dawes card 6
+266	PlateB	gp 7 day 3 mia	Ccl21b-Rn01764651_g1	Target	34.954544	3.1005735		34.954544		15.002214		19.95233		-0.8988457	1.8645735			Automatic			Automatic	0.39807236	201204		john dawes card 6
+267	PlateB	gp 7 day 3 mia	Ccl5-Rn00579590_m1	Target	32.102497	4.459463		32.102497		12.150167		19.95233		-1.3130302	2.4846287			Automatic			Automatic	0.6527558	201204		john dawes card 6
+268	PlateB	gp 7 day 3 mia	Ptges-Rn00572047_m1	Target	34.606277	5.714611		34.606277		14.653948		19.95233		0.8466606	0.5560704			Automatic			Automatic	0.78465754	201204		john dawes card 6
+269	PlateB	gp 7 day 3 mia	Tlr4-Rn00569848_m1	Target	34.89077	3.2215788		34.89077		14.93844		19.95233		-0.33893204	1.26482			Automatic			Automatic	0.5898345	201204		john dawes card 6
+270	PlateB	gp 7 day 3 mia	Cxcl9-Rn00595504_m1	Target	36.55606	1.3700306		36.55606		16.603731		19.95233		-3.5626068	11.815484			Automatic			Automatic	0.264642	201204		john dawes card 6
+271	PlateB	gp 7 day 3 mia	Ltb4r-Rn00572209_s1	Target	Undetermined	0.01967913		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+272	PlateB	gp 7 day 3 mia	Edn2-Rn00561135_m1	Target	Undetermined	0.010043442		40		20.04767		19.95233						Automatic			Automatic	0.26807687	201204		john dawes card 6
+273	PlateB	gp 7 day 3 mia	Cxcl5-Rn00573587_g1	Target	Undetermined	0.03402257		40		20.04767		19.95233		3.9885178	0.06299941			Automatic			Automatic	0.28920352	201204		john dawes card 6
+274	PlateB	gp 7 day 3 mia	C5r1-Rn00586108_m1	Target	31.910759	6.2822433		31.910759		11.958429		19.95233		0.5776043	0.6700756			Automatic			Automatic	1.0817536	201204		john dawes card 6
+275	PlateB	gp 7 day 3 mia	Ccl6-Rn01456402_g1	Target	32.135197	4.9976606		32.135197		12.182867		19.95233		1.0232468	0.49200785			Automatic			Automatic	0.6962746	201204		john dawes card 6
+276	PlateB	gp 7 day 3 mia	Gapdh-Rn99999916_s1	Endogenous Control	23.98191	5.390766						19.95233						Automatic			Automatic	0.68164515	201204		john dawes card 6
+277	PlateB	gp 7 day 3 mia	Il4-Rn01456866_m1	Target	Undetermined	0.011689782		40		20.04767		19.95233						Automatic			Automatic	0.2	201204		john dawes card 6
+278	PlateB	gp 7 day 3 mia	Vhl-Rn00583795_m1	Target	30.986408	5.093936		30.986408		11.034079		19.95233		-1.1862869	2.275663			Automatic			Automatic	0.7219793	201204		john dawes card 6
+279	PlateB	gp 7 day 3 mia	Edn1-Rn00561129_m1	Target	34.79173	3.6141205		34.79173		14.839399		19.95233		0.24502945	0.8437986			Automatic			Automatic	0.6102071	201204		john dawes card 6
+280	PlateB	gp 7 day 3 mia	Ccl24-Rn01481451_m1	Target	34.676636	2.8799965		34.676636		14.724306		19.95233		0.47093964	0.72149456			Automatic			Automatic	0.34717923	201204		john dawes card 6
+281	PlateB	gp 7 day 3 mia	Il1a-Rn00566700_m1	Target	Undetermined	0.030081272		40		20.04767		19.95233		2.9263153	0.13155013			Automatic			Automatic	0.5945674	201204		john dawes card 6
+282	PlateB	gp 7 day 3 mia	Cxcr4-Rn00573522_s1	Target	31.11145	7.103219		31.11145		11.159121		19.95233		0.60780334	0.65619504			Automatic			Automatic	1.1622332	201204		john dawes card 6
+283	PlateB	gp 7 day 3 mia	Agtrl1-Rn00580252_s1	Target	28.775522	5.8857894		28.775522		8.823193		19.95233		-1.3068161	2.4739497			Automatic			Automatic	0.87947166	201204		john dawes card 6
+284	PlateB	gp 7 day 3 mia	Tgfb1-Rn00572010_m1	Target	27.045347	5.713886		27.045347		7.0930176		19.95233		-0.96141434	1.947218			Automatic			Automatic	0.6000924	201204		john dawes card 6
+285	PlateB	gp 7 day 3 mia	Fgf2-Rn00570809_m1	Target	32.65116	4.339143		32.65116		12.698832		19.95233		0.5423813	0.6866366			Automatic			Automatic	0.6294169	201204		john dawes card 6
+286	PlateB	gp 7 day 3 mia	Myd88-Rn01640052_g1	Target	32.153343	4.868831		32.153343		12.201014		19.95233		-0.055728912	1.0393841			Automatic			Automatic	0.72092694	201204		john dawes card 6
+287	PlateB	gp 7 day 3 mia	Ccbp2-Rn00589581_m1	Target	Undetermined	0.020771265		40		20.04767		19.95233		3.5773926	0.083771735			Automatic			Automatic	0.39839536	201204		john dawes card 6
+288	PlateB	gp 7 day 3 mia	Cx3cl1-Rn00593186_m1	Target	34.299202	3.5855784		34.299202		14.346872		19.95233		2.7557297	0.1480617			Automatic			Automatic	0.6105048	201204		john dawes card 6
+289	PlateB	gp 8 day 3 mia	Il12a-Rn00584538_m1	Target	34.16134	6.2716584		34.16134		14.390648		19.77069		1.418829	0.37401578			Automatic			Automatic	1.0853567	201204		john dawes card 6
+290	PlateB	gp 8 day 3 mia	Cebpe-Rn00567306_g1	Target	Undetermined	0.017221987		40		20.22931		19.77069		6.4265156	0.011625886			Automatic			Automatic	0.31868854	201204		john dawes card 6
+291	PlateB	gp 8 day 3 mia	Il5-Rn01459975_m1	Target	Undetermined	0.020831585		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+292	PlateB	gp 8 day 3 mia	Slit2-Rn00575268_m1	Target	29.696966	5.241937		29.696966		9.926275		19.77069		-2.089241	4.2552414			Automatic			Automatic	0.68108386	201204		john dawes card 6
+293	PlateB	gp 8 day 3 mia	Ptgds-Rn00564605_m1	Target	33.961407	4.333891		33.961407		14.190716		19.77069		5.607479	0.020510705			Automatic			Automatic	0.7757821	201204		john dawes card 6
+294	PlateB	gp 8 day 3 mia	Cxcr3-Rn00584689_m1	Target	34.5728	3.8813052		34.5728		14.802109		19.77069		-1.2489338	2.3766572			Automatic			Automatic	0.5745667	201204		john dawes card 6
+295	PlateB	gp 8 day 3 mia	Il2-Rn00587673_m1	Target	Undetermined	0.007632017		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+296	PlateB	gp 8 day 3 mia	Il8ra-Rn00570857_s1	Target	Undetermined	0.024199247		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+297	PlateB	gp 8 day 3 mia	Rgs3-Rn00571037_m1	Target	33.936493	4.171065		33.936493		14.165802		19.77069		-1.9343624	3.8220918			Automatic			Automatic	0.74907106	201204		john dawes card 6
+298	PlateB	gp 8 day 3 mia	Alpl-Rn00564931_m1	Target	25.71772	6.906898		25.71772		5.947029		19.77069		0.002393723	0.99834216			Automatic			Automatic	0.8204313	201204		john dawes card 6
+299	PlateB	gp 8 day 3 mia	18S-Hs99999901_s1	Endogenous Control	19.77069	6.492609		19.77069				19.77069						Automatic			Automatic	0.7598856	201204		john dawes card 6
+300	PlateB	gp 8 day 3 mia	Pdgfa-Rn00709363_m1	Target	28.955416	6.790879		28.955416		9.184725		19.77069		-1.6266632	3.0879796			Automatic			Automatic	1.0923299	201204		john dawes card 6
+301	PlateB	gp 8 day 3 mia	Mmp13-Rn01448197_m1	Target	24.209871	4.5357084		24.209871		4.4391804		19.77069		-1.9166088	3.7753458			Automatic			Automatic	0.39668465	201204		john dawes card 6
+302	PlateB	gp 8 day 3 mia	Tnf-Rn99999017_m1	Target	33.840046	3.1963253		33.840046		14.069355		19.77069		-1.8244534	3.5417278			Automatic			Automatic	0.21698071	201204		john dawes card 6
+303	PlateB	gp 8 day 3 mia	Grb2-Rn00578230_m1	Target	Undetermined	0.031096816		40		20.22931		19.77069						Automatic			Automatic	0.24295665	201204		john dawes card 6
+304	PlateB	gp 8 day 3 mia	Il1b-Rn00580432_m1	Target	35.787285	3.402982		35.787285		16.016594		19.77069		1.8098164	0.28522724			Automatic			Automatic	0.6899926	201204		john dawes card 6
+305	PlateB	gp 8 day 3 mia	Ccl9-Rn01471276_m1	Target	30.47381	4.034766		30.47381		10.703119		19.77069		-4.1960106	18.32842			Automatic			Automatic	0.6091474	201204		john dawes card 6
+306	PlateB	gp 8 day 3 mia	Cxcl10-Rn00594648_m1	Target	32.96836	4.5046563		32.96836		13.19767		19.77069		-0.8593464	1.8142163			Automatic			Automatic	0.7329111	201204		john dawes card 6
+307	PlateB	gp 8 day 3 mia	Runx2-Rn01512296_m1	Target	28.673487	3.9346602		28.673487		8.902796		19.77069		-0.18190193	1.1343783			Automatic			Automatic	0.49735337	201204		john dawes card 6
+308	PlateB	gp 8 day 3 mia	Ccr1-Rn00571950_s1	Target	30.583448	3.9164345		30.583448		10.8127575		19.77069		-2.1533432	4.4485745			Automatic			Automatic	0.4652991	201204		john dawes card 6
+309	PlateB	gp 8 day 3 mia	Cx3cr1-Rn00591798_m1	Target	31.738064	5.922966		31.738064		11.967373		19.77069		0.09165764	0.93844384			Automatic			Automatic	0.9117795	201204		john dawes card 6
+310	PlateB	gp 8 day 3 mia	Ccl4-Rn00587826_m1	Target	34.307114	3.2190444		34.307114		14.536423		19.77069		0.63760567	0.6427788			Automatic			Automatic	0.44978127	201204		john dawes card 6
+311	PlateB	gp 8 day 3 mia	Ifng-Rn00594078_m1	Target	Undetermined	0.0210433		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+312	PlateB	gp 8 day 3 mia	Gpr30-Rn00592091_s1	Target	30.967207	5.0871196		30.967207		11.196516		19.77069		0.8883343	0.5402375			Automatic			Automatic	0.714589	201204		john dawes card 6
+313	PlateB	gp 8 day 3 mia	Col2a1-Rn00491926_g1	Target	20.38542	8.0048		20.38542		0.6147289		19.77069		0.8496399	0.55492324			Automatic			Automatic	0.8543828	201204		john dawes card 6
+314	PlateB	gp 8 day 3 mia	Cxcl2-Rn00586403_m1	Target	Undetermined	0.031011462		40		20.22931		19.77069						Automatic			Automatic	0.44646907	201204		john dawes card 6
+315	PlateB	gp 8 day 3 mia	Bdnf-Rn00560868_m1	Target	Undetermined	0.019255877		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+316	PlateB	gp 8 day 3 mia	Il12b-Rn00575112_m1	Target	Undetermined	0.026842535		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+317	PlateB	gp 8 day 3 mia	Il6-Rn00561420_m1	Target	Undetermined	0.035370708		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+318	PlateB	gp 8 day 3 mia	Tnfrsf1a-Rn00565310_m1	Target	30.28769	3.8022702		30.28769		10.516998		19.77069		-0.58032227	1.4951832			Automatic			Automatic	0.52896345	201204		john dawes card 6
+319	PlateB	gp 8 day 3 mia	Il8rb-Rn00567841_m1	Target	35.80164	2.5838475		35.80164		16.030949		19.77069		1.0240803	0.4917237			Automatic			Automatic	0.5313337	201204		john dawes card 6
+320	PlateB	gp 8 day 3 mia	Cxcl11-Rn00788262_g1	Target	36.159424	1.2945487		36.159424		16.388733		19.77069		3.2114506	0.10795855			Automatic			Automatic	0.07185659	201204		john dawes card 6
+321	PlateB	gp 8 day 3 mia	Vegfa-Rn00582935_m1	Target	29.70724	6.008411		29.70724		9.936548		19.77069		0.38058853	0.76812416			Automatic			Automatic	0.89241314	201204		john dawes card 6
+322	PlateB	gp 8 day 3 mia	Il13-Rn00587615_m1	Target	Undetermined	0.035382986		40		20.22931		19.77069						Automatic			Automatic	0.41847768	201204		john dawes card 6
+323	PlateB	gp 8 day 3 mia	Ccl20-Rn00570287_m1	Target	Undetermined	0.01754117		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+324	PlateB	gp 8 day 3 mia	Tac1-Rn00562002_m1	Target	36.897404	2.2095003		36.897404		17.126713		19.77069		4.663168	0.039468132			Automatic			Automatic	0.48053753	201204		john dawes card 6
+325	PlateB	gp 8 day 3 mia	B2m-Rn00560865_m1	Target	24.939966	6.649306		24.939966		5.1692753		19.77069		-0.8787422	1.8387715			Automatic			Automatic	0.88220936	201204		john dawes card 6
+326	PlateB	gp 8 day 3 mia	Actb-Rn00667869_m1	Endogenous Control	23.145472	6.8717337						19.77069						Automatic			Automatic	0.750128	201204		john dawes card 6
+327	PlateB	gp 8 day 3 mia	Hif1a-Rn00577560_m1	Target	29.165789	6.019325		29.165789		9.395098		19.77069		0.7210064	0.6066741			Automatic			Automatic	0.9792785	201204		john dawes card 6
+328	PlateB	gp 8 day 3 mia	Ccl17-Rn00589290_m1	Target	Undetermined	0.029713273		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+329	PlateB	gp 8 day 3 mia	Pten-Rn00477208_m1	Target	27.947876	5.1877136		27.947876		8.177185		19.77069		-0.006668091	1.0046327			Automatic			Automatic	0.67247266	201204		john dawes card 6
+330	PlateB	gp 8 day 3 mia	Ngfb-Rn01533872_m1	Target	33.922245	4.715911		33.922245		14.151554		19.77069		-0.29311943	1.2252867			Automatic			Automatic	0.85080117	201204		john dawes card 6
+331	PlateB	gp 8 day 3 mia	Il10-Rn00563409_m1	Target	Undetermined	0.032963157		40		20.22931		19.77069		5.002573	0.031194316			Automatic			Automatic	0.28507942	201204		john dawes card 6
+332	PlateB	gp 8 day 3 mia	Cxcl12-Rn00573260_m1	Target	29.232216	6.6068444		29.232216		9.461525		19.77069		-0.6354637	1.553437			Automatic			Automatic	0.9505656	201204		john dawes card 6
+333	PlateB	gp 8 day 3 mia	Il1rap-Rn00492642_m1	Target	34.24158	4.9768567		34.24158		14.47089		19.77069		-1.1204357	2.1741261			Automatic			Automatic	1.0946708	201204		john dawes card 6
+334	PlateB	gp 8 day 3 mia	Stat3-Rn00562562_m1	Target	28.364319	5.452557		28.364319		8.593628		19.77069		-0.6844425	1.6070808			Automatic			Automatic	0.80549765	201204		john dawes card 6
+335	PlateB	gp 8 day 3 mia	Ccr5-Rn00588629_m1	Target	33.519917	5.2997665		33.519917		13.749226		19.77069		-0.6879177	1.6109567			Automatic			Automatic	0.8350762	201204		john dawes card 6
+336	PlateB	gp 8 day 3 mia	Cxcl1-Rn00578225_m1	Target	34.299015	1.4919847		34.299015		14.528324		19.77069		28.905691	1.99E-09			Automatic			Automatic	0.111618675	201204		john dawes card 6
+337	PlateB	gp 8 day 3 mia	Csf3-Rn00567344_m1	Target	Undetermined	0.02645117		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+338	PlateB	gp 8 day 3 mia	Il18-Rn00824548_m1	Target	32.904945	4.22403		32.904945		13.134254		19.77069		-0.86535454	1.8217874			Automatic			Automatic	0.6543567	201204		john dawes card 6
+339	PlateB	gp 8 day 3 mia	Ccr3-Rn00588614_m1	Target	36.17653	1.849037		36.17653		16.405838		19.77069		-3.7605	13.552621			Automatic			Automatic	0.1920776	201204		john dawes card 6
+340	PlateB	gp 8 day 3 mia	Ccr4-Rn00591783_s1	Target	35.51873	2.5685844		35.51873		15.748039		19.77069		-4.4182987	21.381613			Automatic			Automatic	0.44860256	201204		john dawes card 6
+341	PlateB	gp 8 day 3 mia	Ccr9-Rn00597283_m1	Target	36.874794	1.3789343		36.874794		17.104103		19.77069		-3.0622349	8.352655			Automatic			Automatic	0.3062018	201204		john dawes card 6
+342	PlateB	gp 8 day 3 mia	Jak2-Rn00580452_m1	Target	30.247622	4.6340365		30.247622		10.476931		19.77069		-0.44793892	1.3640901			Automatic			Automatic	0.7032019	201204		john dawes card 6
+343	PlateB	gp 8 day 3 mia	Cmklr1-Rn00573616_s1	Target	32.103878	4.6749268		32.103878		12.333187		19.77069		-0.32910347	1.2562325			Automatic			Automatic	0.74775267	201204		john dawes card 6
+344	PlateB	gp 8 day 3 mia	Ccl2-Rn00580555_m1	Target	35.679115	2.1368942		35.679115		15.908424		19.77069		0.7349949	0.6008201			Automatic			Automatic	0.26668566	201204		john dawes card 6
+345	PlateB	gp 8 day 3 mia	Lif-Rn00573491_g1	Target	33.963985	4.270568		33.963985		14.193295		19.77069		-2.4802341	5.57988			Automatic			Automatic	0.70452154	201204		john dawes card 6
+346	PlateB	gp 8 day 3 mia	Ccl22-Rn01536591_m1	Target	33.27809	3.7658763		33.27809		13.5074005		19.77069		-0.60582924	1.5218532			Automatic			Automatic	0.5279876	201204		john dawes card 6
+347	PlateB	gp 8 day 3 mia	Ccl7-Rn01467286_m1	Target	35.88847	1.6893644		35.88847		16.117779		19.77069		2.118929	0.23021777			Automatic			Automatic	0.3011645	201204		john dawes card 6
+348	PlateB	gp 8 day 3 mia	Ccl28-Rn00586715_m1	Target	Undetermined	0.02875328		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+349	PlateB	gp 8 day 3 mia	Adipoq-Rn00595250_m1	Target	33.63528	3.2853105		33.63528		13.86459		19.77069		-0.14533043	1.105984			Automatic			Automatic	0.4963867	201204		john dawes card 6
+350	PlateB	gp 8 day 3 mia	Col1a1-Rn00801649_g1	Target	19.944149	4.2556214		19.944149		0.1734581		19.77069		-2.465086	5.5215983			Automatic			Automatic	0.7423907	201204		john dawes card 6
+351	PlateB	gp 8 day 3 mia	Mmp7-Rn00563467_m1	Target	36.30633	4.17918		36.30633		16.53564		19.77069		-3.6306973	12.386505			Automatic			Automatic	0.84121996	201204		john dawes card 6
+352	PlateB	gp 8 day 3 mia	Ptgs2-Rn01483828_m1	Target	32.864365	4.0366373		32.864365		13.093674		19.77069		-0.01949501	1.0136046			Automatic			Automatic	0.5957464	201204		john dawes card 6
+353	PlateB	gp 8 day 3 mia	Igf1-Rn00710306_m1	Target	29.446892	3.8986456		29.446892		9.676201		19.77069		-1.9691467	3.9153647			Automatic			Automatic	0.5744112	201204		john dawes card 6
+354	PlateB	gp 8 day 3 mia	Adrbk1-Rn00562822_m1	Target	29.92163	7.033567		29.92163		10.15094		19.77069		-0.46095276	1.3764505			Automatic			Automatic	1.2070067	201204		john dawes card 6
+355	PlateB	gp 8 day 3 mia	Tnfsf10-Rn00595556_m1	Target	34.66939	3.8887515		34.66939		14.898701		19.77069		-0.5578823	1.4721068			Automatic			Automatic	0.83305323	201204		john dawes card 6
+356	PlateB	gp 8 day 3 mia	Ccl3-Rn00564660_m1	Target	35.301544	0.45105988		35.301544		15.530853		19.77069		0.6244335	0.6486744			Automatic			Automatic	0.15417227	201204		john dawes card 6
+357	PlateB	gp 8 day 3 mia	Ccr2-Rn00573193_s1	Target	31.699127	3.3098607		31.699127		11.928436		19.77069		0.31108475	0.80603546			Automatic			Automatic	0.4758446	201204		john dawes card 6
+358	PlateB	gp 8 day 3 mia	Ccl11-Rn00569995_m1	Target	Undetermined	0.03706312		40		20.22931		19.77069		5.445093	0.022954278			Automatic			Automatic	0.17114185	201204		john dawes card 6
+359	PlateB	gp 8 day 3 mia	Txnip-Rn01533890_g1	Target	28.495594	5.361524		28.495594		8.724903		19.77069		-0.084508896	1.0603267			Automatic			Automatic	0.662354	201204		john dawes card 6
+360	PlateB	gp 8 day 3 mia	Nfkb1-Rn01399583_m1	Target	Undetermined	0		40		20.22931		19.77069		9.066828	0.001864717			Automatic			Automatic	0.7297812	201204		john dawes card 6
+361	PlateB	gp 8 day 3 mia	Xcl1-Rn00592605_m1	Target	35.974197	2.9728215		35.974197		16.203506		19.77069		-3.9628315	15.593053			Automatic			Automatic	0.62023246	201204		john dawes card 6
+362	PlateB	gp 8 day 3 mia	Ccl21b-Rn01764651_g1	Target	Undetermined	0.01620078		40		20.22931		19.77069		4.328249	0.049781416			Automatic			Automatic	0.39807236	201204		john dawes card 6
+363	PlateB	gp 8 day 3 mia	Ccl5-Rn00579590_m1	Target	32.498577	4.4724455		32.498577		12.727886		19.77069		-0.7353115	1.6647569			Automatic			Automatic	0.6527558	201204		john dawes card 6
+364	PlateB	gp 8 day 3 mia	Ptges-Rn00572047_m1	Target	Undetermined	0.009379327		40		20.22931		19.77069		6.422022	0.011662154			Automatic			Automatic	0.78465754	201204		john dawes card 6
+365	PlateB	gp 8 day 3 mia	Tlr4-Rn00569848_m1	Target	33.402412	3.9930148		33.402412		13.6317215		19.77069		-1.6456509	3.1288898			Automatic			Automatic	0.5898345	201204		john dawes card 6
+366	PlateB	gp 8 day 3 mia	Cxcl9-Rn00595504_m1	Target	36.84834	1.3873265		36.84834		17.077648		19.77069		-3.0886898	8.507232			Automatic			Automatic	0.264642	201204		john dawes card 6
+367	PlateB	gp 8 day 3 mia	Ltb4r-Rn00572209_s1	Target	Undetermined	0.010659933		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+368	PlateB	gp 8 day 3 mia	Edn2-Rn00561135_m1	Target	Undetermined	0.009484142		40		20.22931		19.77069						Automatic			Automatic	0.26807687	201204		john dawes card 6
+369	PlateB	gp 8 day 3 mia	Cxcl5-Rn00573587_g1	Target	Undetermined	0.030743122		40		20.22931		19.77069		4.1701565	0.05554664			Automatic			Automatic	0.28920352	201204		john dawes card 6
+370	PlateB	gp 8 day 3 mia	C5r1-Rn00586108_m1	Target	31.850904	6.315357		31.850904		12.080214		19.77069		0.6993885	0.61583316			Automatic			Automatic	1.0817536	201204		john dawes card 6
+371	PlateB	gp 8 day 3 mia	Ccl6-Rn01456402_g1	Target	31.808008	4.9843974		31.808008		12.037317		19.77069		0.877697	0.5442355			Automatic			Automatic	0.6962746	201204		john dawes card 6
+372	PlateB	gp 8 day 3 mia	Gapdh-Rn99999916_s1	Endogenous Control	24.873991	5.4107375						19.77069						Automatic			Automatic	0.68164515	201204		john dawes card 6
+373	PlateB	gp 8 day 3 mia	Il4-Rn01456866_m1	Target	Undetermined	0.013336062		40		20.22931		19.77069						Automatic			Automatic	0.2	201204		john dawes card 6
+374	PlateB	gp 8 day 3 mia	Vhl-Rn00583795_m1	Target	32.05009	4.3628755		32.05009		12.2794		19.77069		0.059034348	0.9599064			Automatic			Automatic	0.7219793	201204		john dawes card 6
+375	PlateB	gp 8 day 3 mia	Edn1-Rn00561129_m1	Target	34.16933	4.319184		34.16933		14.39864		19.77069		-0.19573021	1.1453037			Automatic			Automatic	0.6102071	201204		john dawes card 6
+376	PlateB	gp 8 day 3 mia	Ccl24-Rn01481451_m1	Target	33.850185	3.2174776		33.850185		14.079494		19.77069		-0.173872	1.128082			Automatic			Automatic	0.34717923	201204		john dawes card 6
+377	PlateB	gp 8 day 3 mia	Il1a-Rn00566700_m1	Target	Undetermined	0.008377075		40		20.22931		19.77069		3.107954	0.11598788			Automatic			Automatic	0.5945674	201204		john dawes card 6
+378	PlateB	gp 8 day 3 mia	Cxcr4-Rn00573522_s1	Target	30.920124	7.05609		30.920124		11.149433		19.77069		0.5981159	0.6606161			Automatic			Automatic	1.1622332	201204		john dawes card 6
+379	PlateB	gp 8 day 3 mia	Agtrl1-Rn00580252_s1	Target	28.382526	6.0473332		28.382526		8.6118355		19.77069		-1.5181732	2.8642814			Automatic			Automatic	0.87947166	201204		john dawes card 6
+380	PlateB	gp 8 day 3 mia	Tgfb1-Rn00572010_m1	Target	27.20378	5.877441		27.20378		7.4330883		19.77069		-0.6213436	1.5383072			Automatic			Automatic	0.6000924	201204		john dawes card 6
+381	PlateB	gp 8 day 3 mia	Fgf2-Rn00570809_m1	Target	33.59535	3.8489368		33.59535		13.824657		19.77069		1.6682072	0.3146441			Automatic			Automatic	0.6294169	201204		john dawes card 6
+382	PlateB	gp 8 day 3 mia	Myd88-Rn01640052_g1	Target	32.200863	4.899946		32.200863		12.430172		19.77069		0.17342949	0.8867323			Automatic			Automatic	0.72092694	201204		john dawes card 6
+383	PlateB	gp 8 day 3 mia	Ccbp2-Rn00589581_m1	Target	36.250504	2.3888848		36.250504		16.479813		19.77069		0.009534836	0.99341273			Automatic			Automatic	0.39839536	201204		john dawes card 6
+384	PlateB	gp 8 day 3 mia	Cx3cl1-Rn00593186_m1	Target	33.387398	3.993444		33.387398		13.616707		19.77069		2.0255642	0.24560907			Automatic			Automatic	0.6105048	201204		john dawes card 6
+
+Summary Data for Study Untitled 1																									
+Endogenous Control	18S-Hs99999901_s1																								
+Calibrator	gp 1 day 3 v								
+Multiplicity	Non-Multiplex								
+PlateID	Sample	Detector	Avg delta Ct	delta Ct SD	delta delta Ct	RQ	RQ Min	RQ Max	Threshold
+	gp 1 day 3 v	18S-Hs99999901_s1							0.7598856
+	gp 2 day 3 v	18S-Hs99999901_s1							0.7598856
+	gp 5 day 3 mia	18S-Hs99999901_s1							0.7598856
+	gp 6 day 3 mia	18S-Hs99999901_s1							0.7598856
+	gp 3 day 3 v	18S-Hs99999901_s1							0.7598856
+	gp 4 day 3 v	18S-Hs99999901_s1							0.7598856
+	gp 7 day 3 mia	18S-Hs99999901_s1							0.7598856
+	gp 8 day 3 mia	18S-Hs99999901_s1							0.7598856
+	gp 1 day 3 v	Adipoq-Rn00595250_m1	14.00992		0	1			0.4963867
+	gp 2 day 3 v	Adipoq-Rn00595250_m1	12.444536		-1.5653839	2.9595625			0.4963867
+	gp 5 day 3 mia	Adipoq-Rn00595250_m1	19.729412		5.719492	0.018978477			0.4963867
+	gp 6 day 3 mia	Adipoq-Rn00595250_m1	19.794024		5.7841034	0.018147273			0.4963867
+	gp 3 day 3 v	Adipoq-Rn00595250_m1	9.791504		-4.218416	18.61529			0.4963867
+	gp 4 day 3 v	Adipoq-Rn00595250_m1	13.171196		-0.83872414	1.7884678			0.4963867
+	gp 7 day 3 mia	Adipoq-Rn00595250_m1	16.03517		2.0252495	0.24566266			0.4963867
+	gp 8 day 3 mia	Adipoq-Rn00595250_m1	13.86459		-0.14533043	1.105984			0.4963867
+	gp 1 day 3 v	Adrbk1-Rn00562822_m1	10.611893		0	1			1.2070067
+	gp 2 day 3 v	Adrbk1-Rn00562822_m1	8.762806		-1.8490868	3.6027205			1.2070067
+	gp 5 day 3 mia	Adrbk1-Rn00562822_m1	10.070751		-0.5411415	1.4551234			1.2070067
+	gp 6 day 3 mia	Adrbk1-Rn00562822_m1	10.383398		-0.22849464	1.1716118			1.2070067
+	gp 3 day 3 v	Adrbk1-Rn00562822_m1	9.014446		-1.5974464	3.0260723			1.2070067
+	gp 4 day 3 v	Adrbk1-Rn00562822_m1	9.90016		-0.71173286	1.63777			1.2070067
+	gp 7 day 3 mia	Adrbk1-Rn00562822_m1	9.814381		-0.79751205	1.7381011			1.2070067
+	gp 8 day 3 mia	Adrbk1-Rn00562822_m1	10.15094		-0.46095276	1.3764505			1.2070067
+	gp 1 day 3 v	Agtrl1-Rn00580252_s1	10.130009		0	1			0.87947166
+	gp 2 day 3 v	Agtrl1-Rn00580252_s1	8.765923		-1.3640862	2.5741322			0.87947166
+	gp 5 day 3 mia	Agtrl1-Rn00580252_s1	9.298609		-0.8313999	1.7794112			0.87947166
+	gp 6 day 3 mia	Agtrl1-Rn00580252_s1	8.762827		-1.3671818	2.5796616			0.87947166
+	gp 3 day 3 v	Agtrl1-Rn00580252_s1	8.497814		-1.6321945	3.0998416			0.87947166
+	gp 4 day 3 v	Agtrl1-Rn00580252_s1	8.608555		-1.5214539	2.8708022			0.87947166
+	gp 7 day 3 mia	Agtrl1-Rn00580252_s1	8.823193		-1.3068161	2.4739497			0.87947166
+	gp 8 day 3 mia	Agtrl1-Rn00580252_s1	8.6118355		-1.5181732	2.8642814			0.87947166
+	gp 1 day 3 v	Alpl-Rn00564931_m1	5.9446354		0	1			0.8204313
+	gp 2 day 3 v	Alpl-Rn00564931_m1	5.014492		-0.93014336	1.9054654			0.8204313
+	gp 5 day 3 mia	Alpl-Rn00564931_m1	4.6562996		-1.2883358	2.4424615			0.8204313
+	gp 6 day 3 mia	Alpl-Rn00564931_m1	5.813732		-0.13090324	1.094979			0.8204313
+	gp 3 day 3 v	Alpl-Rn00564931_m1	4.667137		-1.2774982	2.4241824			0.8204313
+	gp 4 day 3 v	Alpl-Rn00564931_m1	4.945219		-0.99941635	1.999191			0.8204313
+	gp 7 day 3 mia	Alpl-Rn00564931_m1	4.9287586		-1.0158768	2.0221314			0.8204313
+	gp 8 day 3 mia	Alpl-Rn00564931_m1	5.947029		0.002393723	0.99834216			0.8204313
+	gp 1 day 3 v	B2m-Rn00560865_m1	6.0480175		0	1			0.88220936
+	gp 2 day 3 v	B2m-Rn00560865_m1	4.777313		-1.2707043	2.4127932			0.88220936
+	gp 5 day 3 mia	B2m-Rn00560865_m1	5.6576633		-0.39035416	1.3107151			0.88220936
+	gp 6 day 3 mia	B2m-Rn00560865_m1	5.376766		-0.6712513	1.5924536			0.88220936
+	gp 3 day 3 v	B2m-Rn00560865_m1	4.7947235		-1.253294	2.3838508			0.88220936
+	gp 4 day 3 v	B2m-Rn00560865_m1	5.8733635		-0.174654	1.1286937			0.88220936
+	gp 7 day 3 mia	B2m-Rn00560865_m1	5.2825546		-0.7654629	1.6999153			0.88220936
+	gp 8 day 3 mia	B2m-Rn00560865_m1	5.1692753		-0.8787422	1.8387715			0.88220936
+	gp 1 day 3 v	Bdnf-Rn00560868_m1	20.166338						0.2
+	gp 2 day 3 v	Bdnf-Rn00560868_m1	19.848993						0.2
+	gp 5 day 3 mia	Bdnf-Rn00560868_m1	19.729412						0.2
+	gp 6 day 3 mia	Bdnf-Rn00560868_m1	19.794024						0.2
+	gp 3 day 3 v	Bdnf-Rn00560868_m1	20.053478						0.2
+	gp 4 day 3 v	Bdnf-Rn00560868_m1	20.06358						0.2
+	gp 7 day 3 mia	Bdnf-Rn00560868_m1	20.04767						0.2
+	gp 8 day 3 mia	Bdnf-Rn00560868_m1	20.22931						0.2
+	gp 1 day 3 v	C5r1-Rn00586108_m1	11.380825		0	1			1.0817536
+	gp 2 day 3 v	C5r1-Rn00586108_m1	10.583778		-0.79704666	1.7375406			1.0817536
+	gp 5 day 3 mia	C5r1-Rn00586108_m1	12.667145		1.2863197	0.4099956			1.0817536
+	gp 6 day 3 mia	C5r1-Rn00586108_m1	12.443144		1.0623188	0.47886178			1.0817536
+	gp 3 day 3 v	C5r1-Rn00586108_m1	12.04287		0.6620445	0.631982			1.0817536
+	gp 4 day 3 v	C5r1-Rn00586108_m1	11.864555		0.48373032	0.71512616			1.0817536
+	gp 7 day 3 mia	C5r1-Rn00586108_m1	11.958429		0.5776043	0.6700756			1.0817536
+	gp 8 day 3 mia	C5r1-Rn00586108_m1	12.080214		0.6993885	0.61583316			1.0817536
+	gp 1 day 3 v	Ccbp2-Rn00589581_m1	16.470278		0	1			0.39839536
+	gp 2 day 3 v	Ccbp2-Rn00589581_m1	14.9095745		-1.5607033	2.9499762			0.39839536
+	gp 5 day 3 mia	Ccbp2-Rn00589581_m1	19.729412		3.2591343	0.10444865			0.39839536
+	gp 6 day 3 mia	Ccbp2-Rn00589581_m1	16.748075		0.2777977	0.8248492			0.39839536
+	gp 3 day 3 v	Ccbp2-Rn00589581_m1	13.85918		-2.6110973	6.109682			0.39839536
+	gp 4 day 3 v	Ccbp2-Rn00589581_m1	20.06358		3.5933018	0.08285303			0.39839536
+	gp 7 day 3 mia	Ccbp2-Rn00589581_m1	20.04767		3.5773926	0.083771735			0.39839536
+	gp 8 day 3 mia	Ccbp2-Rn00589581_m1	16.479813		0.009534836	0.99341273			0.39839536
+	gp 1 day 3 v	Ccl11-Rn00569995_m1	14.784216		0	1			0.17114185
+	gp 2 day 3 v	Ccl11-Rn00569995_m1	13.217527		-1.5666885	2.96224			0.17114185
+	gp 5 day 3 mia	Ccl11-Rn00569995_m1	16.899002		2.1147861	0.2308798			0.17114185
+	gp 6 day 3 mia	Ccl11-Rn00569995_m1	13.915659		-0.868557	1.8258357			0.17114185
+	gp 3 day 3 v	Ccl11-Rn00569995_m1	20.053478		5.2692623	0.02592949			0.17114185
+	gp 4 day 3 v	Ccl11-Rn00569995_m1	20.06358		5.2793636	0.025748575			0.17114185
+	gp 7 day 3 mia	Ccl11-Rn00569995_m1	20.04767		5.2634544	0.026034085			0.17114185
+	gp 8 day 3 mia	Ccl11-Rn00569995_m1	20.22931		5.445093	0.022954278			0.17114185
+	gp 1 day 3 v	Ccl17-Rn00589290_m1	20.166338						0.2
+	gp 2 day 3 v	Ccl17-Rn00589290_m1	19.848993						0.2
+	gp 5 day 3 mia	Ccl17-Rn00589290_m1	19.729412						0.2
+	gp 6 day 3 mia	Ccl17-Rn00589290_m1	19.794024						0.2
+	gp 3 day 3 v	Ccl17-Rn00589290_m1	20.053478						0.2
+	gp 4 day 3 v	Ccl17-Rn00589290_m1	20.06358						0.2
+	gp 7 day 3 mia	Ccl17-Rn00589290_m1	20.04767						0.2
+	gp 8 day 3 mia	Ccl17-Rn00589290_m1	20.22931						0.2
+	gp 1 day 3 v	Ccl2-Rn00580555_m1	15.1734295		0	1			0.26668566
+	gp 2 day 3 v	Ccl2-Rn00580555_m1	12.225813		-2.9476166	7.714735			0.26668566
+	gp 5 day 3 mia	Ccl2-Rn00580555_m1	14.692749		-0.48068047	1.3954017			0.26668566
+	gp 6 day 3 mia	Ccl2-Rn00580555_m1	19.794024		4.620594	0.040650193			0.26668566
+	gp 3 day 3 v	Ccl2-Rn00580555_m1	14.191292		-0.9821377	1.9753902			0.26668566
+	gp 4 day 3 v	Ccl2-Rn00580555_m1	20.06358		4.89015	0.033722375			0.26668566
+	gp 7 day 3 mia	Ccl2-Rn00580555_m1	14.110205		-1.0632248	2.089597			0.26668566
+	gp 8 day 3 mia	Ccl2-Rn00580555_m1	15.908424		0.7349949	0.6008201			0.26668566
+	gp 1 day 3 v	Ccl20-Rn00570287_m1	20.166338						0.2
+	gp 2 day 3 v	Ccl20-Rn00570287_m1	19.848993						0.2
+	gp 5 day 3 mia	Ccl20-Rn00570287_m1	19.729412						0.2
+	gp 6 day 3 mia	Ccl20-Rn00570287_m1	19.794024						0.2
+	gp 3 day 3 v	Ccl20-Rn00570287_m1	20.053478						0.2
+	gp 4 day 3 v	Ccl20-Rn00570287_m1	20.06358						0.2
+	gp 7 day 3 mia	Ccl20-Rn00570287_m1	20.04767						0.2
+	gp 8 day 3 mia	Ccl20-Rn00570287_m1	20.22931						0.2
+	gp 1 day 3 v	Ccl21b-Rn01764651_g1	15.90106		0	1			0.39807236
+	gp 2 day 3 v	Ccl21b-Rn01764651_g1	13.521185		-2.3798752	5.204917			0.39807236
+	gp 5 day 3 mia	Ccl21b-Rn01764651_g1	16.670483		0.76942253	0.5866522			0.39807236
+	gp 6 day 3 mia	Ccl21b-Rn01764651_g1	19.794024		3.8929634	0.06731336			0.39807236
+	gp 3 day 3 v	Ccl21b-Rn01764651_g1	20.053478		4.152418	0.05623382			0.39807236
+	gp 4 day 3 v	Ccl21b-Rn01764651_g1	14.552361		-1.3486996	2.5468245			0.39807236
+	gp 7 day 3 mia	Ccl21b-Rn01764651_g1	15.002214		-0.8988457	1.8645735			0.39807236
+	gp 8 day 3 mia	Ccl21b-Rn01764651_g1	20.22931		4.328249	0.049781416			0.39807236
+	gp 1 day 3 v	Ccl22-Rn01536591_m1	14.11323		0	1			0.5279876
+	gp 2 day 3 v	Ccl22-Rn01536591_m1	15.7716465		1.6584167	0.31678662			0.5279876
+	gp 5 day 3 mia	Ccl22-Rn01536591_m1	15.6510315		1.5378017	0.34440982			0.5279876
+	gp 6 day 3 mia	Ccl22-Rn01536591_m1	13.691885		-0.42134476	1.3391752			0.5279876
+	gp 3 day 3 v	Ccl22-Rn01536591_m1	13.913364		-0.19986534	1.1485912			0.5279876
+	gp 4 day 3 v	Ccl22-Rn01536591_m1	14.126705		0.013475418	0.99070305			0.5279876
+	gp 7 day 3 mia	Ccl22-Rn01536591_m1	15.012495		0.8992653	0.5361597			0.5279876
+	gp 8 day 3 mia	Ccl22-Rn01536591_m1	13.5074005		-0.60582924	1.5218532			0.5279876
+	gp 1 day 3 v	Ccl24-Rn01481451_m1	14.253366		0	1			0.34717923
+	gp 2 day 3 v	Ccl24-Rn01481451_m1	13.562944		-0.69042206	1.6137556			0.34717923
+	gp 5 day 3 mia	Ccl24-Rn01481451_m1	15.2825775		1.029211	0.48997802			0.34717923
+	gp 6 day 3 mia	Ccl24-Rn01481451_m1	15.775721		1.5223541	0.3481174			0.34717923
+	gp 3 day 3 v	Ccl24-Rn01481451_m1	20.053478		5.800112	0.017947022			0.34717923
+	gp 4 day 3 v	Ccl24-Rn01481451_m1	16.085567		1.832201	0.28083584			0.34717923
+	gp 7 day 3 mia	Ccl24-Rn01481451_m1	14.724306		0.47093964	0.72149456			0.34717923
+	gp 8 day 3 mia	Ccl24-Rn01481451_m1	14.079494		-0.173872	1.128082			0.34717923
+	gp 1 day 3 v	Ccl28-Rn00586715_m1	20.166338						0.2
+	gp 2 day 3 v	Ccl28-Rn00586715_m1	19.848993						0.2
+	gp 5 day 3 mia	Ccl28-Rn00586715_m1	19.729412						0.2
+	gp 6 day 3 mia	Ccl28-Rn00586715_m1	19.794024						0.2
+	gp 3 day 3 v	Ccl28-Rn00586715_m1	20.053478						0.2
+	gp 4 day 3 v	Ccl28-Rn00586715_m1	20.06358						0.2
+	gp 7 day 3 mia	Ccl28-Rn00586715_m1	20.04767						0.2
+	gp 8 day 3 mia	Ccl28-Rn00586715_m1	20.22931						0.2
+	gp 1 day 3 v	Ccl3-Rn00564660_m1	14.90642		0	1			0.15417227
+	gp 2 day 3 v	Ccl3-Rn00564660_m1	15.48329		0.57686996	0.6704167			0.15417227
+	gp 5 day 3 mia	Ccl3-Rn00564660_m1	15.793114		0.88669395	0.5408521			0.15417227
+	gp 6 day 3 mia	Ccl3-Rn00564660_m1	14.427832		-0.4785881	1.3933793			0.15417227
+	gp 3 day 3 v	Ccl3-Rn00564660_m1	15.695332		0.7889118	0.5787805			0.15417227
+	gp 4 day 3 v	Ccl3-Rn00564660_m1	14.0252		-0.88121986	1.841932			0.15417227
+	gp 7 day 3 mia	Ccl3-Rn00564660_m1	15.639269		0.7328491	0.60171443			0.15417227
+	gp 8 day 3 mia	Ccl3-Rn00564660_m1	15.530853		0.6244335	0.6486744			0.15417227
+	gp 1 day 3 v	Ccl4-Rn00587826_m1	13.898817		0	1			0.44978127
+	gp 2 day 3 v	Ccl4-Rn00587826_m1	14.022581		0.12376404	0.91779			0.44978127
+	gp 5 day 3 mia	Ccl4-Rn00587826_m1	13.147018		-0.7517986	1.6838908			0.44978127
+	gp 6 day 3 mia	Ccl4-Rn00587826_m1	15.738958		1.8401413	0.27929443			0.44978127
+	gp 3 day 3 v	Ccl4-Rn00587826_m1	12.972649		-0.92616844	1.9002227			0.44978127
+	gp 4 day 3 v	Ccl4-Rn00587826_m1	14.902439		1.003622	0.49874628			0.44978127
+	gp 7 day 3 mia	Ccl4-Rn00587826_m1	14.181803		0.2829857	0.8218883			0.44978127
+	gp 8 day 3 mia	Ccl4-Rn00587826_m1	14.536423		0.63760567	0.6427788			0.44978127
+	gp 1 day 3 v	Ccl5-Rn00579590_m1	13.463198		0	1			0.6527558
+	gp 2 day 3 v	Ccl5-Rn00579590_m1	12.816622		-0.6465759	1.5654484			0.6527558
+	gp 5 day 3 mia	Ccl5-Rn00579590_m1	13.071049		-0.39214897	1.3123468			0.6527558
+	gp 6 day 3 mia	Ccl5-Rn00579590_m1	12.974279		-0.4889183	1.4033922			0.6527558
+	gp 3 day 3 v	Ccl5-Rn00579590_m1	13.521782		0.058584213	0.960206			0.6527558
+	gp 4 day 3 v	Ccl5-Rn00579590_m1	12.682583		-0.78061485	1.7178628			0.6527558
+	gp 7 day 3 mia	Ccl5-Rn00579590_m1	12.150167		-1.3130302	2.4846287			0.6527558
+	gp 8 day 3 mia	Ccl5-Rn00579590_m1	12.727886		-0.7353115	1.6647569			0.6527558
+	gp 1 day 3 v	Ccl6-Rn01456402_g1	11.15962		0	1			0.6962746
+	gp 2 day 3 v	Ccl6-Rn01456402_g1	10.747583		-0.4120369	1.3305631			0.6962746
+	gp 5 day 3 mia	Ccl6-Rn01456402_g1	11.641573		0.48195267	0.7160079			0.6962746
+	gp 6 day 3 mia	Ccl6-Rn01456402_g1	12.333139		1.1735191	0.4433386			0.6962746
+	gp 3 day 3 v	Ccl6-Rn01456402_g1	11.240305		0.08068466	0.9456088			0.6962746
+	gp 4 day 3 v	Ccl6-Rn01456402_g1	11.559666		0.4000454	0.75783443			0.6962746
+	gp 7 day 3 mia	Ccl6-Rn01456402_g1	12.182867		1.0232468	0.49200785			0.6962746
+	gp 8 day 3 mia	Ccl6-Rn01456402_g1	12.037317		0.877697	0.5442355			0.6962746
+	gp 1 day 3 v	Ccl7-Rn01467286_m1	13.99885		0	1			0.3011645
+	gp 2 day 3 v	Ccl7-Rn01467286_m1	15.260759		1.2619095	0.41699168			0.3011645
+	gp 5 day 3 mia	Ccl7-Rn01467286_m1	14.009308		0.010457993	0.9927773			0.3011645
+	gp 6 day 3 mia	Ccl7-Rn01467286_m1	14.712343		0.71349335	0.6098417			0.3011645
+	gp 3 day 3 v	Ccl7-Rn01467286_m1	15.449379		1.4505291	0.36588722			0.3011645
+	gp 4 day 3 v	Ccl7-Rn01467286_m1	16.14833		2.1494808	0.22539371			0.3011645
+	gp 7 day 3 mia	Ccl7-Rn01467286_m1	13.9968815		-0.001968384	1.0013653			0.3011645
+	gp 8 day 3 mia	Ccl7-Rn01467286_m1	16.117779		2.118929	0.23021777			0.3011645
+	gp 1 day 3 v	Ccl9-Rn01471276_m1	14.89913		0	1			0.6091474
+	gp 2 day 3 v	Ccl9-Rn01471276_m1	11.793961		-3.1051693	8.604965			0.6091474
+	gp 5 day 3 mia	Ccl9-Rn01471276_m1	13.109665		-1.789465	3.4568667			0.6091474
+	gp 6 day 3 mia	Ccl9-Rn01471276_m1	11.591143		-3.3079872	9.903834			0.6091474
+	gp 3 day 3 v	Ccl9-Rn01471276_m1	10.617252		-4.2818775	19.452417			0.6091474
+	gp 4 day 3 v	Ccl9-Rn01471276_m1	13.333984		-1.5651455	2.9590733			0.6091474
+	gp 7 day 3 mia	Ccl9-Rn01471276_m1	11.646135		-3.2529945	9.533424			0.6091474
+	gp 8 day 3 mia	Ccl9-Rn01471276_m1	10.703119		-4.1960106	18.32842			0.6091474
+	gp 1 day 3 v	Ccr1-Rn00571950_s1	12.966101		0	1			0.4652991
+	gp 2 day 3 v	Ccr1-Rn00571950_s1	11.07416		-1.8919411	3.7113423			0.4652991
+	gp 5 day 3 mia	Ccr1-Rn00571950_s1	12.502411		-0.4636898	1.3790643			0.4652991
+	gp 6 day 3 mia	Ccr1-Rn00571950_s1	11.732567		-1.2335339	2.3514225			0.4652991
+	gp 3 day 3 v	Ccr1-Rn00571950_s1	10.953724		-2.0123768	4.0344634			0.4652991
+	gp 4 day 3 v	Ccr1-Rn00571950_s1	12.213741		-0.7523594	1.6845455			0.4652991
+	gp 7 day 3 mia	Ccr1-Rn00571950_s1	10.918831		-2.0472698	4.1332307			0.4652991
+	gp 8 day 3 mia	Ccr1-Rn00571950_s1	10.8127575		-2.1533432	4.4485745			0.4652991
+	gp 1 day 3 v	Ccr2-Rn00573193_s1	11.617352		0	1			0.4758446
+	gp 2 day 3 v	Ccr2-Rn00573193_s1	10.769512		-0.84783936	1.7998035			0.4758446
+	gp 5 day 3 mia	Ccr2-Rn00573193_s1	12.390766		0.7734146	0.58503115			0.4758446
+	gp 6 day 3 mia	Ccr2-Rn00573193_s1	12.4850025		0.867651	0.5480384			0.4758446
+	gp 3 day 3 v	Ccr2-Rn00573193_s1	11.501789		-0.11556244	1.0833974			0.4758446
+	gp 4 day 3 v	Ccr2-Rn00573193_s1	11.70112		0.083768845	0.94358945			0.4758446
+	gp 7 day 3 mia	Ccr2-Rn00573193_s1	11.775181		0.15782928	0.89637274			0.4758446
+	gp 8 day 3 mia	Ccr2-Rn00573193_s1	11.928436		0.31108475	0.80603546			0.4758446
+	gp 1 day 3 v	Ccr3-Rn00588614_m1	20.166338						0.1920776
+	gp 2 day 3 v	Ccr3-Rn00588614_m1	15.848024		-4.3183136	19.949955			0.1920776
+	gp 5 day 3 mia	Ccr3-Rn00588614_m1	19.729412						0.1920776
+	gp 6 day 3 mia	Ccr3-Rn00588614_m1	19.794024						0.1920776
+	gp 3 day 3 v	Ccr3-Rn00588614_m1	20.053478						0.1920776
+	gp 4 day 3 v	Ccr3-Rn00588614_m1	20.06358						0.1920776
+	gp 7 day 3 mia	Ccr3-Rn00588614_m1	20.04767						0.1920776
+	gp 8 day 3 mia	Ccr3-Rn00588614_m1	16.405838		-3.7605	13.552621			0.1920776
+	gp 1 day 3 v	Ccr4-Rn00591783_s1	20.166338						0.44860256
+	gp 2 day 3 v	Ccr4-Rn00591783_s1	19.848993						0.44860256
+	gp 5 day 3 mia	Ccr4-Rn00591783_s1	16.701576		-3.4647617	11.040715			0.44860256
+	gp 6 day 3 mia	Ccr4-Rn00591783_s1	19.794024						0.44860256
+	gp 3 day 3 v	Ccr4-Rn00591783_s1	20.053478						0.44860256
+	gp 4 day 3 v	Ccr4-Rn00591783_s1	20.06358						0.44860256
+	gp 7 day 3 mia	Ccr4-Rn00591783_s1	20.04767						0.44860256
+	gp 8 day 3 mia	Ccr4-Rn00591783_s1	15.748039		-4.4182987	21.381613			0.44860256
+	gp 1 day 3 v	Ccr5-Rn00588629_m1	14.437143		0	1			0.8350762
+	gp 2 day 3 v	Ccr5-Rn00588629_m1	12.91184		-1.5253029	2.8784714			0.8350762
+	gp 5 day 3 mia	Ccr5-Rn00588629_m1	14.404758		-0.032384872	1.0227014			0.8350762
+	gp 6 day 3 mia	Ccr5-Rn00588629_m1	14.690123		0.25297928	0.8391617			0.8350762
+	gp 3 day 3 v	Ccr5-Rn00588629_m1	13.369793		-1.0673504	2.095581			0.8350762
+	gp 4 day 3 v	Ccr5-Rn00588629_m1	14.650616		0.21347237	0.8624589			0.8350762
+	gp 7 day 3 mia	Ccr5-Rn00588629_m1	14.871313		0.43416977	0.7401196			0.8350762
+	gp 8 day 3 mia	Ccr5-Rn00588629_m1	13.749226		-0.6879177	1.6109567			0.8350762
+	gp 1 day 3 v	Ccr9-Rn00597283_m1	20.166338						0.3062018
+	gp 2 day 3 v	Ccr9-Rn00597283_m1	15.088724		-5.077614	33.76868			0.3062018
+	gp 5 day 3 mia	Ccr9-Rn00597283_m1	19.729412						0.3062018
+	gp 6 day 3 mia	Ccr9-Rn00597283_m1	16.8094		-3.3569374	10.245634			0.3062018
+	gp 3 day 3 v	Ccr9-Rn00597283_m1	20.053478						0.3062018
+	gp 4 day 3 v	Ccr9-Rn00597283_m1	20.06358						0.3062018
+	gp 7 day 3 mia	Ccr9-Rn00597283_m1	20.04767						0.3062018
+	gp 8 day 3 mia	Ccr9-Rn00597283_m1	17.104103		-3.0622349	8.352655			0.3062018
+	gp 1 day 3 v	Cebpe-Rn00567306_g1	13.8027935		0	1			0.31868854
+	gp 2 day 3 v	Cebpe-Rn00567306_g1	11.542534		-2.2602596	4.7907767			0.31868854
+	gp 5 day 3 mia	Cebpe-Rn00567306_g1	16.674614		2.8718204	0.13661422			0.31868854
+	gp 6 day 3 mia	Cebpe-Rn00567306_g1	16.749582		2.9467888	0.12969647			0.31868854
+	gp 3 day 3 v	Cebpe-Rn00567306_g1	13.760059		-0.042734146	1.0300641			0.31868854
+	gp 4 day 3 v	Cebpe-Rn00567306_g1	14.589462		0.7866688	0.57968104			0.31868854
+	gp 7 day 3 mia	Cebpe-Rn00567306_g1	16.793177		2.9903831	0.12583601			0.31868854
+	gp 8 day 3 mia	Cebpe-Rn00567306_g1	20.22931		6.4265156	0.011625886			0.31868854
+	gp 1 day 3 v	Cmklr1-Rn00573616_s1	12.662291		0	1			0.74775267
+	gp 2 day 3 v	Cmklr1-Rn00573616_s1	10.937651		-1.7246399	3.3049762			0.74775267
+	gp 5 day 3 mia	Cmklr1-Rn00573616_s1	11.559942		-1.1023483	2.147039			0.74775267
+	gp 6 day 3 mia	Cmklr1-Rn00573616_s1	11.40691		-1.2553806	2.3873012			0.74775267
+	gp 3 day 3 v	Cmklr1-Rn00573616_s1	11.087435		-1.5748558	2.979057			0.74775267
+	gp 4 day 3 v	Cmklr1-Rn00573616_s1	11.997185		-0.6651058	1.5856845			0.74775267
+	gp 7 day 3 mia	Cmklr1-Rn00573616_s1	11.021482		-1.6408081	3.1184046			0.74775267
+	gp 8 day 3 mia	Cmklr1-Rn00573616_s1	12.333187		-0.32910347	1.2562325			0.74775267
+	gp 1 day 3 v	Col1a1-Rn00801649_g1	2.638544		0	1			0.7423907
+	gp 2 day 3 v	Col1a1-Rn00801649_g1	-0.5047512		-3.1432953	8.835399			0.7423907
+	gp 5 day 3 mia	Col1a1-Rn00801649_g1	2.1536484		-0.4848957	1.3994846			0.7423907
+	gp 6 day 3 mia	Col1a1-Rn00801649_g1	0.18729782		-2.4512463	5.468883			0.7423907
+	gp 3 day 3 v	Col1a1-Rn00801649_g1	-0.5678234		-3.2063675	9.230236			0.7423907
+	gp 4 day 3 v	Col1a1-Rn00801649_g1	1.3795223		-1.2590218	2.393334			0.7423907
+	gp 7 day 3 mia	Col1a1-Rn00801649_g1	0.5084591		-2.130085	4.377433			0.7423907
+	gp 8 day 3 mia	Col1a1-Rn00801649_g1	0.1734581		-2.465086	5.5215983			0.7423907
+	gp 1 day 3 v	Col2a1-Rn00491926_g1	-0.23491096		0	1			0.8543828
+	gp 2 day 3 v	Col2a1-Rn00491926_g1	-0.78525734		-0.5503464	1.4644372			0.8543828
+	gp 5 day 3 mia	Col2a1-Rn00491926_g1	-1.3167591		-1.0818481	2.116746			0.8543828
+	gp 6 day 3 mia	Col2a1-Rn00491926_g1	0.7494354		0.9843464	0.50545466			0.8543828
+	gp 3 day 3 v	Col2a1-Rn00491926_g1	-0.77388954		-0.5389786	1.4529434			0.8543828
+	gp 4 day 3 v	Col2a1-Rn00491926_g1	-0.7132683		-0.47835732	1.3931565			0.8543828
+	gp 7 day 3 mia	Col2a1-Rn00491926_g1	-0.99071884		-0.7558079	1.6885769			0.8543828
+	gp 8 day 3 mia	Col2a1-Rn00491926_g1	0.6147289		0.8496399	0.55492324			0.8543828
+	gp 1 day 3 v	Csf3-Rn00567344_m1	20.166338						0.2
+	gp 2 day 3 v	Csf3-Rn00567344_m1	19.848993						0.2
+	gp 5 day 3 mia	Csf3-Rn00567344_m1	19.729412						0.2
+	gp 6 day 3 mia	Csf3-Rn00567344_m1	19.794024						0.2
+	gp 3 day 3 v	Csf3-Rn00567344_m1	20.053478						0.2
+	gp 4 day 3 v	Csf3-Rn00567344_m1	20.06358						0.2
+	gp 7 day 3 mia	Csf3-Rn00567344_m1	20.04767						0.2
+	gp 8 day 3 mia	Csf3-Rn00567344_m1	20.22931						0.2
+	gp 1 day 3 v	Cx3cl1-Rn00593186_m1	11.591143		0	1			0.6105048
+	gp 2 day 3 v	Cx3cl1-Rn00593186_m1	10.767189		-0.8239536	1.7702507			0.6105048
+	gp 5 day 3 mia	Cx3cl1-Rn00593186_m1	13.386097		1.7949543	0.2881807			0.6105048
+	gp 6 day 3 mia	Cx3cl1-Rn00593186_m1	15.2504635		3.6593208	0.07914704			0.6105048
+	gp 3 day 3 v	Cx3cl1-Rn00593186_m1	11.517029		-0.074113846	1.0527142			0.6105048
+	gp 4 day 3 v	Cx3cl1-Rn00593186_m1	14.339821		2.7486782	0.14878714			0.6105048
+	gp 7 day 3 mia	Cx3cl1-Rn00593186_m1	14.346872		2.7557297	0.1480617			0.6105048
+	gp 8 day 3 mia	Cx3cl1-Rn00593186_m1	13.616707		2.0255642	0.24560907			0.6105048
+	gp 1 day 3 v	Cx3cr1-Rn00591798_m1	11.875715		0	1			0.9117795
+	gp 2 day 3 v	Cx3cr1-Rn00591798_m1	11.693422		-0.18229294	1.1346859			0.9117795
+	gp 5 day 3 mia	Cx3cr1-Rn00591798_m1	12.543629		0.66791344	0.62941635			0.9117795
+	gp 6 day 3 mia	Cx3cr1-Rn00591798_m1	11.368786		-0.5069294	1.4210225			0.9117795
+	gp 3 day 3 v	Cx3cr1-Rn00591798_m1	11.909267		0.03355217	0.97701174			0.9117795
+	gp 4 day 3 v	Cx3cr1-Rn00591798_m1	12.67902		0.8033047	0.57303506			0.9117795
+	gp 7 day 3 mia	Cx3cr1-Rn00591798_m1	11.990053		0.11433792	0.9238062			0.9117795
+	gp 8 day 3 mia	Cx3cr1-Rn00591798_m1	11.967373		0.09165764	0.93844384			0.9117795
+	gp 1 day 3 v	Cxcl1-Rn00578225_m1	-14.377367		0	1			0.111618675
+	gp 2 day 3 v	Cxcl1-Rn00578225_m1	13.325693		27.70306	4.58E-09			0.111618675
+	gp 5 day 3 mia	Cxcl1-Rn00578225_m1	19.729412		34.10678	5.41E-11			0.111618675
+	gp 6 day 3 mia	Cxcl1-Rn00578225_m1	13.88632		28.263687	3.10E-09			0.111618675
+	gp 3 day 3 v	Cxcl1-Rn00578225_m1	20.053478		34.430847	4.32E-11			0.111618675
+	gp 4 day 3 v	Cxcl1-Rn00578225_m1	20.06358		34.44095	4.29E-11			0.111618675
+	gp 7 day 3 mia	Cxcl1-Rn00578225_m1	20.04767		34.425037	4.34E-11			0.111618675
+	gp 8 day 3 mia	Cxcl1-Rn00578225_m1	14.528324		28.905691	1.99E-09			0.111618675
+	gp 1 day 3 v	Cxcl10-Rn00594648_m1	14.057016		0	1			0.7329111
+	gp 2 day 3 v	Cxcl10-Rn00594648_m1	12.249716		-1.8073006	3.4998682			0.7329111
+	gp 5 day 3 mia	Cxcl10-Rn00594648_m1	15.1768265		1.1198101	0.46015438			0.7329111
+	gp 6 day 3 mia	Cxcl10-Rn00594648_m1	13.196676		-0.8603401	1.8154663			0.7329111
+	gp 3 day 3 v	Cxcl10-Rn00594648_m1	13.008465		-1.0485516	2.0684521			0.7329111
+	gp 4 day 3 v	Cxcl10-Rn00594648_m1	13.951168		-0.10584831	1.0761269			0.7329111
+	gp 7 day 3 mia	Cxcl10-Rn00594648_m1	14.972162		0.9151459	0.53029025			0.7329111
+	gp 8 day 3 mia	Cxcl10-Rn00594648_m1	13.19767		-0.8593464	1.8142163			0.7329111
+	gp 1 day 3 v	Cxcl11-Rn00788262_g1	13.177282		0	1			0.07185659
+	gp 2 day 3 v	Cxcl11-Rn00788262_g1	12.144918		-1.0323639	2.045373			0.07185659
+	gp 5 day 3 mia	Cxcl11-Rn00788262_g1	12.676674		-0.50060844	1.4148101			0.07185659
+	gp 6 day 3 mia	Cxcl11-Rn00788262_g1	15.185144		2.007862	0.24864131			0.07185659
+	gp 3 day 3 v	Cxcl11-Rn00788262_g1	17.293846		4.116564	0.05764887			0.07185659
+	gp 4 day 3 v	Cxcl11-Rn00788262_g1	12.677013		-0.50026894	1.4144772			0.07185659
+	gp 7 day 3 mia	Cxcl11-Rn00788262_g1	12.776758		-0.40052414	1.3199874			0.07185659
+	gp 8 day 3 mia	Cxcl11-Rn00788262_g1	16.388733		3.2114506	0.10795855			0.07185659
+	gp 1 day 3 v	Cxcl12-Rn00573260_m1	10.096989		0	1			0.9505656
+	gp 2 day 3 v	Cxcl12-Rn00573260_m1	7.927471		-2.1695175	4.498729			0.9505656
+	gp 5 day 3 mia	Cxcl12-Rn00573260_m1	12.677727		2.580738	0.16715541			0.9505656
+	gp 6 day 3 mia	Cxcl12-Rn00573260_m1	10.15341		0.05642128	0.9616466			0.9505656
+	gp 3 day 3 v	Cxcl12-Rn00573260_m1	9.385357		-0.7116318	1.6376554			0.9505656
+	gp 4 day 3 v	Cxcl12-Rn00573260_m1	10.309866		0.21287727	0.8628147			0.9505656
+	gp 7 day 3 mia	Cxcl12-Rn00573260_m1	10.570126		0.4731369	0.7203965			0.9505656
+	gp 8 day 3 mia	Cxcl12-Rn00573260_m1	9.461525		-0.6354637	1.553437			0.9505656
+	gp 1 day 3 v	Cxcl2-Rn00586403_m1	20.166338						0.44646907
+	gp 2 day 3 v	Cxcl2-Rn00586403_m1	19.848993						0.44646907
+	gp 5 day 3 mia	Cxcl2-Rn00586403_m1	19.729412						0.44646907
+	gp 6 day 3 mia	Cxcl2-Rn00586403_m1	19.794024						0.44646907
+	gp 3 day 3 v	Cxcl2-Rn00586403_m1	17.026482		-3.1398563	8.8143635			0.44646907
+	gp 4 day 3 v	Cxcl2-Rn00586403_m1	20.06358						0.44646907
+	gp 7 day 3 mia	Cxcl2-Rn00586403_m1	20.04767						0.44646907
+	gp 8 day 3 mia	Cxcl2-Rn00586403_m1	20.22931						0.44646907
+	gp 1 day 3 v	Cxcl5-Rn00573587_g1	16.059153		0	1			0.28920352
+	gp 2 day 3 v	Cxcl5-Rn00573587_g1	19.848993		3.7898407	0.07230099			0.28920352
+	gp 5 day 3 mia	Cxcl5-Rn00573587_g1	19.729412		3.6702595	0.078549206			0.28920352
+	gp 6 day 3 mia	Cxcl5-Rn00573587_g1	19.794024		3.734871	0.075108975			0.28920352
+	gp 3 day 3 v	Cxcl5-Rn00573587_g1	15.310516		-0.74863625	1.6802038			0.28920352
+	gp 4 day 3 v	Cxcl5-Rn00573587_g1	20.06358		4.004427	0.06230851			0.28920352
+	gp 7 day 3 mia	Cxcl5-Rn00573587_g1	20.04767		3.9885178	0.06299941			0.28920352
+	gp 8 day 3 mia	Cxcl5-Rn00573587_g1	20.22931		4.1701565	0.05554664			0.28920352
+	gp 1 day 3 v	Cxcl9-Rn00595504_m1	20.166338						0.264642
+	gp 2 day 3 v	Cxcl9-Rn00595504_m1	14.32115		-5.845188	57.48797			0.264642
+	gp 5 day 3 mia	Cxcl9-Rn00595504_m1	13.3339		-6.8324375	113.96425			0.264642
+	gp 6 day 3 mia	Cxcl9-Rn00595504_m1	19.794024						0.264642
+	gp 3 day 3 v	Cxcl9-Rn00595504_m1	15.842415		-4.323923	20.027676			0.264642
+	gp 4 day 3 v	Cxcl9-Rn00595504_m1	20.06358						0.264642
+	gp 7 day 3 mia	Cxcl9-Rn00595504_m1	16.603731		-3.5626068	11.815484			0.264642
+	gp 8 day 3 mia	Cxcl9-Rn00595504_m1	17.077648		-3.0886898	8.507232			0.264642
+	gp 1 day 3 v	Cxcr3-Rn00584689_m1	16.051043		0	1			0.5745667
+	gp 2 day 3 v	Cxcr3-Rn00584689_m1	14.646536		-1.4045067	2.6472723			0.5745667
+	gp 5 day 3 mia	Cxcr3-Rn00584689_m1	19.729412		3.6783695	0.078108884			0.5745667
+	gp 6 day 3 mia	Cxcr3-Rn00584689_m1	14.828371		-1.2226715	2.3337848			0.5745667
+	gp 3 day 3 v	Cxcr3-Rn00584689_m1	16.842194		0.79115105	0.5778828			0.5745667
+	gp 4 day 3 v	Cxcr3-Rn00584689_m1	16.029072		-0.021970749	1.0153456			0.5745667
+	gp 7 day 3 mia	Cxcr3-Rn00584689_m1	16.796865		0.7458229	0.5963276			0.5745667
+	gp 8 day 3 mia	Cxcr3-Rn00584689_m1	14.802109		-1.2489338	2.3766572			0.5745667
+	gp 1 day 3 v	Cxcr4-Rn00573522_s1	10.551317		0	1			1.1622332
+	gp 2 day 3 v	Cxcr4-Rn00573522_s1	8.565443		-1.9858742	3.961026			1.1622332
+	gp 5 day 3 mia	Cxcr4-Rn00573522_s1	10.973963		0.42264557	0.7460553			1.1622332
+	gp 6 day 3 mia	Cxcr4-Rn00573522_s1	12.151136		1.5998192	0.32991832			1.1622332
+	gp 3 day 3 v	Cxcr4-Rn00573522_s1	9.475597		-1.0757198	2.1077735			1.1622332
+	gp 4 day 3 v	Cxcr4-Rn00573522_s1	10.563581		0.012264252	0.9915351			1.1622332
+	gp 7 day 3 mia	Cxcr4-Rn00573522_s1	11.159121		0.60780334	0.65619504			1.1622332
+	gp 8 day 3 mia	Cxcr4-Rn00573522_s1	11.149433		0.5981159	0.6606161			1.1622332
+	gp 1 day 3 v	Edn1-Rn00561129_m1	14.59437		0	1			0.6102071
+	gp 2 day 3 v	Edn1-Rn00561129_m1	13.636923		-0.95744705	1.9418706			0.6102071
+	gp 5 day 3 mia	Edn1-Rn00561129_m1	15.561798		0.9674282	0.5114169			0.6102071
+	gp 6 day 3 mia	Edn1-Rn00561129_m1	16.738333		2.1439629	0.22625744			0.6102071
+	gp 3 day 3 v	Edn1-Rn00561129_m1	13.768475		-0.8258953	1.7726347			0.6102071
+	gp 4 day 3 v	Edn1-Rn00561129_m1	13.994671		-0.599699	1.5154004			0.6102071
+	gp 7 day 3 mia	Edn1-Rn00561129_m1	14.839399		0.24502945	0.8437986			0.6102071
+	gp 8 day 3 mia	Edn1-Rn00561129_m1	14.39864		-0.19573021	1.1453037			0.6102071
+	gp 1 day 3 v	Edn2-Rn00561135_m1	20.166338						0.26807687
+	gp 2 day 3 v	Edn2-Rn00561135_m1	19.848993						0.26807687
+	gp 5 day 3 mia	Edn2-Rn00561135_m1	19.729412						0.26807687
+	gp 6 day 3 mia	Edn2-Rn00561135_m1	19.794024						0.26807687
+	gp 3 day 3 v	Edn2-Rn00561135_m1	20.053478						0.26807687
+	gp 4 day 3 v	Edn2-Rn00561135_m1	17.032906		-3.1334324	8.775203			0.26807687
+	gp 7 day 3 mia	Edn2-Rn00561135_m1	20.04767						0.26807687
+	gp 8 day 3 mia	Edn2-Rn00561135_m1	20.22931						0.26807687
+	gp 1 day 3 v	Fgf2-Rn00570809_m1	12.15645		0	1			0.6294169
+	gp 2 day 3 v	Fgf2-Rn00570809_m1	11.270056		-0.8863945	1.8485506			0.6294169
+	gp 5 day 3 mia	Fgf2-Rn00570809_m1	11.723852		-0.4325981	1.349662			0.6294169
+	gp 6 day 3 mia	Fgf2-Rn00570809_m1	13.197905		1.0414543	0.4858375			0.6294169
+	gp 3 day 3 v	Fgf2-Rn00570809_m1	11.968874		-0.1875763	1.1388489			0.6294169
+	gp 4 day 3 v	Fgf2-Rn00570809_m1	12.6358795		0.47942924	0.7172613			0.6294169
+	gp 7 day 3 mia	Fgf2-Rn00570809_m1	12.698832		0.5423813	0.6866366			0.6294169
+	gp 8 day 3 mia	Fgf2-Rn00570809_m1	13.824657		1.6682072	0.3146441			0.6294169
+	gp 1 day 3 v	Gpr30-Rn00592091_s1	10.308182		0	1			0.714589
+	gp 2 day 3 v	Gpr30-Rn00592091_s1	9.988525		-0.31965637	1.2480333			0.714589
+	gp 5 day 3 mia	Gpr30-Rn00592091_s1	9.646761		-0.6614208	1.5816395			0.714589
+	gp 6 day 3 mia	Gpr30-Rn00592091_s1	10.817747		0.50956535	0.702434			0.714589
+	gp 3 day 3 v	Gpr30-Rn00592091_s1	10.025385		-0.28279686	1.2165511			0.714589
+	gp 4 day 3 v	Gpr30-Rn00592091_s1	9.924683		-0.38349915	1.304502			0.714589
+	gp 7 day 3 mia	Gpr30-Rn00592091_s1	9.991936		-0.31624603	1.2450866			0.714589
+	gp 8 day 3 mia	Gpr30-Rn00592091_s1	11.196516		0.8883343	0.5402375			0.714589
+	gp 1 day 3 v	Grb2-Rn00578230_m1	20.166338						0.24295665
+	gp 2 day 3 v	Grb2-Rn00578230_m1	19.848993						0.24295665
+	gp 5 day 3 mia	Grb2-Rn00578230_m1	15.121056		-5.0452824	33.020325			0.24295665
+	gp 6 day 3 mia	Grb2-Rn00578230_m1	19.794024						0.24295665
+	gp 3 day 3 v	Grb2-Rn00578230_m1	20.053478						0.24295665
+	gp 4 day 3 v	Grb2-Rn00578230_m1	15.489254		-4.677084	25.582476			0.24295665
+	gp 7 day 3 mia	Grb2-Rn00578230_m1	16.976301		-3.1900368	9.126343			0.24295665
+	gp 8 day 3 mia	Grb2-Rn00578230_m1	20.22931						0.24295665
+	gp 1 day 3 v	Hif1a-Rn00577560_m1	8.674091		0	1			0.9792785
+	gp 2 day 3 v	Hif1a-Rn00577560_m1	7.616131		-1.0579605	2.0819862			0.9792785
+	gp 5 day 3 mia	Hif1a-Rn00577560_m1	7.675501		-0.99859047	1.9980469			0.9792785
+	gp 6 day 3 mia	Hif1a-Rn00577560_m1	9.019266		0.3451748	0.7872126			0.9792785
+	gp 3 day 3 v	Hif1a-Rn00577560_m1	7.9904423		-0.68364906	1.6061972			0.9792785
+	gp 4 day 3 v	Hif1a-Rn00577560_m1	8.223209		-0.45088196	1.3668756			0.9792785
+	gp 7 day 3 mia	Hif1a-Rn00577560_m1	8.019758		-0.6543331	1.5738883			0.9792785
+	gp 8 day 3 mia	Hif1a-Rn00577560_m1	9.395098		0.7210064	0.6066741			0.9792785
+	gp 1 day 3 v	Ifng-Rn00594078_m1	20.166338						0.2
+	gp 2 day 3 v	Ifng-Rn00594078_m1	19.848993						0.2
+	gp 5 day 3 mia	Ifng-Rn00594078_m1	19.729412						0.2
+	gp 6 day 3 mia	Ifng-Rn00594078_m1	19.794024						0.2
+	gp 3 day 3 v	Ifng-Rn00594078_m1	20.053478						0.2
+	gp 4 day 3 v	Ifng-Rn00594078_m1	20.06358						0.2
+	gp 7 day 3 mia	Ifng-Rn00594078_m1	20.04767						0.2
+	gp 8 day 3 mia	Ifng-Rn00594078_m1	20.22931						0.2
+	gp 1 day 3 v	Igf1-Rn00710306_m1	11.645348		0	1			0.5744112
+	gp 2 day 3 v	Igf1-Rn00710306_m1	8.707773		-2.9375744	7.661221			0.5744112
+	gp 5 day 3 mia	Igf1-Rn00710306_m1	11.887814		0.24246597	0.84529924			0.5744112
+	gp 6 day 3 mia	Igf1-Rn00710306_m1	10.036762		-1.6085854	3.0495267			0.5744112
+	gp 3 day 3 v	Igf1-Rn00710306_m1	9.806833		-1.8385143	3.5764155			0.5744112
+	gp 4 day 3 v	Igf1-Rn00710306_m1	10.631695		-1.0136528	2.0190167			0.5744112
+	gp 7 day 3 mia	Igf1-Rn00710306_m1	9.9539585		-1.6913891	3.2296753			0.5744112
+	gp 8 day 3 mia	Igf1-Rn00710306_m1	9.676201		-1.9691467	3.9153647			0.5744112
+	gp 1 day 3 v	Il10-Rn00563409_m1	15.226736		0	1			0.28507942
+	gp 2 day 3 v	Il10-Rn00563409_m1	19.848993		4.622257	0.040603355			0.28507942
+	gp 5 day 3 mia	Il10-Rn00563409_m1	16.681797		1.455061	0.3647397			0.28507942
+	gp 6 day 3 mia	Il10-Rn00563409_m1	19.794024		4.5672874	0.04218028			0.28507942
+	gp 3 day 3 v	Il10-Rn00563409_m1	15.370285		0.14354897	0.9052895			0.28507942
+	gp 4 day 3 v	Il10-Rn00563409_m1	20.06358		4.8368435	0.0349917			0.28507942
+	gp 7 day 3 mia	Il10-Rn00563409_m1	15.264868		0.038131714	0.97391534			0.28507942
+	gp 8 day 3 mia	Il10-Rn00563409_m1	20.22931		5.002573	0.031194316			0.28507942
+	gp 1 day 3 v	Il12a-Rn00584538_m1	12.971819		0	1			1.0853567
+	gp 2 day 3 v	Il12a-Rn00584538_m1	11.884958		-1.0868607	2.1241133			1.0853567
+	gp 5 day 3 mia	Il12a-Rn00584538_m1	16.672302		3.7004833	0.076920755			1.0853567
+	gp 6 day 3 mia	Il12a-Rn00584538_m1	14.299509		1.3276901	0.3984056			1.0853567
+	gp 3 day 3 v	Il12a-Rn00584538_m1	14.106247		1.134428	0.45551547			1.0853567
+	gp 4 day 3 v	Il12a-Rn00584538_m1	14.276371		1.3045521	0.4048468			1.0853567
+	gp 7 day 3 mia	Il12a-Rn00584538_m1	14.413393		1.4415741	0.36816537			1.0853567
+	gp 8 day 3 mia	Il12a-Rn00584538_m1	14.390648		1.418829	0.37401578			1.0853567
+	gp 1 day 3 v	Il12b-Rn00575112_m1	20.166338						0.2
+	gp 2 day 3 v	Il12b-Rn00575112_m1	19.848993						0.2
+	gp 5 day 3 mia	Il12b-Rn00575112_m1	19.729412						0.2
+	gp 6 day 3 mia	Il12b-Rn00575112_m1	19.794024						0.2
+	gp 3 day 3 v	Il12b-Rn00575112_m1	20.053478						0.2
+	gp 4 day 3 v	Il12b-Rn00575112_m1	20.06358						0.2
+	gp 7 day 3 mia	Il12b-Rn00575112_m1	20.04767						0.2
+	gp 8 day 3 mia	Il12b-Rn00575112_m1	20.22931						0.2
+	gp 1 day 3 v	Il13-Rn00587615_m1	20.166338						0.41847768
+	gp 2 day 3 v	Il13-Rn00587615_m1	16.835135		-3.3312035	10.064499			0.41847768
+	gp 5 day 3 mia	Il13-Rn00587615_m1	19.729412						0.41847768
+	gp 6 day 3 mia	Il13-Rn00587615_m1	19.794024						0.41847768
+	gp 3 day 3 v	Il13-Rn00587615_m1	20.053478						0.41847768
+	gp 4 day 3 v	Il13-Rn00587615_m1	20.06358						0.41847768
+	gp 7 day 3 mia	Il13-Rn00587615_m1	20.04767						0.41847768
+	gp 8 day 3 mia	Il13-Rn00587615_m1	20.22931						0.41847768
+	gp 1 day 3 v	Il18-Rn00824548_m1	13.999609		0	1			0.6543567
+	gp 2 day 3 v	Il18-Rn00824548_m1	12.677542		-1.3220673	2.5002413			0.6543567
+	gp 5 day 3 mia	Il18-Rn00824548_m1	14.4436455		0.44403648	0.73507506			0.6543567
+	gp 6 day 3 mia	Il18-Rn00824548_m1	13.216703		-0.7829056	1.7205926			0.6543567
+	gp 3 day 3 v	Il18-Rn00824548_m1	12.210194		-1.7894154	3.4567478			0.6543567
+	gp 4 day 3 v	Il18-Rn00824548_m1	13.932461		-0.06714821	1.0476438			0.6543567
+	gp 7 day 3 mia	Il18-Rn00824548_m1	13.446466		-0.55314255	1.4672784			0.6543567
+	gp 8 day 3 mia	Il18-Rn00824548_m1	13.134254		-0.86535454	1.8217874			0.6543567
+	gp 1 day 3 v	Il1a-Rn00566700_m1	17.121355		0	1			0.5945674
+	gp 2 day 3 v	Il1a-Rn00566700_m1	19.848993		2.7276382	0.15097293			0.5945674
+	gp 5 day 3 mia	Il1a-Rn00566700_m1	19.729412		2.608057	0.16401993			0.5945674
+	gp 6 day 3 mia	Il1a-Rn00566700_m1	19.794024		2.6726685	0.15683632			0.5945674
+	gp 3 day 3 v	Il1a-Rn00566700_m1	20.053478		2.9321232	0.13102162			0.5945674
+	gp 4 day 3 v	Il1a-Rn00566700_m1	20.06358		2.9422245	0.13010745			0.5945674
+	gp 7 day 3 mia	Il1a-Rn00566700_m1	20.04767		2.9263153	0.13155013			0.5945674
+	gp 8 day 3 mia	Il1a-Rn00566700_m1	20.22931		3.107954	0.11598788			0.5945674
+	gp 1 day 3 v	Il1b-Rn00580432_m1	14.206778		0	1			0.6899926
+	gp 2 day 3 v	Il1b-Rn00580432_m1	14.944128		0.73735046	0.59984			0.6899926
+	gp 5 day 3 mia	Il1b-Rn00580432_m1	15.3316765		1.1248989	0.45853415			0.6899926
+	gp 6 day 3 mia	Il1b-Rn00580432_m1	14.685934		0.4791565	0.7173969			0.6899926
+	gp 3 day 3 v	Il1b-Rn00580432_m1	13.899937		-0.3068409	1.236996			0.6899926
+	gp 4 day 3 v	Il1b-Rn00580432_m1	14.852936		0.6461582	0.6389796			0.6899926
+	gp 7 day 3 mia	Il1b-Rn00580432_m1	15.930479		1.7237015	0.3027709			0.6899926
+	gp 8 day 3 mia	Il1b-Rn00580432_m1	16.016594		1.8098164	0.28522724			0.6899926
+	gp 1 day 3 v	Il1rap-Rn00492642_m1	15.591326		0	1			1.0946708
+	gp 2 day 3 v	Il1rap-Rn00492642_m1	13.725386		-1.8659401	3.6450539			1.0946708
+	gp 5 day 3 mia	Il1rap-Rn00492642_m1	14.284992		-1.3063335	2.4731221			1.0946708
+	gp 6 day 3 mia	Il1rap-Rn00492642_m1	14.7285595		-0.86276627	1.8185219			1.0946708
+	gp 3 day 3 v	Il1rap-Rn00492642_m1	14.2360115		-1.3553143	2.5585284			1.0946708
+	gp 4 day 3 v	Il1rap-Rn00492642_m1	15.622559		0.031232834	0.9785837			1.0946708
+	gp 7 day 3 mia	Il1rap-Rn00492642_m1	14.78916		-0.802166	1.7437171			1.0946708
+	gp 8 day 3 mia	Il1rap-Rn00492642_m1	14.47089		-1.1204357	2.1741261			1.0946708
+	gp 1 day 3 v	Il2-Rn00587673_m1	20.166338						0.2
+	gp 2 day 3 v	Il2-Rn00587673_m1	19.848993						0.2
+	gp 5 day 3 mia	Il2-Rn00587673_m1	19.729412						0.2
+	gp 6 day 3 mia	Il2-Rn00587673_m1	19.794024						0.2
+	gp 3 day 3 v	Il2-Rn00587673_m1	20.053478						0.2
+	gp 4 day 3 v	Il2-Rn00587673_m1	20.06358						0.2
+	gp 7 day 3 mia	Il2-Rn00587673_m1	20.04767						0.2
+	gp 8 day 3 mia	Il2-Rn00587673_m1	20.22931						0.2
+	gp 1 day 3 v	Il4-Rn01456866_m1	20.166338						0.2
+	gp 2 day 3 v	Il4-Rn01456866_m1	19.848993						0.2
+	gp 5 day 3 mia	Il4-Rn01456866_m1	19.729412						0.2
+	gp 6 day 3 mia	Il4-Rn01456866_m1	19.794024						0.2
+	gp 3 day 3 v	Il4-Rn01456866_m1	20.053478						0.2
+	gp 4 day 3 v	Il4-Rn01456866_m1	20.06358						0.2
+	gp 7 day 3 mia	Il4-Rn01456866_m1	20.04767						0.2
+	gp 8 day 3 mia	Il4-Rn01456866_m1	20.22931						0.2
+	gp 1 day 3 v	Il5-Rn01459975_m1	20.166338						0.2
+	gp 2 day 3 v	Il5-Rn01459975_m1	19.848993						0.2
+	gp 5 day 3 mia	Il5-Rn01459975_m1	19.729412						0.2
+	gp 6 day 3 mia	Il5-Rn01459975_m1	19.794024						0.2
+	gp 3 day 3 v	Il5-Rn01459975_m1	20.053478						0.2
+	gp 4 day 3 v	Il5-Rn01459975_m1	20.06358						0.2
+	gp 7 day 3 mia	Il5-Rn01459975_m1	20.04767						0.2
+	gp 8 day 3 mia	Il5-Rn01459975_m1	20.22931						0.2
+	gp 1 day 3 v	Il6-Rn00561420_m1	20.166338						0.2
+	gp 2 day 3 v	Il6-Rn00561420_m1	19.848993						0.2
+	gp 5 day 3 mia	Il6-Rn00561420_m1	19.729412						0.2
+	gp 6 day 3 mia	Il6-Rn00561420_m1	19.794024						0.2
+	gp 3 day 3 v	Il6-Rn00561420_m1	20.053478						0.2
+	gp 4 day 3 v	Il6-Rn00561420_m1	20.06358						0.2
+	gp 7 day 3 mia	Il6-Rn00561420_m1	20.04767						0.2
+	gp 8 day 3 mia	Il6-Rn00561420_m1	20.22931						0.2
+	gp 1 day 3 v	Il8ra-Rn00570857_s1	20.166338						0.2
+	gp 2 day 3 v	Il8ra-Rn00570857_s1	19.848993						0.2
+	gp 5 day 3 mia	Il8ra-Rn00570857_s1	19.729412						0.2
+	gp 6 day 3 mia	Il8ra-Rn00570857_s1	19.794024						0.2
+	gp 3 day 3 v	Il8ra-Rn00570857_s1	20.053478						0.2
+	gp 4 day 3 v	Il8ra-Rn00570857_s1	20.06358						0.2
+	gp 7 day 3 mia	Il8ra-Rn00570857_s1	20.04767						0.2
+	gp 8 day 3 mia	Il8ra-Rn00570857_s1	20.22931						0.2
+	gp 1 day 3 v	Il8rb-Rn00567841_m1	15.006868		0	1			0.5313337
+	gp 2 day 3 v	Il8rb-Rn00567841_m1	13.330278		-1.67659	3.1967146			0.5313337
+	gp 5 day 3 mia	Il8rb-Rn00567841_m1	16.360012		1.3531437	0.39143816			0.5313337
+	gp 6 day 3 mia	Il8rb-Rn00567841_m1	15.720381		0.7135124	0.6098336			0.5313337
+	gp 3 day 3 v	Il8rb-Rn00567841_m1	15.057018		0.050149918	0.965836			0.5313337
+	gp 4 day 3 v	Il8rb-Rn00567841_m1	15.98587		0.979002	0.5073306			0.5313337
+	gp 7 day 3 mia	Il8rb-Rn00567841_m1	15.606707		0.59983826	0.65982795			0.5313337
+	gp 8 day 3 mia	Il8rb-Rn00567841_m1	16.030949		1.0240803	0.4917237			0.5313337
+	gp 1 day 3 v	Jak2-Rn00580452_m1	10.92487		0	1			0.7032019
+	gp 2 day 3 v	Jak2-Rn00580452_m1	9.774271		-1.1505985	2.2200599			0.7032019
+	gp 5 day 3 mia	Jak2-Rn00580452_m1	10.018732		-0.90613747	1.8740214			0.7032019
+	gp 6 day 3 mia	Jak2-Rn00580452_m1	10.575216		-0.34965324	1.2742543			0.7032019
+	gp 3 day 3 v	Jak2-Rn00580452_m1	10.083147		-0.8417225	1.7921886			0.7032019
+	gp 4 day 3 v	Jak2-Rn00580452_m1	10.363628		-0.56124115	1.4755381			0.7032019
+	gp 7 day 3 mia	Jak2-Rn00580452_m1	10.152458		-0.77241135	1.7081224			0.7032019
+	gp 8 day 3 mia	Jak2-Rn00580452_m1	10.476931		-0.44793892	1.3640901			0.7032019
+	gp 1 day 3 v	Lif-Rn00573491_g1	16.673529		0	1			0.70452154
+	gp 2 day 3 v	Lif-Rn00573491_g1	13.872187		-2.801342	6.9708858			0.70452154
+	gp 5 day 3 mia	Lif-Rn00573491_g1	14.052296		-2.621233	6.1527567			0.70452154
+	gp 6 day 3 mia	Lif-Rn00573491_g1	14.237989		-2.4355392	5.409665			0.70452154
+	gp 3 day 3 v	Lif-Rn00573491_g1	13.311176		-3.3623524	10.2841625			0.70452154
+	gp 4 day 3 v	Lif-Rn00573491_g1	14.982441		-1.6910877	3.2290006			0.70452154
+	gp 7 day 3 mia	Lif-Rn00573491_g1	13.195139		-3.4783897	11.145502			0.70452154
+	gp 8 day 3 mia	Lif-Rn00573491_g1	14.193295		-2.4802341	5.57988			0.70452154
+	gp 1 day 3 v	Ltb4r-Rn00572209_s1	20.166338						0.2
+	gp 2 day 3 v	Ltb4r-Rn00572209_s1	19.848993						0.2
+	gp 5 day 3 mia	Ltb4r-Rn00572209_s1	19.729412						0.2
+	gp 6 day 3 mia	Ltb4r-Rn00572209_s1	19.794024						0.2
+	gp 3 day 3 v	Ltb4r-Rn00572209_s1	20.053478						0.2
+	gp 4 day 3 v	Ltb4r-Rn00572209_s1	20.06358						0.2
+	gp 7 day 3 mia	Ltb4r-Rn00572209_s1	20.04767						0.2
+	gp 8 day 3 mia	Ltb4r-Rn00572209_s1	20.22931						0.2
+	gp 1 day 3 v	Mmp13-Rn01448197_m1	6.355789		0	1			0.39668465
+	gp 2 day 3 v	Mmp13-Rn01448197_m1	4.4473133		-1.9084759	3.754123			0.39668465
+	gp 5 day 3 mia	Mmp13-Rn01448197_m1	4.6494617		-1.7063274	3.2632906			0.39668465
+	gp 6 day 3 mia	Mmp13-Rn01448197_m1	5.358988		-0.9968014	1.9955707			0.39668465
+	gp 3 day 3 v	Mmp13-Rn01448197_m1	3.9875374		-2.3682518	5.1631513			0.39668465
+	gp 4 day 3 v	Mmp13-Rn01448197_m1	4.782963		-1.5728264	2.9748695			0.39668465
+	gp 7 day 3 mia	Mmp13-Rn01448197_m1	3.833786		-2.5220032	5.7437906			0.39668465
+	gp 8 day 3 mia	Mmp13-Rn01448197_m1	4.4391804		-1.9166088	3.7753458			0.39668465
+	gp 1 day 3 v	Mmp7-Rn00563467_m1	20.166338						0.84121996
+	gp 2 day 3 v	Mmp7-Rn00563467_m1	19.848993						0.84121996
+	gp 5 day 3 mia	Mmp7-Rn00563467_m1	19.729412						0.84121996
+	gp 6 day 3 mia	Mmp7-Rn00563467_m1	16.67525		-3.4910889	11.244042			0.84121996
+	gp 3 day 3 v	Mmp7-Rn00563467_m1	16.963017		-3.2033215	9.210768			0.84121996
+	gp 4 day 3 v	Mmp7-Rn00563467_m1	20.06358						0.84121996
+	gp 7 day 3 mia	Mmp7-Rn00563467_m1	20.04767						0.84121996
+	gp 8 day 3 mia	Mmp7-Rn00563467_m1	16.53564		-3.6306973	12.386505			0.84121996
+	gp 1 day 3 v	Myd88-Rn01640052_g1	12.2567425		0	1			0.72092694
+	gp 2 day 3 v	Myd88-Rn01640052_g1	11.395018		-0.86172485	1.8172096			0.72092694
+	gp 5 day 3 mia	Myd88-Rn01640052_g1	12.159348		-0.09739494	1.06984			0.72092694
+	gp 6 day 3 mia	Myd88-Rn01640052_g1	12.0010395		-0.25570297	1.1939174			0.72092694
+	gp 3 day 3 v	Myd88-Rn01640052_g1	11.588005		-0.6687374	1.5896811			0.72092694
+	gp 4 day 3 v	Myd88-Rn01640052_g1	11.978735		-0.2780075	1.2125192			0.72092694
+	gp 7 day 3 mia	Myd88-Rn01640052_g1	12.201014		-0.055728912	1.0393841			0.72092694
+	gp 8 day 3 mia	Myd88-Rn01640052_g1	12.430172		0.17342949	0.8867323			0.72092694
+	gp 1 day 3 v	Nfkb1-Rn01399583_m1	11.162481		0	1			0.7297812
+	gp 2 day 3 v	Nfkb1-Rn01399583_m1	9.981918		-1.180563	2.266652			0.7297812
+	gp 5 day 3 mia	Nfkb1-Rn01399583_m1	10.548273		-0.6142082	1.5307177			0.7297812
+	gp 6 day 3 mia	Nfkb1-Rn01399583_m1	10.717682		-0.44479942	1.3611249			0.7297812
+	gp 3 day 3 v	Nfkb1-Rn01399583_m1	9.698402		-1.4640789	2.7588727			0.7297812
+	gp 4 day 3 v	Nfkb1-Rn01399583_m1	10.493105		-0.6693764	1.5903853			0.7297812
+	gp 7 day 3 mia	Nfkb1-Rn01399583_m1	10.325102		-0.83737946	1.7868016			0.7297812
+	gp 8 day 3 mia	Nfkb1-Rn01399583_m1	20.22931		9.066828	0.001864717			0.7297812
+	gp 1 day 3 v	Ngfb-Rn01533872_m1	14.444674		0	1			0.85080117
+	gp 2 day 3 v	Ngfb-Rn01533872_m1	12.210749		-2.2339249	4.70412			0.85080117
+	gp 5 day 3 mia	Ngfb-Rn01533872_m1	13.683407		-0.7612667	1.6949782			0.85080117
+	gp 6 day 3 mia	Ngfb-Rn01533872_m1	14.546179		0.10150528	0.93206			0.85080117
+	gp 3 day 3 v	Ngfb-Rn01533872_m1	11.231527		-3.2131462	9.273707			0.85080117
+	gp 4 day 3 v	Ngfb-Rn01533872_m1	13.031105		-1.4135685	2.6639528			0.85080117
+	gp 7 day 3 mia	Ngfb-Rn01533872_m1	12.841131		-1.6035423	3.0388856			0.85080117
+	gp 8 day 3 mia	Ngfb-Rn01533872_m1	14.151554		-0.29311943	1.2252867			0.85080117
+	gp 1 day 3 v	Pdgfa-Rn00709363_m1	10.811388		0	1			1.0923299
+	gp 2 day 3 v	Pdgfa-Rn00709363_m1	9.02187		-1.7895184	3.4569945			1.0923299
+	gp 5 day 3 mia	Pdgfa-Rn00709363_m1	9.339775		-1.4716129	2.7733178			1.0923299
+	gp 6 day 3 mia	Pdgfa-Rn00709363_m1	9.526705		-1.2846832	2.4362855			1.0923299
+	gp 3 day 3 v	Pdgfa-Rn00709363_m1	8.782053		-2.029335	4.0821667			1.0923299
+	gp 4 day 3 v	Pdgfa-Rn00709363_m1	9.558115		-1.253273	2.3838162			1.0923299
+	gp 7 day 3 mia	Pdgfa-Rn00709363_m1	8.763659		-2.0477295	4.1345477			1.0923299
+	gp 8 day 3 mia	Pdgfa-Rn00709363_m1	9.184725		-1.6266632	3.0879796			1.0923299
+	gp 1 day 3 v	Pten-Rn00477208_m1	8.183853		0	1			0.67247266
+	gp 2 day 3 v	Pten-Rn00477208_m1	7.146326		-1.0375271	2.052706			0.67247266
+	gp 5 day 3 mia	Pten-Rn00477208_m1	7.6440315		-0.5398216	1.4537928			0.67247266
+	gp 6 day 3 mia	Pten-Rn00477208_m1	8.345873		0.16201973	0.89377296			0.67247266
+	gp 3 day 3 v	Pten-Rn00477208_m1	7.427887		-0.7559662	1.6887622			0.67247266
+	gp 4 day 3 v	Pten-Rn00477208_m1	8.279337		0.09548378	0.9359583			0.67247266
+	gp 7 day 3 mia	Pten-Rn00477208_m1	7.794325		-0.38952827	1.309965			0.67247266
+	gp 8 day 3 mia	Pten-Rn00477208_m1	8.177185		-0.006668091	1.0046327			0.67247266
+	gp 1 day 3 v	Ptgds-Rn00564605_m1	8.583237		0	1			0.7757821
+	gp 2 day 3 v	Ptgds-Rn00564605_m1	7.278612		-1.3046246	2.4701943			0.7757821
+	gp 5 day 3 mia	Ptgds-Rn00564605_m1	10.201696		1.6184597	0.325683			0.7757821
+	gp 6 day 3 mia	Ptgds-Rn00564605_m1	11.059593		2.4763565	0.17969766			0.7757821
+	gp 3 day 3 v	Ptgds-Rn00564605_m1	9.702805		1.1195679	0.46023166			0.7757821
+	gp 4 day 3 v	Ptgds-Rn00564605_m1	10.843765		2.2605286	0.2086955			0.7757821
+	gp 7 day 3 mia	Ptgds-Rn00564605_m1	12.401808		3.818571	0.070875406			0.7757821
+	gp 8 day 3 mia	Ptgds-Rn00564605_m1	14.190716		5.607479	0.020510705			0.7757821
+	gp 1 day 3 v	Ptges-Rn00572047_m1	13.807287		0	1			0.78465754
+	gp 2 day 3 v	Ptges-Rn00572047_m1	12.8869915		-0.9202957	1.8925031			0.78465754
+	gp 5 day 3 mia	Ptges-Rn00572047_m1	15.647594		1.8403072	0.2792623			0.78465754
+	gp 6 day 3 mia	Ptges-Rn00572047_m1	16.7093		2.9020119	0.13378498			0.78465754
+	gp 3 day 3 v	Ptges-Rn00572047_m1	14.233639		0.42635155	0.7441413			0.78465754
+	gp 4 day 3 v	Ptges-Rn00572047_m1	14.543098		0.73581123	0.60048026			0.78465754
+	gp 7 day 3 mia	Ptges-Rn00572047_m1	14.653948		0.8466606	0.5560704			0.78465754
+	gp 8 day 3 mia	Ptges-Rn00572047_m1	20.22931		6.422022	0.011662154			0.78465754
+	gp 1 day 3 v	Ptgs2-Rn01483828_m1	13.113169		0	1			0.5957464
+	gp 2 day 3 v	Ptgs2-Rn01483828_m1	11.345139		-1.7680302	3.405886			0.5957464
+	gp 5 day 3 mia	Ptgs2-Rn01483828_m1	12.851559		-0.26161003	1.1988158			0.5957464
+	gp 6 day 3 mia	Ptgs2-Rn01483828_m1	13.75646		0.6432915	0.64025056			0.5957464
+	gp 3 day 3 v	Ptgs2-Rn01483828_m1	10.379204		-2.733965	6.652815			0.5957464
+	gp 4 day 3 v	Ptgs2-Rn01483828_m1	13.116634		0.003465653	0.9976007			0.5957464
+	gp 7 day 3 mia	Ptgs2-Rn01483828_m1	12.327818		-0.7853508	1.7235113			0.5957464
+	gp 8 day 3 mia	Ptgs2-Rn01483828_m1	13.093674		-0.01949501	1.0136046			0.5957464
+	gp 1 day 3 v	Rgs3-Rn00571037_m1	16.100164		0	1			0.74907106
+	gp 2 day 3 v	Rgs3-Rn00571037_m1	13.386221		-2.7139435	6.561126			0.74907106
+	gp 5 day 3 mia	Rgs3-Rn00571037_m1	13.41877		-2.6813946	6.414757			0.74907106
+	gp 6 day 3 mia	Rgs3-Rn00571037_m1	12.346987		-3.7531776	13.48401			0.74907106
+	gp 3 day 3 v	Rgs3-Rn00571037_m1	12.782818		-3.3173466	9.968294			0.74907106
+	gp 4 day 3 v	Rgs3-Rn00571037_m1	13.802258		-2.2979069	4.917438			0.74907106
+	gp 7 day 3 mia	Rgs3-Rn00571037_m1	12.580484		-3.51968	11.469098			0.74907106
+	gp 8 day 3 mia	Rgs3-Rn00571037_m1	14.165802		-1.9343624	3.8220918			0.74907106
+	gp 1 day 3 v	Runx2-Rn01512296_m1	9.084698		0	1			0.49735337
+	gp 2 day 3 v	Runx2-Rn01512296_m1	8.341431		-0.74326706	1.6739624			0.49735337
+	gp 5 day 3 mia	Runx2-Rn01512296_m1	8.4723		-0.61239815	1.5287983			0.49735337
+	gp 6 day 3 mia	Runx2-Rn01512296_m1	8.730471		-0.35422707	1.2783005			0.49735337
+	gp 3 day 3 v	Runx2-Rn01512296_m1	8.021198		-1.0634995	2.089995			0.49735337
+	gp 4 day 3 v	Runx2-Rn01512296_m1	8.636179		-0.44851875	1.3646384			0.49735337
+	gp 7 day 3 mia	Runx2-Rn01512296_m1	8.238663		-0.846035	1.7975539			0.49735337
+	gp 8 day 3 mia	Runx2-Rn01512296_m1	8.902796		-0.18190193	1.1343783			0.49735337
+	gp 1 day 3 v	Slit2-Rn00575268_m1	12.015516		0	1			0.68108386
+	gp 2 day 3 v	Slit2-Rn00575268_m1	9.589642		-2.4258747	5.373547			0.68108386
+	gp 5 day 3 mia	Slit2-Rn00575268_m1	12.052513		0.03699684	0.97468174			0.68108386
+	gp 6 day 3 mia	Slit2-Rn00575268_m1	10.699938		-1.3155785	2.489021			0.68108386
+	gp 3 day 3 v	Slit2-Rn00575268_m1	9.677441		-2.3380756	5.0562773			0.68108386
+	gp 4 day 3 v	Slit2-Rn00575268_m1	11.256847		-0.7586689	1.6919289			0.68108386
+	gp 7 day 3 mia	Slit2-Rn00575268_m1	10.55571		-1.4598064	2.7507145			0.68108386
+	gp 8 day 3 mia	Slit2-Rn00575268_m1	9.926275		-2.089241	4.2552414			0.68108386
+	gp 1 day 3 v	Stat3-Rn00562562_m1	9.27807		0	1			0.80549765
+	gp 2 day 3 v	Stat3-Rn00562562_m1	7.777767		-1.5003033	2.8290217			0.80549765
+	gp 5 day 3 mia	Stat3-Rn00562562_m1	8.646223		-0.6318474	1.5495479			0.80549765
+	gp 6 day 3 mia	Stat3-Rn00562562_m1	8.551157		-0.72691345	1.6550944			0.80549765
+	gp 3 day 3 v	Stat3-Rn00562562_m1	7.763792		-1.5142784	2.8565593			0.80549765
+	gp 4 day 3 v	Stat3-Rn00562562_m1	8.606712		-0.6713581	1.5925715			0.80549765
+	gp 7 day 3 mia	Stat3-Rn00562562_m1	8.393265		-0.8848057	1.8465159			0.80549765
+	gp 8 day 3 mia	Stat3-Rn00562562_m1	8.593628		-0.6844425	1.6070808			0.80549765
+	gp 1 day 3 v	Tac1-Rn00562002_m1	12.463545		0	1			0.48053753
+	gp 2 day 3 v	Tac1-Rn00562002_m1	11.415581		-1.0479641	2.06761			0.48053753
+	gp 5 day 3 mia	Tac1-Rn00562002_m1	13.911903		1.4483585	0.36643812			0.48053753
+	gp 6 day 3 mia	Tac1-Rn00562002_m1	14.800989		2.3374443	0.19786052			0.48053753
+	gp 3 day 3 v	Tac1-Rn00562002_m1	13.8274		1.3638554	0.3885426			0.48053753
+	gp 4 day 3 v	Tac1-Rn00562002_m1	14.912979		2.4494343	0.18308249			0.48053753
+	gp 7 day 3 mia	Tac1-Rn00562002_m1	16.876295		4.4127502	0.046949375			0.48053753
+	gp 8 day 3 mia	Tac1-Rn00562002_m1	17.126713		4.663168	0.039468132			0.48053753
+	gp 1 day 3 v	Tgfb1-Rn00572010_m1	8.054432		0	1			0.6000924
+	gp 2 day 3 v	Tgfb1-Rn00572010_m1	6.779024		-1.2754078	2.4206724			0.6000924
+	gp 5 day 3 mia	Tgfb1-Rn00572010_m1	7.212837		-0.8415947	1.7920299			0.6000924
+	gp 6 day 3 mia	Tgfb1-Rn00572010_m1	7.5895996		-0.4648323	1.3801569			0.6000924
+	gp 3 day 3 v	Tgfb1-Rn00572010_m1	6.5473557		-1.5070763	2.8423343			0.6000924
+	gp 4 day 3 v	Tgfb1-Rn00572010_m1	7.2155914		-0.8388405	1.788612			0.6000924
+	gp 7 day 3 mia	Tgfb1-Rn00572010_m1	7.0930176		-0.96141434	1.947218			0.6000924
+	gp 8 day 3 mia	Tgfb1-Rn00572010_m1	7.4330883		-0.6213436	1.5383072			0.6000924
+	gp 1 day 3 v	Tlr4-Rn00569848_m1	15.277372		0	1			0.5898345
+	gp 2 day 3 v	Tlr4-Rn00569848_m1	13.088129		-2.1892433	4.5606623			0.5898345
+	gp 5 day 3 mia	Tlr4-Rn00569848_m1	14.554798		-0.72257423	1.6501237			0.5898345
+	gp 6 day 3 mia	Tlr4-Rn00569848_m1	14.597677		-0.6796951	1.6018013			0.5898345
+	gp 3 day 3 v	Tlr4-Rn00569848_m1	14.110973		-1.166399	2.2445076			0.5898345
+	gp 4 day 3 v	Tlr4-Rn00569848_m1	14.120659		-1.1567135	2.2294896			0.5898345
+	gp 7 day 3 mia	Tlr4-Rn00569848_m1	14.93844		-0.33893204	1.26482			0.5898345
+	gp 8 day 3 mia	Tlr4-Rn00569848_m1	13.6317215		-1.6456509	3.1288898			0.5898345
+	gp 1 day 3 v	Tnf-Rn99999017_m1	15.893808		0	1			0.21698071
+	gp 2 day 3 v	Tnf-Rn99999017_m1	16.788614		0.8948059	0.53781956			0.21698071
+	gp 5 day 3 mia	Tnf-Rn99999017_m1	16.161404		0.2675953	0.830703			0.21698071
+	gp 6 day 3 mia	Tnf-Rn99999017_m1	15.717165		-0.17664337	1.1302512			0.21698071
+	gp 3 day 3 v	Tnf-Rn99999017_m1	13.284748		-2.6090603	6.1010613			0.21698071
+	gp 4 day 3 v	Tnf-Rn99999017_m1	14.218521		-1.6752872	3.1938293			0.21698071
+	gp 7 day 3 mia	Tnf-Rn99999017_m1	15.833841		-0.05996704	1.042442			0.21698071
+	gp 8 day 3 mia	Tnf-Rn99999017_m1	14.069355		-1.8244534	3.5417278			0.21698071
+	gp 1 day 3 v	Tnfrsf1a-Rn00565310_m1	11.097321		0	1			0.52896345
+	gp 2 day 3 v	Tnfrsf1a-Rn00565310_m1	9.762554		-1.3347664	2.5223463			0.52896345
+	gp 5 day 3 mia	Tnfrsf1a-Rn00565310_m1	10.316921		-0.7803993	1.7176062			0.52896345
+	gp 6 day 3 mia	Tnfrsf1a-Rn00565310_m1	10.780134		-0.31718636	1.2458984			0.52896345
+	gp 3 day 3 v	Tnfrsf1a-Rn00565310_m1	9.972736		-1.1245842	2.180387			0.52896345
+	gp 4 day 3 v	Tnfrsf1a-Rn00565310_m1	10.696018		-0.40130234	1.3206996			0.52896345
+	gp 7 day 3 mia	Tnfrsf1a-Rn00565310_m1	10.116392		-0.9809284	1.9737352			0.52896345
+	gp 8 day 3 mia	Tnfrsf1a-Rn00565310_m1	10.516998		-0.58032227	1.4951832			0.52896345
+	gp 1 day 3 v	Tnfsf10-Rn00595556_m1	15.456583		0	1			0.83305323
+	gp 2 day 3 v	Tnfsf10-Rn00595556_m1	13.7485485		-1.7080345	3.2671542			0.83305323
+	gp 5 day 3 mia	Tnfsf10-Rn00595556_m1	15.433815		-0.02276802	1.0159068			0.83305323
+	gp 6 day 3 mia	Tnfsf10-Rn00595556_m1	14.590345		-0.86623764	1.8229028			0.83305323
+	gp 3 day 3 v	Tnfsf10-Rn00595556_m1	15.562134		0.105550766	0.92945004			0.83305323
+	gp 4 day 3 v	Tnfsf10-Rn00595556_m1	15.695572		0.23898888	0.847339			0.83305323
+	gp 7 day 3 mia	Tnfsf10-Rn00595556_m1	15.21586		-0.24072266	1.1815844			0.83305323
+	gp 8 day 3 mia	Tnfsf10-Rn00595556_m1	14.898701		-0.5578823	1.4721068			0.83305323
+	gp 1 day 3 v	Txnip-Rn01533890_g1	8.809412		0	1			0.662354
+	gp 2 day 3 v	Txnip-Rn01533890_g1	7.446249		-1.363163	2.5724857			0.662354
+	gp 5 day 3 mia	Txnip-Rn01533890_g1	8.059238		-0.75017357	1.6819952			0.662354
+	gp 6 day 3 mia	Txnip-Rn01533890_g1	8.75062		-0.058792114	1.0415933			0.662354
+	gp 3 day 3 v	Txnip-Rn01533890_g1	7.8286324		-0.98077965	1.9735316			0.662354
+	gp 4 day 3 v	Txnip-Rn01533890_g1	8.585638		-0.22377396	1.1677845			0.662354
+	gp 7 day 3 mia	Txnip-Rn01533890_g1	8.427261		-0.38215065	1.3032832			0.662354
+	gp 8 day 3 mia	Txnip-Rn01533890_g1	8.724903		-0.084508896	1.0603267			0.662354
+	gp 1 day 3 v	Vegfa-Rn00582935_m1	9.55596		0	1			0.89241314
+	gp 2 day 3 v	Vegfa-Rn00582935_m1	8.782707		-0.7732525	1.7091186			0.89241314
+	gp 5 day 3 mia	Vegfa-Rn00582935_m1	8.880163		-0.6757965	1.5974785			0.89241314
+	gp 6 day 3 mia	Vegfa-Rn00582935_m1	10.385408		0.8294487	0.56274426			0.89241314
+	gp 3 day 3 v	Vegfa-Rn00582935_m1	8.323395		-1.2325649	2.349844			0.89241314
+	gp 4 day 3 v	Vegfa-Rn00582935_m1	9.504383		-0.051576614	1.0363969			0.89241314
+	gp 7 day 3 mia	Vegfa-Rn00582935_m1	9.011192		-0.5447674	1.458785			0.89241314
+	gp 8 day 3 mia	Vegfa-Rn00582935_m1	9.936548		0.38058853	0.76812416			0.89241314
+	gp 1 day 3 v	Vhl-Rn00583795_m1	12.220366		0	1			0.7219793
+	gp 2 day 3 v	Vhl-Rn00583795_m1	10.947329		-1.273037	2.4166975			0.7219793
+	gp 5 day 3 mia	Vhl-Rn00583795_m1	11.081369		-1.1389961	2.2022772			0.7219793
+	gp 6 day 3 mia	Vhl-Rn00583795_m1	11.771467		-0.44889832	1.3649975			0.7219793
+	gp 3 day 3 v	Vhl-Rn00583795_m1	11.754677		-0.4656887	1.3809764			0.7219793
+	gp 4 day 3 v	Vhl-Rn00583795_m1	11.743057		-0.47730827	1.3921438			0.7219793
+	gp 7 day 3 mia	Vhl-Rn00583795_m1	11.034079		-1.1862869	2.275663			0.7219793
+	gp 8 day 3 mia	Vhl-Rn00583795_m1	12.2794		0.059034348	0.9599064			0.7219793
+	gp 1 day 3 v	Xcl1-Rn00592605_m1	20.166338						0.62023246
+	gp 2 day 3 v	Xcl1-Rn00592605_m1	19.848993						0.62023246
+	gp 5 day 3 mia	Xcl1-Rn00592605_m1	19.729412						0.62023246
+	gp 6 day 3 mia	Xcl1-Rn00592605_m1	19.794024						0.62023246
+	gp 3 day 3 v	Xcl1-Rn00592605_m1	14.831963		-5.3343754	40.346603			0.62023246
+	gp 4 day 3 v	Xcl1-Rn00592605_m1	20.06358						0.62023246
+	gp 7 day 3 mia	Xcl1-Rn00592605_m1	20.04767						0.62023246
+	gp 8 day 3 mia	Xcl1-Rn00592605_m1	16.203506		-3.9628315	15.593053			0.62023246
