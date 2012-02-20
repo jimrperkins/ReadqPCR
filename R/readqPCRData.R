@@ -157,7 +157,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
 {
     pdata <- pData(phenoData)
     checkValidqPCRFilename(filename)
-    qPCRInfo <- .read.qPCR(filename, verbose) # need to make this work for tech reps and multiple files
+    qPCRInfo <- .read.qPCR(filename, verbose)
     exprs <- qPCRInfo$exprs
     well.order <- qPCRInfo$well.order
     exprs.well.order <- assayDataNew("environment", exprs.well.order = exprs)
@@ -192,7 +192,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
     }
     levels(raw.data$Sample) <- make.names(levels(raw.data$Sample))
     levels(raw.data$Detector) <- make.names(levels(raw.data$Detector))
-    Ct <- as.character(raw.data$Ct)
+    Ct <- as.character(raw.data$Cq)
     samples <- levels(raw.data$Sample)
     detectors <- levels(raw.data$Detector)
     allDetectors <- raw.data$Detector
@@ -229,7 +229,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
                 row.names=1)
         }
         Cts <- data.frame(raw.data$Detector[raw.data$Sample == sample],
-          as.numeric(as.character(raw.data$Ct[raw.data$Sample == sample])),
+          as.numeric(as.character(raw.data$Cq[raw.data$Sample == sample])),
             row.names=1)
         exprs <- data.frame(merge(exprs, Cts, by="row.names"), row.names=1)
         if(noWellData == FALSE) {

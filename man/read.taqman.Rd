@@ -24,7 +24,7 @@ read.taqman(\dots,
   \item{verbose}{verbosity flag. If true more messages are given to the user on the processing steps}
 }
 \details{
-  Permits the user to read in qPCR Ct value data from an sds output file, 
+  Permits the user to read in qPCR Cq value data from an sds output file, 
   alongside phenotypic data and further notes about the data. If \code{phenoData} 
   is a \code{data.frame}, it is converted to an \code{AnnotatedDataFrame}. If it
   is \code{NULL} then a default object  of class \code{AnnotatedDataFrame} is

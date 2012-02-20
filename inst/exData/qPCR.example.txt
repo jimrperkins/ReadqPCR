@@ -1,4 +1,4 @@
-Well PlateID Sample Detector Cts
+Well PlateID Sample Detector Cq
 1 A caseA gene_dm 21.0014917960626
 2 A caseA gene_sw 19.8315362467861
 3 A caseA gene_er 20.4971810118107

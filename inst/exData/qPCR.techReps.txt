@@ -1,4 +1,4 @@
-Well Plate Sample Detector Cts
+Well Plate Sample Detector Cq
 1 A one gene_dx 19.5713140554026
 2 A one gene_aj 20.729599684343
 3 A one gene_jy 19.2354584535806

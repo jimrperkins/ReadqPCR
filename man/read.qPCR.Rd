@@ -21,7 +21,7 @@ read.qPCR(filename = character(0),
   \item{verbose}{verbosity flag. If true more messages are given to the user on the processing steps}
 }
 \details{
-  Permits the user to read in qPCR Ct value data in a predefined format 
+  Permits the user to read in qPCR Cq value data in a predefined format 
   (more details on this format in the \code{ReadqPCR} package vignette), alongside 
   phenotypic data and further notes about the data. If \code{phenoData} is a \code{data.frame}, 
   it is converted to an \code{AnnotatedDataFrame}. If it is \code{NULL} then a default object

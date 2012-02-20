@@ -1,4 +1,4 @@
-Sample Detector Cts
+Sample Detector Cq
 caseA gene_pr 19.5770369645097
 caseA gene_jw 22.0646365991057
 caseA gene_fu 19.450310574944

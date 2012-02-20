@@ -13,7 +13,7 @@
 }
 
 \description{
-  Class to Contain and Describe raw and normalised qPCR Data, as Ct or delta-Ct values. Extends eSet
+  Class to Contain and Describe raw and normalised qPCR Data, as Cq or delta-Cq values. Extends eSet
 }
 \section{Creating Objects}{
   \code{new("qPCRBatch")}
@@ -21,7 +21,7 @@
 \section{Slots}{
   \describe{
     \item{\code{assayData}:}{ Object of class \code{AssayData} containing the raw data,
-      which will be at minimum a matrix of Ct values. This
+      which will be at minimum a matrix of Cq values. This
       slot can also hold a matrix of well.info values if these are present in the input file read 
       in by \code{read.qPCR} or \code{read.taqman}
     }
@@ -49,14 +49,14 @@
 }
 \section{Methods}{
   \describe{
-    \item{exprs}{\code{signature(object = "qPCRBatch")}: extracts the Ct
+    \item{exprs}{\code{signature(object = "qPCRBatch")}: extracts the Cq
       expression matrix.}
     \item{exprs<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
-      replaces the Ct expression matrix.}
-    \item{exprs.well.order}{\code{signature(object = "qPCRBatch")}: extracts the Ct
+      replaces the Cq expression matrix.}
+    \item{exprs.well.order}{\code{signature(object = "qPCRBatch")}: extracts the Cq
       well order matrix (if it exists).}
     \item{exprs.well.order<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
-      replaces the Ct well order matrix.}
+      replaces the Cq well order matrix.}
   }
 }
 \note{This class is better described in the vignette.}

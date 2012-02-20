@@ -49,8 +49,8 @@ into R.
 
 As well as the functions to read in the data, \pkg{ReadqPCR} contains the
 \code{qPCRBatch} class definition.
-The data output by these RT-qPCR systems is in the form of cycle threshold, or
-Ct values, which represents the number of cycles of amplification needed in
+The data output by these RT-qPCR systems is in the form of quantification cycle, or
+Cq values, which represents the number of cycles of amplification needed in
 order to detect the expression of a given gene from a sample.
 
 \pkg{ReadqPCR} is designed to be complementary to another R module, NormqPCR, which is intended for the normalisation of qPCR data. It must be installed before the other two modules.
@@ -81,7 +81,7 @@ detectors in order to combine and compare samples effectively and to form a
 valid expression set matrix.
     \item[Detector] This is the identifier for the gene being investigated. The
 Detectors must be identical for each sample.
-    \item[Ct] This is the cycle threshold for a given detector in the
+    \item[Cq] This is the cycle threshold for a given detector in the
 corresponding sample.
 \end{description}
 
@@ -98,7 +98,7 @@ the \code{qPCRBatch} object, as detailed below in section \code{qPCRBatch}.
 
 So for the \code{qPCR.example.txt} file, in directory \code{exData} of this
 library, which contains \code{Well} and \code{Plate ID} information, as well as
-the mandatory \code{Sample}, \code{Detector} and \code{Ct} information, we can
+the mandatory \code{Sample}, \code{Detector} and \code{Cq} information, we can
 read in the data as follows.
 <<read.qPCR>>=
 library(ReadqPCR) # load the ReadqPCR library
@@ -143,7 +143,7 @@ technical replicates to be controlled by the user, either using the
 Detection Systems (SDS) software which is the software used to analyse the
 Taqman Low Density Arrays. 
 This data consists of the header section, which gives some general information
-about the experiment, run date etc., followed by the raw Cts values detected by
+about the experiment, run date etc., followed by the raw Cq values detected by
 the software, followed by summary data about the experiment.
 \code{read.taqman} is a generic function, and is called in a way similar to the
 \code{read.affybatch} function of the \pkg{affy} package.
@@ -195,12 +195,12 @@ package, or otherwise.
 
 %-------------------------------------------------------------------------------
 \section{qPCRBatch}
-\code{qPCRBatch} is an S4 class, designed to store information on the Ct raw
+\code{qPCRBatch} is an S4 class, designed to store information on the raw Cq
 values
 which  represents the relative gene expression for a given sample, phenotypic
 information on the different samples which enable the user to compare expression
 accross different conditions or cell lines, and information on the spatial
-location of the different detectors used to measure Ct. This is achieved by
+location of the different detectors used to measure Cq. This is achieved by
 making \code{qPCRBatch} an an extension of eSet, which means we can recycle
 slots such as exprs and pData, and by introducing a new \code{assyData} slot.
 Here is an example of what a \code{qPCRBatch} looks like. note the similarity to
@@ -295,8 +295,8 @@ exprs.well.order(qPCRBatch.qPCR.noPlateOrWell)
 
 Once a qPCRBatch has been populated it is theoretically possible to use any tool
 which takes as it's input an \code{exprs} set matrix. However it is important to
-bear in mind the values are not raw expression values but Ct values, and a lower
-the Ct will indicate a higher expression level for a given transcript in the
+bear in mind the values are not raw expression values but Cq values, and a lower
+Cq will indicate a higher expression level for a given transcript in the
 sample. Also it is important to note that when normalising, the amount is
 relative and is intended to be compared to another condition or tissue type in
 order to look for differential expression between condition; the technology is
