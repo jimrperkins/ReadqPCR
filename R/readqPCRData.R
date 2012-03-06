@@ -172,8 +172,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
     }
     if(! is.null(qPCRInfo$well.order)) {
         return(new("qPCRBatch", exprs = exprs, phenoData = phenoData, exprs.well.order = well.order))
-    }
-    else {
+    } else {
 
         return(new("qPCRBatch", exprs = exprs, phenoData = phenoData))
     }
@@ -186,8 +185,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
     if(is.null(raw.data$Well) || is.null(raw.data$PlateID)) {
          noWellData <- TRUE
          if (verbose) message("No Well and/or Plate info found, skipping this part", "\n")
-    }
-    else {
+    } else {
         raw.data$PlateID <- paste(raw.data$PlateID, as.character(raw.data$Well), sep= "-")
     }
     levels(raw.data$Sample) <- make.names(levels(raw.data$Sample))
@@ -227,10 +225,12 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
             well.info <- data.frame(raw.data$Detector[raw.data$Sample == sample], # put well info values in a matrix
               raw.data$PlateID[raw.data$Sample == sample],
                 row.names=1)
+            names(well.info) <- paste("wellInfo_", sample, sep="")
         }
         Cts <- data.frame(raw.data$Detector[raw.data$Sample == sample],
           as.numeric(as.character(raw.data$Cq[raw.data$Sample == sample])),
             row.names=1)
+        names(Cts) <- paste("Cts_",sample,sep="")
         exprs <- data.frame(merge(exprs, Cts, by="row.names"), row.names=1)
         if(noWellData == FALSE) {
             well.order <- data.frame(merge(well.order, well.info, by="row.names"), row.names=1)
