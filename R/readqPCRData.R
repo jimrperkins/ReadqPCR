@@ -104,9 +104,11 @@ read.taqman <- function(..., filenames = character(0), phenoData = new("Annotate
             well.info <- data.frame(raw.data$Detector[raw.data$Sample == sample], # put Well data in a matrix
                          raw.data$PlateID[raw.data$Sample == sample],
                          row.names=1)
+            names(well.info) <- paste("wellInfo_", sample, sep="")
             Cts <- data.frame(raw.data$Detector[raw.data$Sample == sample], # put Cts values in a matrix
                          as.numeric(as.character(raw.data$Ct[raw.data$Sample == sample])),
                          row.names=1)
+            names(Cts) <- paste("Cts_",sample,sep="")
             exprs <- data.frame(merge(exprs, Cts, by="row.names"), row.names=1)
             if (! FALSE %in% (row.names(exprs) == row.names(Cts))) stop("BYE")
 
