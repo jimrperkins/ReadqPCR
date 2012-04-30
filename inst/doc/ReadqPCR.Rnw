@@ -81,7 +81,7 @@ detectors in order to combine and compare samples effectively and to form a
 valid expression set matrix.
     \item[Detector] This is the identifier for the gene being investigated. The
 Detectors must be identical for each sample.
-    \item[Cq] This is the cycle threshold for a given detector in the
+    \item[Cq] This is the quantification cycle value for a given detector in the
 corresponding sample.
 \end{description}
 
