@@ -53,6 +53,10 @@
       expression matrix.}
     \item{exprs<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
       replaces the Cq expression matrix.}
+    \item{se.exprs}{\code{signature(object = "qPCRBatch")}: extracts the
+      expression matrix with SDs of Cq values.}
+    \item{se.exprs<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
+      replaces the expression matrix with SDs of Cq values.}
     \item{exprs.well.order}{\code{signature(object = "qPCRBatch")}: extracts the Cq
       well order matrix (if it exists).}
     \item{exprs.well.order<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:

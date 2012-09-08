@@ -11,3 +11,5 @@ importClassesFrom(Biobase,
                   ExpressionSet)
 importFrom("Biobase", "exprs")
 importFrom("Biobase", "exprs<-")
+importFrom("Biobase", "se.exprs")
+importFrom("Biobase", "se.exprs<-")
