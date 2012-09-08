@@ -10,9 +10,9 @@ The package provides functions to read raw RT-qPCR data of different platforms.
 \tabular{ll}{
 Package: \tab ReadqPCR\cr
 Type: \tab Package\cr
-Version: \tab 0.99.3\cr
-Date: \tab 2011-06-30\cr
-Depends: \tab R(>= 2.10.0), Biobase, ReadqPCR, methods, RColorBrewer\cr
+Version: \tab 1.3.2\cr
+Date: \tab 2012-09-08\cr
+Depends: \tab R(>= 2.14.0), Biobase, ReadqPCR, methods, RColorBrewer\cr
 License: \tab LGPL-3\cr
 LazyLoad: \tab yes\cr
 }
@@ -24,9 +24,12 @@ Matthias Kohl <Matthias.Kohl@stamats.de>
 
 Maintainer: James Perkins <jperkins@biochem.ucl.ac.uk>
 }
-%\references{
-%~~ Literature or other references for background information ~~
-%}
+\references{
+  Perkins, JR, Dawes, JM, McMahon, SB, Bennett, DL, Orengo, C, Kohl, M (2012). 
+  ReadqPCR and NormqPCR: R packages for the reading, quality checking and 
+  normalisation of RT-qPCR quantification cycle (Cq) data. 
+  \emph{BMC Genomics}, \bold{13}, 1:296.
+}
 %~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
 %~~ the R documentation directory ~~
 %\seealso{

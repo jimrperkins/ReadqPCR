@@ -34,7 +34,12 @@ read.taqman(\dots,
 package vignette
 }
 \value{Object of class \code{"qPCRBatch"}.}
-%\references{ ~put references to the literature/web site here ~ }
+\references{
+  Perkins, JR, Dawes, JM, McMahon, SB, Bennett, DL, Orengo, C, Kohl, M (2012). 
+  ReadqPCR and NormqPCR: R packages for the reading, quality checking and 
+  normalisation of RT-qPCR quantification cycle (Cq) data. 
+  \emph{BMC Genomics}, \bold{13}, 1:296.
+}
 \author{ James Perkins \email{jperkins@biochem.ucl.ac.uk} }
 %\note{
 %}

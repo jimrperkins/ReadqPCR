@@ -64,6 +64,12 @@
 \seealso{
   \code{\link[Biobase:class.eSet]{eSet}}
 }
+\references{
+  Perkins, JR, Dawes, JM, McMahon, SB, Bennett, DL, Orengo, C, Kohl, M (2012). 
+  ReadqPCR and NormqPCR: R packages for the reading, quality checking and 
+  normalisation of RT-qPCR quantification cycle (Cq) data. 
+  \emph{BMC Genomics}, \bold{13}, 1:296.
+}
 \author{James Perkins}
 
 
