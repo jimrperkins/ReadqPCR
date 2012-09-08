@@ -1,5 +1,6 @@
 if(!exists("meta") || is.null(meta)) meta <- packageDescription("ReadqPCR")
-year <- sub("-.*", "", meta$Date)
+
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date, perl = TRUE)
 note <- sprintf("R package version %s", meta$Version)
 
 citHeader("To cite package ReadqPCR in publications use:")
