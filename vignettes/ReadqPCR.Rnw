@@ -1,6 +1,6 @@
 %\VignetteIndexEntry{Functions to load RT-qPCR data into R}
 %\VignetteDepends{stats,Biobase,methods}
-%\VignetteKeywords{real-time, quantitative, PCR, housekeeper, reference gene, geNorm, NormFinder}
+%\VignetteKeywords{real-time, quantitative, PCR}
 %\VignettePackage{ReadqPCR}
 %
 \documentclass[11pt]{article}
