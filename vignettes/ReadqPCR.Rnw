@@ -71,7 +71,7 @@ plate. This information, if given, will be used to check the plates are of the
 same size and will also be used in order to plot a representation of the card to
 look for spatial effects and other potential problems. Both Well number and
 Plate ID must be present to enable a plate to be plotted.
-    \item[Plate ID] Optional, this is an identifier for the plate on which an
+    \item[Plate] Optional, this is an identifier for the plate on which an
 experiment was performed. It is not possible to have duplicate plate IDs with
 the same Well number. Neither is it possible to have Plate Ids without Well
 numbers. Both Well number and Plate ID must be present to enable a plate to be
@@ -113,7 +113,7 @@ in the same way as when using \code{read.affybatch}. More detail is given in the
 \code{qPCRBatch} section below.
 
 \code{read.qPCR} can deal with technical replicates. If the same detector and
-sample identifier occurs more than once, the suffix \code{\_TechRep.n} is
+sample identifier occurs more than once, the suffix \code{\_TechReps.n} is
 concatenated to the detector name, where $n$ in \{$1, 2...N$
 \} is the number of the replication in the total number of replicates, $N$,
 based on
