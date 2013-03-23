@@ -17,4 +17,5 @@ exportClasses(qPCRBatch, CyclesSet)
 exportMethods(merge)
 
 export(read.taqman, read.qPCR, checkValidTaqmanFilenames, checkValidqPCRFilename, 
-       exprs.well.order, "exprs.well.order<-", read.LC480, read.LC480SampleInfo, qpcR2CyclesSet)
+       exprs.well.order, "exprs.well.order<-", read.LC480, read.LC480SampleInfo, 
+       qpcR2CyclesSet, effs, "effs<-", se.effs, "se.effs<-")

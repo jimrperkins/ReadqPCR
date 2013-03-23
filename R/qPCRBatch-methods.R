@@ -31,3 +31,19 @@ setMethod("exprs.well.order", signature = "qPCRBatch", definition =
 setReplaceMethod("exprs.well.order", signature = "qPCRBatch", definition = 
     function (object, value) assayDataElementReplace(object, "exprs.well.order", value)
 )
+
+setMethod("effs", signature = "qPCRBatch", definition = 
+          function (object) assayDataElement(object, "effs")
+)
+
+setReplaceMethod("effs", signature = "qPCRBatch", definition = 
+                 function (object, value) assayDataElementReplace(object, "effs", value)
+)
+
+setMethod("se.effs", signature = "qPCRBatch", definition = 
+            function (object) assayDataElement(object, "se.effs")
+)
+
+setReplaceMethod("se.effs", signature = "qPCRBatch", definition = 
+                   function (object, value) assayDataElementReplace(object, "se.effs", value)
+)

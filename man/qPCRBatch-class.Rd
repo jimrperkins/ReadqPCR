@@ -12,6 +12,14 @@
 \alias{exprs.well.order<-}
 \alias{exprs.well.order,qPCRBatch-method}
 \alias{exprs.well.order<-,qPCRBatch-method}
+\alias{effs}
+\alias{effs<-}
+\alias{effs,qPCRBatch-method}
+\alias{effs<-,qPCRBatch-method}
+\alias{se.effs}
+\alias{se.effs<-}
+\alias{se.effs,qPCRBatch-method}
+\alias{se.effs<-,qPCRBatch-method}
 \title{
   Class qPCRBatch
 }
@@ -65,6 +73,14 @@
       well order matrix (if it exists).}
     \item{exprs.well.order<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
       replaces the Cq well order matrix.}
+    \item{effs}{\code{signature(object = "qPCRBatch")}: extracts the efficiency
+      matrix (if it exists).}
+    \item{effs<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
+      replaces the efficiency matrix.}
+    \item{se.effs}{\code{signature(object = "qPCRBatch")}: extracts the matrix 
+      with the standard errors/deviations of the efficiencies (if it exists).}
+    \item{se.effs<-}{\code{signature(object = "qPCRBatch", value = "matrix")}:
+      replaces the matrix with the standard errors/deviations of the efficiencies.}
   }
 }
 \note{This class is better described in the vignette.}
