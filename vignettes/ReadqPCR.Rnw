@@ -9,7 +9,7 @@
 \usepackage[%
 baseurl={http://qpcr.r-forge.r-project.org/},%
 pdftitle={ReadqPCR: Functions to load RT-qPCR data into R},%
-pdfauthor={James Perkins},%
+pdfauthor={James Perkins, Matthias Kohl},%
 pdfsubject={Functions to load RT-qPCR data into R},%
 pdfkeywords={real-time, quantitative, PCR, qPCR, RT-qPCR, load data},%
 pagebackref,bookmarks,colorlinks,linkcolor=darkblue,citecolor=darkblue,%
@@ -38,6 +38,8 @@ pagecolor=darkblue,raiselinks,plainpages,pdftex]{hyperref}
 %-------------------------------------------------------------------------------
 \author{James Perkins\\
 University College London\medskip\\
+Matthias Kohl\\
+Furtwangen University\medskip\\
 }
 \maketitle
 \tableofcontents
@@ -48,16 +50,65 @@ The package \pkg{ReadqPCR} contains different functions for reading qPCR data
 into R. 
 
 As well as the functions to read in the data, \pkg{ReadqPCR} contains the
-\code{qPCRBatch} class definition.
-The data output by these RT-qPCR systems is in the form of quantification cycle, or
-Cq values, which represents the number of cycles of amplification needed in
-order to detect the expression of a given gene from a sample.
+\code{qPCRBatch} and \code{CyclesSet} class definition.
+The data output by these RT-qPCR systems is in the form of fluorescence values
+or quantification cycle (Cq values), which represents the number of cycles of 
+amplification needed in order to detect the expression of a given gene from a 
+sample.
 
-\pkg{ReadqPCR} is designed to be complementary to another R module, NormqPCR, which is intended for the normalisation of qPCR data. It must be installed before the other two modules.
+\pkg{ReadqPCR} is designed to be complementary to another R package, \pkg{NormqPCR}, 
+which is intended for the normalisation of qPCR data. It must be installed before 
+the other module.
 
+We load the \pkg{ReadqPCR} package.
+<<ReadqPCR>>=
+library(ReadqPCR)
+@
+%-------------------------------------------------------------------------------
+\section{read.LC480}
+%-------------------------------------------------------------------------------
+With function \code{read.LC480} raw fluoresence data of Roche LightCycler 480 
+may be read in. The result is saved in an object of class \code{CyclesSet}.
+At the moment the function works only with the data exported to a txt-file, but
+we plan to add support also for the xml-export.
+<<read.LC480>>=
+path <- system.file("exData", package = "ReadqPCR")
+LC480.example <- file.path(path, "LC480_Example.txt")
+cycData <- read.LC480(file = LC480.example)
+## Fluorescence data
+head(exprs(cycData))
+## Pheno data
+head(pData(cycData))
+## Feature data
+head(fData(cycData))
+@
+The class \code{CyclesSet} is an extension of class \code{eSet}.
+<<CyclesSet>>=
+cycData
+## Information about class CyclesSet
+getClass("CyclesSet")
+@
+The additional sample information file can be read in with function 
+\code{read.LC480SampleInfo} and is saved in an object of class 
+\code{AnnotatedDataFrame}.
+<<read.LC480SampleInfo>>=
+LC480.SamInfo <- file.path(path, "LC480_Example_SampleInfo.txt")
+samInfo <- read.LC480SampleInfo(file = LC480.SamInfo)
+## Additional sample information
+head(pData(samInfo))
+@
+For adding this additional information to the \code{CyclesSet} we provide a
+method for function \code{merge}.
+<<merge>>=
+cycData1 <- merge(cycData, samInfo)
+## Extended pheno data
+phenoData(cycData1)
+head(pData(cycData1))
+varMetadata(phenoData(cycData1))
+@
 %-------------------------------------------------------------------------------
 \section{read.qPCR}
-
+%-------------------------------------------------------------------------------
 \code{read.qPCR} allows the user to read in qPCR data and populate a
 \code{qPCRBatch} R object (see section \code{qPCRBatch}) using their own data
 matrix. 
@@ -101,7 +152,6 @@ library, which contains \code{Well} and \code{Plate ID} information, as well as
 the mandatory \code{Sample}, \code{Detector} and \code{Cq} information, we can
 read in the data as follows.
 <<read.qPCR>>=
-library(ReadqPCR) # load the ReadqPCR library
 path <- system.file("exData", package = "ReadqPCR")
 qPCR.example <- file.path(path, "qPCR.example.txt")
 qPCRBatch.qPCR <- read.qPCR(qPCR.example)
@@ -138,7 +188,7 @@ technical replicates to be controlled by the user, either using the
 
 %-------------------------------------------------------------------------------
 \section{read.taqman}
-
+%-------------------------------------------------------------------------------
 \code{read.taqman} allows the user to read in the data output by the Sequence
 Detection Systems (SDS) software which is the software used to analyse the
 Taqman Low Density Arrays. 
@@ -192,9 +242,9 @@ format.
 Again it allows the decisions on how to deal with the analysis of technical
 replicates to be controlled by the user, either using the \pkg{NormqPCR}
 package, or otherwise.
-
 %-------------------------------------------------------------------------------
 \section{qPCRBatch}
+%-------------------------------------------------------------------------------
 \code{qPCRBatch} is an S4 class, designed to store information on the raw Cq
 values
 which  represents the relative gene expression for a given sample, phenotypic

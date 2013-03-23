@@ -1,0 +1,97 @@
+General:Pos	General:Sample Name	General:Repl. Of	General:Filt. Comb.	General:Target Name	Sample Preferences:Color	Abs Quant:Concentration	Rel Quant:Efficiency	Rel Quant:Combined Sample/Target type
+A1	Sample_1		465-510	negativ Kontrolle	$00FF8000		2.00	Target Negative
+A2	Sample_2		465-510	goi	clRed		2.00	Target Unknown
+A3	Sample_2		465-510	hk	$0030D700		2.00	Ref Unknown
+A4	Sample_3		465-510	negativ Kontrolle	clFuchsia		2.00	Target Negative
+A5	Sample_4		465-510	goi	clGray		2.00	Target Unknown
+A6	Sample_4		465-510	hk	$0012D7FA		2.00	Ref Unknown
+A7	Sample_5		465-510	negativ Kontrolle	$00000097		2.00	Target Negative
+A8	Sample_6		465-510	goi	$00FFFF0F		2.00	Target Unknown
+A9	Sample_6		465-510	hk	$00404000		2.00	Ref Unknown
+A10	Sample_7		465-510	negativ Kontrolle	$004080FF		2.00	Target Negative
+A11	Sample_8		465-510	goi	$00FD0299		2.00	Target Unknown
+A12	Sample_8		465-510	hk	$0026C4B8		2.00	Ref Unknown
+B1	Sample_1	B1	465-510	goi	$00FF8000		2.00	Target PosCalibrator
+B2	Sample_9		465-510	goi	clRed		2.00	Target Unknown
+B3	Sample_9		465-510	hk	$0030D700		2.00	Ref Unknown
+B4	Sample_3	B4	465-510	goi	clFuchsia		2.00	Target PosCalibrator
+B5	Sample_10		465-510	goi	clGray		2.00	Target Unknown
+B6	Sample_10		465-510	hk	$0012D7FA		2.00	Ref Unknown
+B7	Sample_5	B7	465-510	goi	$00000097		2.00	Target PosCalibrator
+B8	Sample_11		465-510	goi	$00FFFF0F		2.00	Target Unknown
+B9	Sample_11		465-510	hk	$00404000		2.00	Ref Unknown
+B10	Sample_7	B10	465-510	goi	$004080FF		2.00	Target PosCalibrator
+B11	Sample_12		465-510	goi	$00FD0299		2.00	Target Unknown
+B12	Sample_12		465-510	hk	$0026C4B8		2.00	Ref Unknown
+C1	Sample_1	B1	465-510	goi	$00FF8000		2.00	Target PosCalibrator
+C2	Sample_13		465-510	goi	clRed		2.00	Target Unknown
+C3	Sample_13		465-510	hk	$0030D700		2.00	Ref Unknown
+C4	Sample_3	B4	465-510	goi	clFuchsia		2.00	Target PosCalibrator
+C5	Sample_14		465-510	goi	clGray		2.00	Target Unknown
+C6	Sample_14		465-510	hk	$0012D7FA		2.00	Ref Unknown
+C7	Sample_5	B7	465-510	goi	$00000097		2.00	Target PosCalibrator
+C8	Sample_15		465-510	goi	$00FFFF0F		2.00	Target Unknown
+C9	Sample_15		465-510	hk	$00404000		2.00	Ref Unknown
+C10	Sample_7	B10	465-510	goi	$004080FF		2.00	Target PosCalibrator
+C11	Sample_16		465-510	goi	$00FD0299		2.00	Target Unknown
+C12	Sample_16		465-510	hk	$0026C4B8		2.00	Ref Unknown
+D1	Sample_1	B1	465-510	goi	$00FF8000		2.00	Target PosCalibrator
+D2	Sample_17		465-510	goi	clRed		2.00	Target Unknown
+D3	Sample_17		465-510	hk	$0030D700		2.00	Ref Unknown
+D4	Sample_3	B4	465-510	goi	clFuchsia		2.00	Target PosCalibrator
+D5	Sample_18		465-510	goi	clGray		2.00	Target Unknown
+D6	Sample_18		465-510	hk	$0012D7FA		2.00	Ref Unknown
+D7	Sample_5	B7	465-510	goi	$00000097		2.00	Target PosCalibrator
+D8	Sample_19		465-510	goi	$00FFFF0F		2.00	Target Unknown
+D9	Sample_19		465-510	hk	$00404000		2.00	Ref Unknown
+D10	Sample_7	B10	465-510	goi	$004080FF		2.00	Target PosCalibrator
+D11	Sample_20		465-510	goi	$00FD0299		2.00	Target Unknown
+D12	Sample_20		465-510	hk	$0026C4B8		2.00	Ref Unknown
+E1	Sample_1	E1	465-510	hk	$00FF8000		2.00	Ref PosCalibrator
+E2	Sample_21		465-510	goi	clRed		2.00	Target Unknown
+E3	Sample_21		465-510	hk	$0030D700		2.00	Ref Unknown
+E4	Sample_3	E4	465-510	hk	clFuchsia		2.00	Ref PosCalibrator
+E5	Sample_22		465-510	goi	clGray		2.00	Target Unknown
+E6	Sample_22		465-510	hk	$0012D7FA		2.00	Ref Unknown
+E7	Sample_5	E7	465-510	hk	$00000097		2.00	Ref PosCalibrator
+E8	Sample_23		465-510	goi	$00FFFF0F		2.00	Target Unknown
+E9	Sample_23		465-510	hk	$00404000		2.00	Ref Unknown
+E10	Sample_7	E10	465-510	hk	$004080FF		2.00	Ref PosCalibrator
+E11	Sample_24		465-510	goi	$00FD0299		2.00	Target Unknown
+E12	Sample_24		465-510	hk	$0026C4B8		2.00	Ref Unknown
+F1	Sample_1	E1	465-510	hk	$00FF8000		2.00	Ref PosCalibrator
+F2	Sample_25		465-510	goi	clRed		2.00	Target Unknown
+F3	Sample_25		465-510	hk	$0030D700		2.00	Ref Unknown
+F4	Sample_3	E4	465-510	hk	clFuchsia		2.00	Ref PosCalibrator
+F5	Sample_26		465-510	goi	clGray		2.00	Target Unknown
+F6	Sample_26		465-510	hk	$0012D7FA		2.00	Ref Unknown
+F7	Sample_5	E7	465-510	hk	$00000097		2.00	Ref PosCalibrator
+F8	Sample_27		465-510	goi	$00FFFF0F		2.00	Target Unknown
+F9	Sample_27		465-510	hk	$00404000		2.00	Ref Unknown
+F10	Sample_7	E10	465-510	hk	$004080FF		2.00	Ref PosCalibrator
+F11	Sample_28		465-510	goi	$00FD0299		2.00	Target Unknown
+F12	Sample_28		465-510	hk	$0026C4B8		2.00	Ref Unknown
+G1	Sample_1	E1	465-510	hk	$00FF8000		2.00	Ref PosCalibrator
+G2	Sample_29		465-510		clRed		2.00	Unassigned Unknown
+G3	Sample_30		465-510		$0030D700		2.00	Unassigned Unknown
+G4	Sample_3	E4	465-510	hk	clFuchsia		2.00	Ref PosCalibrator
+G5	Sample_31		465-510		clGray		2.00	Unassigned Unknown
+G6	Sample_32		465-510		$0012D7FA		2.00	Unassigned Unknown
+G7	Sample_5	E7	465-510	hk	$00000097		2.00	Ref PosCalibrator
+G8	Sample_33		465-510		$00FFFF0F		2.00	Unassigned Unknown
+G9	Sample_34		465-510		$00404000		2.00	Unassigned Unknown
+G10	Sample_7	E10	465-510	hk	$004080FF		2.00	Ref PosCalibrator
+G11	Sample_35		465-510		$00FD0299		2.00	Unassigned Unknown
+G12	Sample_36		465-510		$0026C4B8		2.00	Unassigned Unknown
+H1	Sample_37		465-510	NTC_goi	$00FF8000		2.00	Target Negative
+H2	Sample_38		465-510	goi_positiv	clRed		2.00	Target Unknown
+H3	Sample_39		465-510		$0030D700		2.00	Unassigned Unknown
+H4	Sample_40		465-510		clFuchsia		2.00	Unassigned Unknown
+H5	Sample_41		465-510	NTC_hk	clGray		2.00	Ref Negative
+H6	Sample_42		465-510	hk_pos	$0012D7FA		2.00	Ref Unknown
+H7	Sample_43		465-510		$00000097		2.00	Unassigned Unknown
+H8	Sample_44		465-510		$00FFFF0F		2.00	Unassigned Unknown
+H9	Sample_45		465-510		$00404000		2.00	Unassigned Unknown
+H10	Sample_46		465-510		$004080FF		2.00	Unassigned Unknown
+H11	Sample_47		465-510		$00FD0299		2.00	Unassigned Unknown
+H12	Sample_48		465-510		$0026C4B8		2.00	Unassigned Unknown

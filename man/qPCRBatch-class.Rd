@@ -4,6 +4,10 @@
 \alias{class:qPCRBatch}
 \alias{qPCRBatch}
 \alias{qSet}
+\alias{exprs,qPCRBatch-method}
+\alias{exprs<-,qPCRBatch-method}
+\alias{se.exprs,qPCRBatch-method}
+\alias{se.exprs<-,qPCRBatch-method}
 \alias{exprs.well.order}
 \alias{exprs.well.order<-}
 \alias{exprs.well.order,qPCRBatch-method}
@@ -29,7 +33,7 @@
       containing phenotypic data for the samples.
     }
     \item{\code{annotation}}{A character string identifying the
-      annotation that may be used for the \code{ExpressionSet}
+      annotation that may be used for the \code{qPCRBatch}
       instance.
     }
     \item{\code{protocolData}:}{Object of class \code{AnnotatedDataFrame}
@@ -74,7 +78,7 @@
   normalisation of RT-qPCR quantification cycle (Cq) data. 
   \emph{BMC Genomics}, \bold{13}, 1:296.
 }
-\author{James Perkins}
+\author{James Perkins \email{j.perkins@ucl.ac.uk}}
 
 
 \keyword{classes}

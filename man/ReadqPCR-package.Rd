@@ -10,19 +10,22 @@ The package provides functions to read raw RT-qPCR data of different platforms.
 \tabular{ll}{
 Package: \tab ReadqPCR\cr
 Type: \tab Package\cr
-Version: \tab 1.3.2\cr
-Date: \tab 2012-09-08\cr
-Depends: \tab R(>= 2.14.0), Biobase, ReadqPCR, methods, RColorBrewer\cr
+Version: \tab 1.5.3\cr
+Date: \tab 2013-03-23\cr
+Depends: \tab R(>= 2.14.0), Biobase, methods, affy\cr
+Imports: \tab Biobase\cr
+Suggests: \tab qpcR\cr
 License: \tab LGPL-3\cr
 LazyLoad: \tab yes\cr
 }
 library(ReadqPCR)
 }
 \author{
-James Perkins <jperkins@biochem.ucl.ac.uk>\cr
-Matthias Kohl <Matthias.Kohl@stamats.de>
+James Perkins <j.perkins@ucl.ac.uk>\cr
+Matthias Kohl <Matthias.Kohl@stamats.de>\cr
+Nor Izayu Abdul Rahman
 
-Maintainer: James Perkins <jperkins@biochem.ucl.ac.uk>
+Maintainer: James Perkins <j.perkins@ucl.ac.uk>
 }
 \references{
   Perkins, JR, Dawes, JM, McMahon, SB, Bennett, DL, Orengo, C, Kohl, M (2012). 

@@ -1,5 +1,3 @@
-export(read.taqman, read.qPCR, checkValidTaqmanFilenames, checkValidqPCRFilename, exprs.well.order, "exprs.well.order<-")
-exportClasses(qPCRBatch)
 importClassesFrom(Biobase,
                   AnnotatedDataFrame,
                   AssayData,
@@ -13,3 +11,10 @@ importFrom("Biobase", "exprs")
 importFrom("Biobase", "exprs<-")
 importFrom("Biobase", "se.exprs")
 importFrom("Biobase", "se.exprs<-")
+
+exportClasses(qPCRBatch, CyclesSet)
+
+exportMethods(merge)
+
+export(read.taqman, read.qPCR, checkValidTaqmanFilenames, checkValidqPCRFilename, 
+       exprs.well.order, "exprs.well.order<-", read.LC480, read.LC480SampleInfo, qpcR2CyclesSet)
