@@ -21,11 +21,11 @@ LazyLoad: \tab yes\cr
 library(ReadqPCR)
 }
 \author{
-James Perkins <j.perkins@ucl.ac.uk>\cr
+James Perkins <jimrperkins@gmail.com>\cr
 Matthias Kohl <Matthias.Kohl@stamats.de>\cr
 Nor Izayu Abdul Rahman
 
-Maintainer: James Perkins <j.perkins@ucl.ac.uk>
+Maintainer: James Perkins <jimrperkins@gmail.com>
 }
 \references{
   Perkins, JR, Dawes, JM, McMahon, SB, Bennett, DL, Orengo, C, Kohl, M (2012). 
