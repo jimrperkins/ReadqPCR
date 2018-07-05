@@ -37,7 +37,7 @@ pagecolor=darkblue,raiselinks,plainpages,pdftex]{hyperref}
 \title{ReadqPCR: Functions to load RT-qPCR data into R}
 %-------------------------------------------------------------------------------
 \author{James Perkins\\
-University College London\medskip\\
+University of Malaga\medskip\\
 Matthias Kohl\\
 Furtwangen University\medskip\\
 }
