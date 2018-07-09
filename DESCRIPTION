@@ -1,12 +1,12 @@
 Package: ReadqPCR
-Version: 1.27.1
-Date: 2018-07-05
+Version: 1.27.2
+Date: 2018-07-09
 Title: Read qPCR data
 Description: The package provides functions to read raw RT-qPCR data of different platforms.
 Author: James Perkins, Matthias Kohl, Nor Izayu Abdul Rahman
 Maintainer: James Perkins <jimrperkins@gmail.com>
-Depends: R(>= 2.14.0), Biobase, methods, affy
-Imports: Biobase
+Depends: R(>= 2.14.0), Biobase, methods
+Imports:
 Suggests: qpcR
 biocViews: DataImport, MicrotitrePlateAssay, GeneExpression, qPCR
 License: LGPL-3
