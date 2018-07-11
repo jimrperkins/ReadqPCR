@@ -40,7 +40,7 @@ read.qPCR(filename = character(0),
 \author{ James Perkins \email{jimrperkins@gmail.com} }
 %\note{
 %}
-\seealso{ \code{\link[Biobase]{ExpressionSet-class}} }
+\seealso{ \code{ExpressionSet-class} }
 \examples{
   path <- system.file("exData", package = "ReadqPCR")
   qPCR.example <- file.path(path, "qPCR.example.txt")

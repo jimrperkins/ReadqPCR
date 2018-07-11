@@ -43,7 +43,7 @@ package vignette
 \author{ James Perkins \email{jimrperkins@gmail.com} }
 %\note{
 %}
-\seealso{ \code{\link[Biobase]{ExpressionSet-class}} }
+\seealso{ \code{ExpressionSet-class} }
 \examples{
   path <- system.file("exData", package = "ReadqPCR")
   # read 1 file
