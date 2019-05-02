@@ -1,5 +1,5 @@
 Package: ReadqPCR
-Version: 1.30.0
+Version: 1.31.0
 Date: 2018-07-09
 Title: Read qPCR data
 Description: The package provides functions to read raw RT-qPCR data of different platforms.
