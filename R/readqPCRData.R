@@ -183,7 +183,7 @@ read.qPCR <- function(filename = character(0), phenoData = new("AnnotatedDataFra
 .read.qPCR <- function(filename, verbose)
 {
     noWellData <- FALSE
-    raw.data <- read.table(filename, header=TRUE)
+    raw.data <- read.table(filename, header=TRUE, stringsAsFactors=TRUE)
     if(is.null(raw.data$Well) || is.null(raw.data$PlateID)) {
          noWellData <- TRUE
          if (verbose) message("No Well and/or Plate info found, skipping this part", "\n")
